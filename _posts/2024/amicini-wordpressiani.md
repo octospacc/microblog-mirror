@@ -24,6 +24,7 @@ tags:
   - WordPress
 categories:
   - Senza categoria
+date: 2024-02-11 23:24:21
 ---
 <!-- wp:paragraph -->
 <p>In procinto di provare una cosa estremamente #interessante: il #plugin <a href="https://wordpress.org/plugins/friends/">Friends per WordPress</a>. A quanto pare, nasce molti anni fa con l'idea d'uso di un #blog come parte in una generica rete #social #decentralizzata, ma le implicazioni pratiche allo stato attuale sono... wow. 🤯️</p>

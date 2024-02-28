@@ -26,6 +26,7 @@ tags:
   - USB
 categories:
   - Senza categoria
+date: 2024-01-04 23:38:11
 ---
 <!-- wp:paragraph -->
 <p>Stavo pensando: da ora che ho la tastiera più piccolina per il #PC, e mi sa che mi trovo parecchio meglio ad usare lo #smartphone come #touchpad (per certi versi più comodo del #mouse normale per me) rispetto a quando avevo quella grossa, potrei quasi quasi comprarlo un touchpad #USB... 😁️</p>

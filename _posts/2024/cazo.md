@@ -31,6 +31,7 @@ tags:
   - tedioso
 categories:
   - Senza categoria
+date: 2024-02-10 19:42:13
 ---
 <!-- wp:paragraph -->
 <p>Una apparente #maledizione si è appena abbattuta su di me oggi: non riesco a far funzionare un #programma C!!! 😭️</p>

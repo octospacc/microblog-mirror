@@ -15,6 +15,7 @@ tags:
   - mese
 categories:
   - Senza categoria
+date: 2024-01-28 11:06:45
 ---
 <!-- wp:paragraph -->
 <p>Avevo notato per strada un marciapiede particolarmente sporco di coriandoli, e mi è parso strano perché mi è sembrato presto... poi ho cercato, e mi accorgo di aver erroneamente pensato che quest'anno #carnevale fosse tardi come lo scorso, invece sarà il 13 #febbraio. 🤡</p>

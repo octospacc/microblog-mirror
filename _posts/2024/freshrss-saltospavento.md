@@ -25,6 +25,7 @@ tags:
   - software
 categories:
   - Senza categoria
+date: 2024-01-27 12:28:58
 ---
 <!-- wp:paragraph -->
 <p>Stamattina mi è venuto un colpo quando ho notato che il mio #FreshRSS non ha accumulato nessun nuovo elemento da ieri sera... cosa che ovviamente è sintomo di un problema, perché ho quasi 700 fonti #RSS, di cui alcuni che normalmente non stanno mai in silenzio. 😩️</p>

@@ -17,6 +17,7 @@ tags:
   - YouTube
 categories:
   - Senza categoria
+date: 2024-01-07 16:36:02
 ---
 <!-- wp:paragraph -->
 <p>Un #mistero dei tempi moderni è che, almeno su #Firefox desktop (non so altri #browser), una roba come 1 volta su ~100-150, #uBlockOrigin fallisce su #YouTube aprendo una nuova scheda, e il sito riesce a caricare la #pubblicità prima del video... ricaricando la pagina subito si risolve, però boh, è strano, fa pensare. Il #software di oggi non funziona mai in modo stabile.</p>

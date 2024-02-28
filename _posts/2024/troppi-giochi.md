@@ -24,6 +24,7 @@ tags:
   - videogiochi
 categories:
   - Senza categoria
+date: 2024-01-20 23:59:00
 ---
 <!-- wp:paragraph -->
 <p>Avevo tipo un botto di #giochi tecnicamente in arretrato sulla #SalaMuseoGames, dalle ultime 3 #settimane... dato che dovevo metterli prima o poi, e oggi non avevo nulla di particolarmente migliore da fare, l'ho fatto e ho finito un attimo fa. Che #noia, è un lavoro cinese praticamente. Oh well. 😷️</p>

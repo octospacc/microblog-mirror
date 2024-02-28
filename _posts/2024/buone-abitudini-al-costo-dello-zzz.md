@@ -41,6 +41,7 @@ tags:
   - vacanze
 categories:
   - Senza categoria
+date: 2024-01-26 17:05:35
 ---
 <!-- wp:paragraph -->
 <p>L'altro ieri <a href="https://octospacc.altervista.org/2024/01/24/la-maledizione-dello-slitiolicio/">ho accennato che il mio #Kindle è stato per mesi a prendere polvere</a> infinita, per motivi tanto complicati quanto l'essenza della mia esistenza: 💨️</p>

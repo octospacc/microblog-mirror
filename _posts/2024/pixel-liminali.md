@@ -25,6 +25,7 @@ tags:
   - strana
 categories:
   - Senza categoria
+date: 2024-02-16 22:54:25
 ---
 <!-- wp:paragraph -->
 <p>Negli ultimi giorni ho riflettuto, mi sono tornate in mente, cose e #idee relative alla #fotografia con quei #mezzi limitati che fino al decennio passato erano la norma. La fotografia dilettantistica su #NintendoDSi e 3DS è tutta un'altra cosa, rispetto a dove siamo arrivati con i moderni smartphone. Molti punti a sfavore, ma anche punti positivi non poco intriganti. 🫣</p>

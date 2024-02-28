@@ -20,6 +20,7 @@ tags:
   - vestito
 categories:
   - Senza categoria
+date: 2024-01-20 15:59:53
 ---
 <!-- wp:video {"id":1181} -->
 <figure class="wp-block-video"><video controls src="https://octospacc.altervista.org/wp-content/uploads/2024/01/VID_20240120_155352.mp4"></video></figure>

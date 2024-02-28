@@ -24,6 +24,7 @@ tags:
   - WordPress
 categories:
   - Senza categoria
+date: 2024-01-22 19:57:21
 ---
 <!-- wp:paragraph -->
 <p>Quando stavo componendo il post di prima, sembrava tutto ok, eccetto che cliccando sull' #immagine allegata (perfettamente visibile) nella schermata di composizione, non riuscivo a vederla a schermo intero, e invece appariva un dialogo che diceva (tipo) che il file non era stato caricato correttamente... e cliccare "riprova" non risolveva nulla... 🤐</p>

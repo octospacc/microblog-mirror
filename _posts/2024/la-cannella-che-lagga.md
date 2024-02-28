@@ -26,6 +26,7 @@ tags:
   - video
 categories:
   - Senza categoria
+date: 2024-01-28 11:56:37
 ---
 <!-- wp:paragraph -->
 <p>Ora vi mostro una cosa #allucinante, cioè che il selettore di file di #Cinnamon è #spaccato: se si seleziona un #file o una cartella, ma nel frattempo si continua a scorrere, ciò che verrà registrato sarà l'elemento su cui il cursore di selezione sarà posizionato nell'ultimo momento in cui l'applet elabora i suoi vattelappesca; non, come invece dovrebbe essere, l'elemento su cui si era nell'istante in cui si è premuto Invio. (A parte il fatto che nessun ritardo sarebbe giustificabile, considerando che oggi abbiamo hardware che, relativamente alla storia di tutto l'home computing, è stellare.) Guardate il #video (rallentatelo dal vostro browser però magari) e notate come io premo Enter, ma poi scorro ancora, e finisce puntualmente male ogni volta, #mannaggia ai #bug. 🪲️</p>

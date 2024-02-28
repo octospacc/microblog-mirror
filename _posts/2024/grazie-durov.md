@@ -28,6 +28,7 @@ tags:
   - vittime
 categories:
   - Senza categoria
+date: 2024-01-18 10:33:26
 ---
 <!-- wp:paragraph -->
 <p>Ieri sera è successa una roba estremamente #inaspettata: come 3-4 settimane fa il supremo #algoritmo di Telegram ha deciso di darmi un #ban dal nulla, ieri sera a caso il mio profilo #utente è tornato dalla tomba di "Account eliminato", ed il numero di #telefono risulta #sbannato, e ho potuto fare #login. Non so come sia possibile, tra le altre cose, che diverse persone su gruppi diversi lo abbiano notato quasi insieme, ma tant'è. 🤯</p>

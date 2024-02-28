@@ -32,6 +32,7 @@ tags:
   - video
 categories:
   - Senza categoria
+date: 2024-02-01 13:26:47
 ---
 <!-- wp:paragraph -->
 <p>Tra i giorni passati fino a ieri, ho fatto delle robine #sperimentali su #MBViewer, era questo che dovevo #scrivere... La prima è stata, più che altro perché mi serviva effettivamente da tempo una piccola #app in grado di fare questa cosa, implementare la lettura del formato di esportazione chat in #JSON di #Telegram. Infatti, le #conversazioni da lì possono essere esportate anche in JSON per usi di manipolazione dati futuri, oltre che HTML per consultazione immediata; però, appunto non c'è ufficialmente un modo per leggere una #chat esportata in quel #formato macchina, e la conversione in HTML statico dopo sarebbe facile ma bruttina: avere un lettore con un'interfaccia a bolle classica so già che può tornarmi utile, perché ho qualche dump non-HTML da parte. 📦️</p>

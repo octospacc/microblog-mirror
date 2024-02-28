@@ -44,6 +44,7 @@ tags:
   - visualizzazione
 categories:
   - Senza categoria
+date: 2024-01-22 00:59:00
 ---
 <!-- wp:paragraph -->
 <p>Questi #grafici hanno fatto un #danno: una cosa che prima mi dava #fastidio perché la conoscevo e basta, ora la vedo anche e quindi la mia #mente non prende proprio più pace. ☺️</p>

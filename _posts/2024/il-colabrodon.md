@@ -15,6 +15,7 @@ tags:
   - software
 categories:
   - Senza categoria
+date: 2024-02-16 16:04:25
 ---
 <!-- wp:image {"id":2095,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
 <figure class="wp-block-image aligncenter size-full"><img src="https://octospacc.altervista.org/wp-content/uploads/2024/02/image-11.png" alt="Mio messaggio, &quot;Mastodon per gli amici Colabrodon&quot;" class="wp-image-2095"/></figure>

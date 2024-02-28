@@ -42,6 +42,7 @@ tags:
   - versione
 categories:
   - Senza categoria
+date: 2024-02-04 23:36:23
 ---
 <!-- wp:paragraph -->
 <p>Altri #problemi di #PlayStationPortable, ma in questo caso non colpa di #Sony: avevo visto (con rabbia e disperazione) che i #core Nestopia-UE e #QuickNES per #RetroArch (e questo punto chissà quanti altri!) facevano piantare per qualche secondo la #console, che poi si spegneva con un <em>pop</em>. A questo punto decido di vedere se anche su #PPSSPP... e si, succede la stessa cosa, quindi non è colpa del mio hardware. 🤯️</p>

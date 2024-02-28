@@ -22,6 +22,7 @@ tags:
   - web
 categories:
   - Senza categoria
+date: 2024-02-06 00:58:48
 ---
 <!-- wp:paragraph -->
 <p>Presa dai mezzi impegni oggi ho dimenticato di postare questo... in pratica, volevo capire come mai reCAPTCHA sul mio #sito non caricasse dal #browser del #3DS, quindi ho dovuto avviare i #DevTools (che ovviamente sono da usare su un computer companion, non appaiono sulla #console). Ovviamente non ho risolto un bel nulla di quel problema, ma bando alle ciance ora. 🥽</p>

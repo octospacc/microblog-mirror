@@ -15,6 +15,7 @@ tags:
   - sveglia
 categories:
   - Senza categoria
+date: 2024-02-14 11:00:57
 ---
 <!-- wp:paragraph -->
 <p>Credo che il fatto del #letto che mi trattiene come una trappola di #colla sia peggiorato, e ora è diventato mi sa addirittura una #maledizione, che agisce contro ogni logica. Nelle ultime mattinate o sento subito la #sveglia, e mi da subìto fastidio, e mi alzo subito, o letteralmente non sento niente, né lo Ximi sulla scrivania e né il Huawi che tengo tra la rete del letto e il materasso, nonostante suonino per minuti e minuti. 👺</p>

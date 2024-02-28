@@ -39,6 +39,7 @@ tags:
   - WordPress
 categories:
   - Senza categoria
+date: 2024-02-05 22:07:51
 ---
 <!-- wp:paragraph -->
 <p>Ho realizzato che prima mi trovavo a voler lowkey #postare, al volissimo dal #3DS, una #schermata del #gioco che stavo usando in quel momento... ma come? 😵‍💫</p>

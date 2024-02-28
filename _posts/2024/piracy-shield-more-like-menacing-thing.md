@@ -32,6 +32,7 @@ tags:
   - storia
 categories:
   - Senza categoria
+date: 2024-02-15 17:28:30
 ---
 <!-- wp:paragraph -->
 <p>Alcuni dicono che la #stupidità è molto più pericolosa della cattiveria... e in effetti, più passa il tempo, e più anche il nostro governo ce ne da dimostrazione. Per chi non ha più seguito la #storia dopo <a href="https://sitoctt.octt.eu.org/Posts/2023-04-16-Che-Impatto-Nuova-Legge-Anti-Pirateria-Italiana.html">i periodi dell'allarme</a>, in pratica qualche settimana fa è stato ufficialmente messo in funzione quel sistema ora detto #PiracyShield. Il #problema? Che, in maniera addirittura peggiore rispetto a quanto previsto da me ed altri, stanno già uscendo #rogne su #Internet; per farla breve, stanno venendo bloccati #siti che con la #pirateria non centrano una mazza, per #menefreghismo da parte degli enti coinvolti. E siamo solo all'inizio! #Danni e ancora danni, alle persone reali e alla #libertà su Internet, solo questo vedo nel futuro. "<a href="https://dday.it/redazione/48464/piracy-shield-sta-censurando-siti-che-non-hanno-nulla-a-che-fare-con-la-pirateria-ed-e-un-problema-serio">Massì, blocchiamo una piccola #CDN, usata al 99.99% per scopi legittimi, perché lo 0.01% del suo traffico è #pirata!</a>". 🤡️</p>

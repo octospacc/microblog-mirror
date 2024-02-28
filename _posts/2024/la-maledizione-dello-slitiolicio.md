@@ -34,6 +34,7 @@ tags:
   - Ximi
 categories:
   - Senza categoria
+date: 2024-01-24 19:44:19
 ---
 <!-- wp:paragraph -->
 <p>Ultimamente percepisco succedermi cose #strane, insolite, fastidiose, o comunque #inaspettate con fin troppi dei miei #dispositivi a #batterie:</p>

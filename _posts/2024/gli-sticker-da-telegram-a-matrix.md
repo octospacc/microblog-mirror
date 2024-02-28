@@ -38,6 +38,7 @@ tags:
   - webapp
 categories:
   - Senza categoria
+date: 2024-01-08 22:33:29
 ---
 <!-- wp:paragraph -->
 <p>Da quando abbiamo dovuto spostare la #comunità #Spacc sulla #messaggistica #Matrix necessariamente dopo il ban di #Durov, gli sticker #cringe da usare in #chat sono mancati troppo. Per questo una #settimana fa ho iniziato a #sviluppare #MatrixStickerHelper, una #webapp (tutta #ClientSide) che permette di gestire facilmente e in maniera più automatizzata possibile la propria collezione di pacchetti, per i client della #piattaforma che li supportano tramite le #integrazioni. 🚀️</p>

@@ -30,6 +30,7 @@ tags:
   - WordPress
 categories:
   - Senza categoria
+date: 2024-01-13 21:45:24
 ---
 <!-- wp:paragraph -->
 <p>#Distrazione della giornata: ho preso in prestito il #codice #ClientSide che fa funzionare <a href="https://t.me">t.me</a>, e l'ho riadattato per gestire #blog #WordPress in questa classica #visualizzazione "a #canale", o più in generale "a bolle di #messaggio" (da cui uno dei significati del nome, #MBViewer)! 👁️‍🗨️</p>

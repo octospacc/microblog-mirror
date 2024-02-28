@@ -18,6 +18,7 @@ tags:
   - stupida
 categories:
   - Senza categoria
+date: 2024-02-12 18:02:10
 ---
 <!-- wp:paragraph -->
 <p>Questa cosa è #stupida, ma mi fa morire e non riesco a levarmela dalla testa, quindi ora devo farla diventare un problema anche vostro: appena l'altro giorno ho scoperto di questa roba di ben 8 anni fa chiamata #BitConnect, una <em>cryptobroata</em> di investimento che si è poi rivelata uno #schemaPonzi (lol). Il punto è che è un #meme terrificante, perché quando ci fu una cerimonia ufficiale per gli #investitori, c'è n'è stato uno sul palco che cantava e urlava preso da una gioia incontrollata, chissà se finta o genuina, però ecco, insomma, non è una scena da tutti i giorni. Ci hanno fatto dei #remix che io non. 🥴️</p>

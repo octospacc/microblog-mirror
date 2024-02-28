@@ -22,6 +22,7 @@ tags:
   - YouTube
 categories:
   - Senza categoria
+date: 2024-02-13 12:34:05
 ---
 <!-- wp:paragraph -->
 <p>Credo che #YouTube voglia farmi #impazzire del tutto... la #webapp desktop è veramente terribile, i #bug non finiscono, le #inconsistenze sono innumerevoli, i #problemi inquantificabili!!! ☹️</p>

@@ -22,6 +22,7 @@ tags:
   - webapp
 categories:
   - Senza categoria
+date: 2024-01-03 22:36:40
 ---
 <!-- wp:paragraph -->
 <p>Dopo qualche giornata di lavoro, finalmente rendo disponibile la mia #webapp per gestire gli #sticker su #Matrix, #MatrixStickerHelper. È purtroppo un po' complessa e quindi fino ad ora ho fatto giusto il minimo sindacale che mi permette di rilasciarla, e spero di continuare man mano ad aggiungere le funzioni importanti. 🙏️</p>

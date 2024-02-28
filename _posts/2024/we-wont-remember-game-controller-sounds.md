@@ -26,6 +26,7 @@ tags:
   - videogioco
 categories:
   - Senza categoria
+date: 2024-01-14 19:11:15
 ---
 <!-- wp:embed {"url":"https://www.youtube.com/watch?v=EjYaE577770","providerNameSlug":"youtube","responsive":true} -->
 <figure class="wp-block-embed is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">

@@ -18,6 +18,7 @@ tags:
   - WildWorld
 categories:
   - Senza categoria
+date: 2024-01-15 01:46:12
 ---
 <!-- wp:paragraph -->
 <p>Avevo lasciato il #gioco di #ACWW sul #DS da parte lì perché stavo facendo altre cose, e poco fa che lo riprendo per spegnerlo scopro questa cosa... 🤖</p>

@@ -17,6 +17,7 @@ tags:
   - pacchi
 categories:
   - Senza categoria
+date: 2024-01-18 19:04:42
 ---
 <!-- wp:image {"id":1151,"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><img src="https://octospacc.altervista.org/wp-content/uploads/2024/01/screenshot_20240118-1857363893319954915587009-960x808.png" alt="" class="wp-image-1151"/><figcaption class="wp-element-caption"><a href="https://www.youtube.com/watch?v=4vjzW8q2-TE">https://www.youtube.com/watch?v=4vjzW8q2-TE</a></figcaption></figure>

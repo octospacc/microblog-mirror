@@ -13,6 +13,7 @@ tags:
   - PC
 categories:
   - Senza categoria
+date: 2024-01-03 15:33:03
 ---
 <!-- wp:paragraph -->
 <p>#Cinnamon saltospavento, torno al #PC dopo averlo lasciato un attimo e trovo lo sfondo della schermata di blocco corrotto così:</p>

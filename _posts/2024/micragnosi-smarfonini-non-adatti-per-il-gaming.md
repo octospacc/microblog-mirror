@@ -42,6 +42,7 @@ tags:
   - Xiaomi
 categories:
   - Senza categoria
+date: 2024-01-08 02:13:59
 ---
 <!-- wp:paragraph -->
 <p>Un #pensiero #triste prima di andare nel mio lettino a fare la cosina solita, riguardo una cosa che non avevo mai notato ma che, scoprendo ora, mi fa dire #mannaggia... 🌚️</p>

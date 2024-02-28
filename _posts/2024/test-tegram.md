@@ -35,6 +35,7 @@ tags:
   - test
 categories:
   - Senza categoria
+date: 2024-01-09 19:07:27
 ---
 <!-- wp:paragraph -->
 <p>Diversi anni fa testai, con scarsi risultati, <a href="https://nebula.chat">https://nebula.chat</a>, una #reimplementazione #OpenSource del #server di Telegram, perché ne scoprii l'esistenza ed era #intrigante come concetto. A quanto pare ha cambiato nome, ora si chiama #Teamgram, l'ho scoperto qualche ora fa quando mi è tornato in mente questo fatto e ho voluto ritestare il #progetto. 💍</p>

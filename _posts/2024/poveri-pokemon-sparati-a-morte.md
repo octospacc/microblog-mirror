@@ -47,6 +47,7 @@ tags:
   - videogioco
 categories:
   - Senza categoria
+date: 2024-01-27 01:14:09
 ---
 <!-- wp:paragraph -->
 <p>Ahhh, i #gamer, brutta razza. I #videogiocatori, che cosa #terribile. Ecco, ora, se non avete scrollato oltre dal disgusto al solo leggere queste parole, posso andare al dunque. 😈️</p>

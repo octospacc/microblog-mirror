@@ -44,6 +44,7 @@ tags:
   - YPbPr
 categories:
   - Senza categoria
+date: 2024-01-31 16:23:20
 ---
 <!-- wp:paragraph -->
 <p>Comunque non ho detto i #pacchetti che ieri finalmente sono arrivati dalla #Cina con furore. Non Temu #haul, bensì #AliExpress haul; tutta #roba che mi serviva da tempo, comunque.</p>

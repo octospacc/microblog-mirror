@@ -37,6 +37,7 @@ tags:
   - UI
 categories:
   - Senza categoria
+date: 2024-01-12 18:03:06
 ---
 <!-- wp:paragraph -->
 <p>Prima che #Durov commettesse quel gran bel po' di trolling, seguivo alcuni #canali #MicroBlog di varia #gente su #Telegram... 🪵</p>

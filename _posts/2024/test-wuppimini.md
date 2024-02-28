@@ -11,6 +11,7 @@ published: true
 tags: [ ]
 categories:
   - Senza categoria
+date: 2024-02-09 18:55:34
 ---
 <!-- wp:paragraph -->
 <p>Se tutto funziona a modino, questo #post è stato interamente composto e pubblicato dal #Nintendo3DS, con #WuppìMini. Non dico altro, #scrivere col pennino è una tortura. <br/>http://wuppimini.octt.eu.org/</p>

@@ -17,6 +17,7 @@ tags:
   - storia
 categories:
   - Senza categoria
+date: 2024-02-13 19:09:57
 ---
 <!-- wp:paragraph -->
 <p>Ah, nuova scoperta: ecco un altro (piccolissimo, ma comunque inestimabile) pezzo di nintendica #storia, non solo ricreato dalla #comunità secondo le benedettissime logiche del #software libero e #OpenSource, ma a sto giro direi anche molto reinterpretato e capace di introdurre nuovi dettagli (ma comunque senza snaturare troppo l'originale #Nintendo)... 🤯️</p>

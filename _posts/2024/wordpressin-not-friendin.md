@@ -27,6 +27,7 @@ tags:
   - software
 categories:
   - Senza categoria
+date: 2024-02-12 12:32:05
 ---
 <!-- wp:paragraph -->
 <p>[sc name=quote-embed-post]2024/02/11/amicini-wordpressiani/[/sc]</p>

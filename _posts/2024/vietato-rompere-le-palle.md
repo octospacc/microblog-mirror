@@ -16,6 +16,7 @@ tags:
   - supposizioni
 categories:
   - Senza categoria
+date: 2024-02-01 11:03:19
 ---
 <!-- wp:paragraph -->
 <p>Ieri tardi stavo finendo una roba, e dal niente esce mio padre a #rompere il cazzo perché non sto ancora dormendo...?! Non ho idea di come sia fisicamente possibile... in un altro caso avrei pensato di star facendo tanto rumore da disturbare, ma ormai escludo questa ipotesi, perché è più di 1 mese che ho la tastiera nuova e non sono mai uscite fuori rotture di scatole prima di ieri. #Mannaggia! 😩️</p>

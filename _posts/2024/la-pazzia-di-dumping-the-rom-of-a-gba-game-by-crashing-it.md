@@ -38,6 +38,7 @@ tags:
   - video
 categories:
   - Senza categoria
+date: 2024-01-20 00:53:23
 ---
 <!-- wp:embed {"url":"https://www.youtube.com/watch?v=0-7PSmYYHF0","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">

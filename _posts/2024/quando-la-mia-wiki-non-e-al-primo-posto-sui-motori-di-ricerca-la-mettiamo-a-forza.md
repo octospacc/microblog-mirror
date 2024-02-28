@@ -74,6 +74,7 @@ tags:
   - wiki
 categories:
   - Senza categoria
+date: 2024-01-29 22:14:13
 ---
 <!-- wp:paragraph -->
 <p>Ieri, cercando della roba riguardo #TiddlyWiki (che non ho trovato e ho dovuto fare io quindi, comunque), ho per sbaglio trovato quest'altra cosina... (con questo #software è praticamente sempre così, onestamente, le cose più ganze si trovano sempre per caso, la #community è #pazza). 😏</p>

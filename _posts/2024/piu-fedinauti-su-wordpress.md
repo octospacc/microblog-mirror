@@ -26,6 +26,7 @@ tags:
   - WordPress
 categories:
   - Senza categoria
+date: 2024-01-05 17:26:12
 ---
 <!-- wp:paragraph -->
 <p>Quello che sta iniziando a succedere proprio in questi giorni è che qualche perzoncina in più sta notando come funziona bene ad oggi la mia trovata del #WordPress #federato (o meglio, come funziona bene ad oggi il #plugin #ActivityPub che non ho scritto io, lmao), e sta installando il plugin sui propri #blog... ❤️‍🔥</p>

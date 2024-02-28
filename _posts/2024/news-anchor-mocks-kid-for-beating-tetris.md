@@ -20,6 +20,7 @@ tags:
   - TIL
 categories:
   - Senza categoria
+date: 2024-01-06 02:02:08
 ---
 <!-- wp:embed {"url":"https://www.youtube.com/watch?v=-WuEd3diKjo","providerNameSlug":"youtube","responsive":true} -->
 <figure class="wp-block-embed is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">

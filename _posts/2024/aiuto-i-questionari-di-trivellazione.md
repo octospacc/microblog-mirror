@@ -15,6 +15,7 @@ tags:
   - odio
 categories:
   - Senza categoria
+date: 2024-01-06 17:51:45
 ---
 <!-- wp:paragraph -->
 <p>Questi dell'#università sono pazzi in culo, per poter prenotare gli #esami bisogna prima completare i "#questionari di valutazione della #didattica"... capisco il senso, ma allo stesso tempo sono tipo "???" Cioè, io già vi pago centinaia e centinaia di euro, e voi mi obbligate a fare i lavori cinesi? La merda è diventata reale. ☠️</p>

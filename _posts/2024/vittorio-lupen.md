@@ -28,6 +28,7 @@ tags:
   - stratosferico
 categories:
   - Senza categoria
+date: 2024-01-09 20:25:54
 ---
 <!-- wp:paragraph -->
 <p>La #realtà è sempre peggio dei film... quindi, si scopre che #Sgarbi è #indagato per #furto di beni culturali. Beh, il vero amore per l'#arte va oltre i limiti imposti dalla #legge... ci può stare, suppongo. Dai dai, facciamogliela passare! 😁</p>

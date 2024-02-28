@@ -26,6 +26,7 @@ tags:
   - viola
 categories:
   - Senza categoria
+date: 2024-01-07 18:35:34
 ---
 <!-- wp:paragraph -->
 <p>Ieri a caso è arrivata questa #lampada come #regalo di #epifania, così si aggiungono altre #luci #RGB alla mia caverna: "#Legami Home Sweet Home n°55". (Posto oggi per colpa dei demoni o boh.) 💡</p>

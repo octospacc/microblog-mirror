@@ -12,6 +12,7 @@ published: true
 tags: [ ]
 categories:
   - Senza categoria
+date: 2023-12-22 23:47:51
 ---
 <!-- wp:video {"id":767} -->
 <figure class="wp-block-video"><video controls src="https://octospacc.altervista.org/wp-content/uploads/2023/12/reddit_76ktvnd68g7c1.mp4"></video><figcaption class="wp-element-caption"><a href="https://t.me/shitposthumanism/990">https://t.me/shitposthumanism/990</a></figcaption></figure>

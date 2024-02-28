@@ -1,4 +1,4 @@
-Personal MicroBlog mirror repository. Uses a modification of the Yinshui template for Jekyll, all credits for the original go to <https://github.com/mynux/yinshui>.
+Personal MicroBlog mirror repository. Uses a fork of the Yinshui template for Jekyll, all credits for the original go to <https://github.com/mynux/yinshui>.
 
 * Original MicroBlog website (WordPress): <https://octospacc.altervista.org/microblog/>
 * This mirror's website: <https://octospacc.github.io/microblog-mirror/>

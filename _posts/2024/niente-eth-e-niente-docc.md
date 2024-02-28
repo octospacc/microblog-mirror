@@ -20,6 +20,7 @@ tags:
   - spacc
 categories:
   - Senza categoria
+date: 2024-02-02 01:42:32
 ---
 <!-- wp:paragraph -->
 <p>Per stavolta vi risparmio i preamboli, magari approfondirò a parte, ma in pratica mi sto avviando per davvero per la moneta #Spacc, per fare la mia rete personale basata su #Ethereum in modalità #ProofOfStake, con blackjack e squillo di lusso. (Creare un token $SPACC su reti normali, ahimè, costa troppo). #Problema: è un #casino. 😭</p>

@@ -43,6 +43,7 @@ tags:
   - webapp
 categories:
   - Senza categoria
+date: 2024-02-07 17:28:50
 ---
 <!-- wp:paragraph -->
 <p>Colpo di #genio estremamente radicale per risolvere un annoso #problema: il creare una data #webapp, che non abbia bisogno di grande interattibilità (vedi un social network, o un CMS), senza dover mantenere 2 #codebase separate e quindi impazzire, facendola funzionare sia con un #server che totalmente senza... ossia, come unire in una sintesi circa accettabile i due maggiori paradigmi del #frontend? 🤔️</p>

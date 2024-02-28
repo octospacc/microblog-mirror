@@ -47,6 +47,7 @@ tags:
   - WordPress
 categories:
   - Senza categoria
+date: 2024-01-16 23:29:41
 ---
 <!-- wp:paragraph -->
 <p>Ecco un'altra #idea per il #MicroBlog che ebbi da subito, ma che non avevo avuto modo di #realizzare: #collezioni di #dati riguardanti il #sito stesso, visualizzati in maniera #interessante; #grafici colorati e non, in poche parole. 😳️</p>

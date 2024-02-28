@@ -13,6 +13,7 @@ tags:
   - studio
 categories:
   - Senza categoria
+date: 2024-01-14 10:54:25
 ---
 <!-- wp:paragraph -->
 <p>Assolutamente non io/me/this che mi ricordo appena ieri notte (!) che forse dovrei ripetere ancora per un #esame che è ormai tra 2 giorni (!!!)... poi però mi ricordo che sto tendendo a rimandare la conclusione della cosa non tanto per vizio, ma perché (in questo caso specifico) il materiale di #studio fa schifo. <em>Se tutto va bene, siamo rovinati.</em> 🤗</p>

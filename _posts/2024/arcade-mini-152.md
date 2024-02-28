@@ -29,6 +29,7 @@ tags:
   - videogiochi
 categories:
   - Senza categoria
+date: 2024-01-07 20:15:59
 ---
 <!-- wp:paragraph -->
 <p>Altro #oggettino della #befana, questo #ArcadeMini (sempre #Legami, lol), che sarebbe una #consolina con giochi stile #arcade. Curiosità, anche se questo ha un #branding specifico, online si trovano da distributori generici cercando roba come "mini arcade 152", con esattamente gli stessi #giochi. Ahimè, sono sempre giochi generici originali (né su licenza né rubati, quindi la qualità è bassina), e moltissimi del totale sono semplicemente reskin messe sotto un nome diverso per gonfiare il conto dei titoli. Ma qualcosa di decente c'è. 🙏</p>

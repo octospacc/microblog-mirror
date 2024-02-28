@@ -41,6 +41,7 @@ tags:
   - WordPress
 categories:
   - Senza categoria
+date: 2024-02-09 12:12:37
 ---
 <!-- wp:paragraph -->
 <p>La dualità del fixare #bug (o, in generale, far funzionare il #software?):</p>

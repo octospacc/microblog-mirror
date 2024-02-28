@@ -29,6 +29,7 @@ tags:
   - testo
 categories:
   - Senza categoria
+date: 2024-02-06 18:57:27
 ---
 <!-- wp:paragraph -->
 <p>Giusto un #pensiero, che mi è venuto mentre ieri sera mi stavo addormentando, e che avrei perso credo per sempre se proprio ora non mi fosse tornato alla mente: la #parola "<em>password</em>" ha il potenziale latente di essere un #ossimoro. 🗿</p>

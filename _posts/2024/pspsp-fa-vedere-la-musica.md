@@ -28,6 +28,7 @@ tags:
   - XMB
 categories:
   - Senza categoria
+date: 2024-02-03 00:15:56
 ---
 <!-- wp:paragraph -->
 <p>Stavo cercando di scaricare dei file per la #PSP (per via di una questione complicata, che quindi spinoffo in un altro post), e giustamente a un certo punto salta la linea Internet... #mannaggia, per qualche giorno non lo ha fatto, ma oggi siamo a 2 volte già. E quindi nel frattempo non posso continuare a lavorare, il video che guardavo si stoppa, e allora stavo per aprire un altro giochino, ma per sbaglio clicco la sezione #Musica della #XMB... e scopro che ho una decina di #MP3 vecchi sulla mia Memory Stick. 1 #canzone normale, 1 royalty-free, 1 che credo sia una OST, e tutto il resto meme morti o mai vissuti, con una buona dose di cringe. Ma, noto e ricordo una bellissima cosa: i visualizzatori del #riproduttore #musicale di sistema. 😍️</p>

@@ -19,6 +19,7 @@ tags:
   - wtf
 categories:
   - Senza categoria
+date: 2024-01-14 20:54:52
 ---
 <!-- wp:paragraph -->
 <p>#Verbalase ha speso #50K per questa #animazione discutibile (di #HazbinHotel, #wtf) e a quanto dicono è andato in bancarotta 💀️</p>

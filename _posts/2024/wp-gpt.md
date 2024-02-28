@@ -23,6 +23,7 @@ tags:
   - WordPress
 categories:
   - Senza categoria
+date: 2024-02-08 10:42:44
 ---
 <!-- wp:paragraph -->
 <p>Fino ad ora ho apportato vari piccoli #miglioramenti al #sito del #MicroBlog con vari metodi, nessuno che includa anche il creare veri #plugin. Troppa sbatta perché si devono imparare tutte le API, ecc... Però, che posso fare quando sembra proprio che l'unica soluzione elegante per estendere le funzionalità di #WordPress sia quella? 😫</p>
