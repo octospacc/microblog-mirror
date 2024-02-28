@@ -1,0 +1,8 @@
+<nav class="main-nav">
+  {% if page.url != "/" %}
+  <a class="normal" href="{{ "/" | relative_url  }}"> <span class="arrow">←</span> Home</a>
+  {% endif %}
+  {% if page.url != "/memories" %}
+  <a href="{{ "/" | relative_url  }}memories.html">Memories</a>
+  {% endif %}
+</nav>
