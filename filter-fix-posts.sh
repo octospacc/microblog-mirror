@@ -22,6 +22,7 @@ do
 				tail -n+${yamlEnd} {} >> {}.tmp
 				mv {}.tmp {}
 			fi
+			sed -i "s|src=\"https://octospacc.altervista.org/wp-content/uploads/|src=\"{{site.cdnurl}}/assets/uploads/|g" {}
 			set $(head -n${yamlEnd} {} | grep "post_date: ")
 			mv {} "_posts/$(echo "$2-$3" | sed "s/:/-/g").md"
 		fi
