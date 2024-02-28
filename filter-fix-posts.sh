@@ -2,7 +2,8 @@
 set -e
 cd "$( dirname "$( realpath "$0" )" )"
 
-for dir in _posts _pages
+# TODO adapt for pages
+for dir in _posts
 do
 	find ${dir} -type f -exec sh -c '
 		isAuthorCorrect=;isPublished=;
@@ -15,11 +16,17 @@ do
 		then rm -v {}
 		else
 			set $(head -n${yamlEnd} {} | grep "post_date: ")
-			date="$2 $3"
-			head -n${yamlEnd} {} | head -n-1 > {}.tmp
-			echo "date: ${date}" >> {}.tmp
-			tail -n+${yamlEnd} {} >> {}.tmp
-			mv {}.tmp {}
+			mv {} "_posts/$(echo "$2-$3" | sed "s/:/-/g").md"
 		fi
 	' \; || true 
 done
+
+#elif [ -z "$(head -n${yamlEnd} {} | grep "post_fixed_placeholder: true")" ]
+#then
+#	...
+#	date="$2 $3"
+#	head -n${yamlEnd} {} | head -n-1 > {}.tmp
+#	echo "date: ${date}" >> {}.tmp
+#	echo "post_fixed_placeholder: true" >> {}.tmp
+#	tail -n+${yamlEnd} {} >> {}.tmp
+#	mv {}.tmp {}
