@@ -6,7 +6,7 @@
       <span class="arrow">←</span> Newer Posts
     </a>
     {% else %}
-    <a href="{{ paginator.previous_page_path }}">
+    <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}">
       <span class="arrow">←</span> Newer Posts
     </a>
     {% endif %}
@@ -14,7 +14,7 @@
   {% endif %}
 {% if paginator.next_page %}
 <span class="next">
-  <a href="{{ paginator.next_page_path }}">
+  <a href="{{ site.baseurl }}{{ paginator.next_page_path }}">
     Older Posts <span class="arrow">→</span>
   </a>
 </span>
