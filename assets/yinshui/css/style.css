@@ -298,7 +298,7 @@ thead th,th {
   white-space: nowrap;
 }
 
-img {
+img, video {
   width: 100%;
   max-width: 100%;
   border-radius: 5px;
