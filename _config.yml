@@ -1,14 +1,14 @@
-title: "饮 水"
-author: "@lengerfulluse"
+title: "microblog mirror"
+author: "@octospacc"
 description: ""
-baseurl: ""
-url: "http://b.hengwei.me"
-email: "jj@hengwei.me"
+baseurl: "/microblog-mirror/"
+url: "https://octospacc.github.io"
+#email: "jj@hengwei.me"
 permalink: "/:categories/:year/:month/:day/:hour/:minute.html"
 relative_permalinks: false
-paginate: 20
+paginate: 50
 paginate_path: "/page/:num/"
-timezone: Asia/Shanghai  # A list of all available values can be found at https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Rome  # A list of all available values can be found at https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 cdnurl: ""
 
 highlighter: "rouge"
