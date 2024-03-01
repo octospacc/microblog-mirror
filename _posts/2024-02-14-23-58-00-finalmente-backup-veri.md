@@ -32,7 +32,7 @@ tags:
 categories:
   - Senza categoria
 title: finalmente backup veri.
-date: finalmente backup veri.
+date: 2024-02-14 23:58:00
 canonical_url:   https://octospacc.altervista.org/2024/02/14/finalmente-backup-veri/
 ---
 <!-- wp:paragraph -->

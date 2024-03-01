@@ -14,7 +14,7 @@ tags:
 categories:
   - Senza categoria
 title: Non quando mi ricordo.
-date: Non quando mi ricordo.
+date: 2024-01-14 10:54:25
 canonical_url:   https://octospacc.altervista.org/2024/01/14/non-quando-mi-ricordo/
 ---
 <!-- wp:paragraph -->

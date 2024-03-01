@@ -26,7 +26,7 @@ tags:
 categories:
   - Senza categoria
 title: 'Cieloblu decentralizzato&#8230;'
-date: 'Cieloblu decentralizzato&#8230;'
+date: 2024-02-23 18:04:31
 canonical_url:   https://octospacc.altervista.org/2024/02/23/cieloblu-decentralizzato/
 ---
 <!-- wp:paragraph -->

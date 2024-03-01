@@ -35,7 +35,7 @@ tags:
 categories:
   - Senza categoria
 title: emmebi javascriptico
-date: emmebi javascriptico
+date: 2024-02-01 17:12:23
 canonical_url:   https://octospacc.altervista.org/2024/02/01/emmebi-javascriptico/
 ---
 <!-- wp:paragraph -->

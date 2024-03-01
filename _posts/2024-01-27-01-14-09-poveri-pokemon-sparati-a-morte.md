@@ -48,7 +48,7 @@ tags:
 categories:
   - Senza categoria
 title: Poveri Pokémon sparati a morte.
-date: Poveri Pokémon sparati a morte.
+date: 2024-01-27 01:14:09
 canonical_url:   https://octospacc.altervista.org/2024/01/27/poveri-pokemon-sparati-a-morte/
 ---
 <!-- wp:paragraph -->

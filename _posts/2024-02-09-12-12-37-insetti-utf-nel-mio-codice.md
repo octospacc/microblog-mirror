@@ -42,7 +42,7 @@ tags:
 categories:
   - Senza categoria
 title: insetti utf nel mio codice!!!
-date: insetti utf nel mio codice!!!
+date: 2024-02-09 12:12:37
 canonical_url:   https://octospacc.altervista.org/2024/02/09/insetti-utf-nel-mio-codice/
 ---
 <!-- wp:paragraph -->

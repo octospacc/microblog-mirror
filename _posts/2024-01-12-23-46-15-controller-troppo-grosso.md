@@ -16,7 +16,7 @@ tags:
 categories:
   - Senza categoria
 title: controller troppo grosso
-date: controller troppo grosso
+date: 2024-01-12 23:46:15
 canonical_url:   https://octospacc.altervista.org/2024/01/12/controller-troppo-grosso/
 ---
 <!-- wp:list {"className":"greentext"} -->

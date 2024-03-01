@@ -24,7 +24,7 @@ tags:
 categories:
   - Senza categoria
 title: Il non studiare quando non si studia
-date: Il non studiare quando non si studia
+date: 2024-01-15 20:35:09
 canonical_url:   https://octospacc.altervista.org/2024/01/15/il-non-studiare-quando-non-si-studia/
 ---
 <!-- wp:paragraph -->

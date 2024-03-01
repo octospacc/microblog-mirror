@@ -31,7 +31,7 @@ tags:
 categories:
   - Senza categoria
 title: Università italica senza criteri
-date: Università italica senza criteri
+date: 2024-01-16 12:01:38
 canonical_url:   https://octospacc.altervista.org/2024/01/16/universita-italica-senza-criteri/
 ---
 <!-- wp:paragraph -->

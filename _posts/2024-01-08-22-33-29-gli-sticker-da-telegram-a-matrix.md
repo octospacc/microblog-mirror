@@ -39,7 +39,7 @@ tags:
 categories:
   - Senza categoria
 title: Gli sticker da Telegram a Matrix
-date: Gli sticker da Telegram a Matrix
+date: 2024-01-08 22:33:29
 canonical_url:   https://octospacc.altervista.org/2024/01/08/gli-sticker-da-telegram-a-matrix/
 ---
 <!-- wp:paragraph -->

@@ -32,7 +32,7 @@ tags:
 categories:
   - Senza categoria
 title: 'l&#8217;anello web indiano'
-date: 'l&#8217;anello web indiano'
+date: 2024-02-04 18:13:22
 canonical_url:   https://octospacc.altervista.org/2024/02/04/lanello-web-indiano/
 ---
 <!-- wp:paragraph -->

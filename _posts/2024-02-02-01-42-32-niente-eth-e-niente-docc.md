@@ -21,7 +21,7 @@ tags:
 categories:
   - Senza categoria
 title: Niente ETH e niente docc
-date: Niente ETH e niente docc
+date: 2024-02-02 01:42:32
 canonical_url:   https://octospacc.altervista.org/2024/02/02/niente-eth-e-niente-docc/
 ---
 <!-- wp:paragraph -->

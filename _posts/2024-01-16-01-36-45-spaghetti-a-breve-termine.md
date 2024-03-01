@@ -55,7 +55,7 @@ tags:
 categories:
   - Senza categoria
 title: Spaghetti a breve termine
-date: Spaghetti a breve termine
+date: 2024-01-16 01:36:45
 canonical_url:   https://octospacc.altervista.org/2024/01/16/spaghetti-a-breve-termine/
 ---
 <!-- wp:paragraph -->

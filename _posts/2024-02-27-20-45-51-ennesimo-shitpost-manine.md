@@ -12,7 +12,7 @@ tags: [ ]
 categories:
   - Senza categoria
 title: ennesimo shitpost manine
-date: ennesimo shitpost manine
+date: 2024-02-27 20:45:51
 canonical_url:   https://octospacc.altervista.org/2024/02/27/ennesimo-shitpost-manine/
 ---
 <!-- wp:image {"id":2545,"sizeSlug":"large"} -->

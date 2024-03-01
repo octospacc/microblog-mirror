@@ -16,7 +16,7 @@ tags:
 categories:
   - Senza categoria
 title: Chromium ha la GUI di merda
-date: Chromium ha la GUI di merda
+date: 2024-01-06 14:42:28
 canonical_url:   https://octospacc.altervista.org/2024/01/06/chromium-ha-la-gui-di-merda/
 ---
 <!-- wp:list {"className":"greentext"} -->

@@ -28,7 +28,7 @@ tags:
 categories:
   - Senza categoria
 title: i pixellini ufficialmente federati
-date: i pixellini ufficialmente federati
+date: 2024-02-17 23:37:39
 canonical_url:   https://octospacc.altervista.org/2024/02/17/i-pixellini-ufficialmente-federati/
 ---
 <!-- wp:paragraph -->

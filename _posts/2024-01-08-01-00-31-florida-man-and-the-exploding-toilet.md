@@ -20,7 +20,7 @@ tags:
 categories:
   - Senza categoria
 title: Florida Man and the exploding toilet
-date: Florida Man and the exploding toilet
+date: 2024-01-08 01:00:31
 canonical_url:   https://octospacc.altervista.org/2024/01/08/florida-man-and-the-exploding-toilet/
 ---
 <!-- wp:embed {"url":"https://www.youtube.com/watch?v=NA6TC7E_hqE","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->

@@ -33,7 +33,7 @@ tags:
 categories:
   - Senza categoria
 title: emmebi telegrammico
-date: emmebi telegrammico
+date: 2024-02-01 13:26:47
 canonical_url:   https://octospacc.altervista.org/2024/02/01/emmebi-telegrammico/
 ---
 <!-- wp:paragraph -->

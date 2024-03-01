@@ -18,7 +18,7 @@ tags:
 categories:
   - Senza categoria
 title: Il pacco bombe a MVVBlog
-date: Il pacco bombe a MVVBlog
+date: 2024-01-18 19:04:42
 canonical_url:   https://octospacc.altervista.org/2024/01/18/il-pacco-bombe-a-mvvblog/
 ---
 <!-- wp:image {"id":1151,"sizeSlug":"large"} -->

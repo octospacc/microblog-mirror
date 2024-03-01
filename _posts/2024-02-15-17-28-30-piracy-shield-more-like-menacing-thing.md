@@ -33,7 +33,7 @@ tags:
 categories:
   - Senza categoria
 title: piracy shield more like menacing thing
-date: piracy shield more like menacing thing
+date: 2024-02-15 17:28:30
 canonical_url:   https://octospacc.altervista.org/2024/02/15/piracy-shield-more-like-menacing-thing/
 ---
 <!-- wp:paragraph -->
