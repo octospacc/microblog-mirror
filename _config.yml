@@ -4,7 +4,7 @@ description: ""
 baseurl: "/microblog-mirror/"
 url: "https://octospacc.github.io"
 #email: "jj@hengwei.me"
-permalink: "/:categories/:year/:month/:day/:hour/:minute.html"
+permalink: "/:categories/:year/:month/:day/:hour/:minute/:second.html"
 relative_permalinks: false
 paginate: 50
 paginate_path: "/page/:num/"
