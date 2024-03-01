@@ -42,6 +42,7 @@ tags:
 categories:
   - Senza categoria
 title: Niente acing del famiclone :c (pt. 2)
+date: Niente acing del famiclone :c (pt. 2)
 canonical_url:   https://octospacc.altervista.org/2024/01/12/niente-acing-del-famiclone-c-pt-2/
 ---
 <!-- wp:paragraph -->

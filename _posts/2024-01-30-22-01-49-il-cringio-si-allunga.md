@@ -19,6 +19,7 @@ tags:
 categories:
   - Senza categoria
 title: Il cringio si allunga
+date: Il cringio si allunga
 canonical_url:   https://octospacc.altervista.org/2024/01/30/il-cringio-si-allunga/
 ---
 <!-- wp:paragraph -->

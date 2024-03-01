@@ -31,6 +31,7 @@ tags:
 categories:
   - Senza categoria
 title: mannaggia a Vodafone, di continuo
+date: mannaggia a Vodafone, di continuo
 canonical_url:   https://octospacc.altervista.org/2024/02/07/mannaggia-a-vodafone-di-continuo/
 ---
 <!-- wp:paragraph -->

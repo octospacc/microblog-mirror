@@ -25,6 +25,7 @@ tags:
 categories:
   - Senza categoria
 title: Jetpack cagatosi
+date: Jetpack cagatosi
 canonical_url:   https://octospacc.altervista.org/2024/01/22/jetpack-cagatosi/
 ---
 <!-- wp:paragraph -->

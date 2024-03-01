@@ -31,6 +31,7 @@ tags:
 categories:
   - Senza categoria
 title: WordPress che non è.
+date: WordPress che non è.
 canonical_url:   https://octospacc.altervista.org/2024/01/13/wordpress-che-non-e/
 ---
 <!-- wp:paragraph -->

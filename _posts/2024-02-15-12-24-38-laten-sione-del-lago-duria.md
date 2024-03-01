@@ -21,6 +21,7 @@ tags:
 categories:
   - Senza categoria
 title: laten sione del lago duria
+date: laten sione del lago duria
 canonical_url:   https://octospacc.altervista.org/2024/02/15/laten-sione-del-lago-duria/
 ---
 <!-- wp:paragraph -->

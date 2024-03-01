@@ -26,6 +26,7 @@ tags:
 categories:
   - Senza categoria
 title: FreshRSS saltospavento
+date: FreshRSS saltospavento
 canonical_url:   https://octospacc.altervista.org/2024/01/27/freshrss-saltospavento/
 ---
 <!-- wp:paragraph -->

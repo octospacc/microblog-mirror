@@ -26,6 +26,7 @@ tags:
 categories:
   - Senza categoria
 title: 'scienz-ai more like &#8220;scienza&#8221; ahiiii'
+date: 'scienz-ai more like &#8220;scienza&#8221; ahiiii'
 canonical_url:   https://octospacc.altervista.org/2024/02/23/scienz-ai-more-like-scienza-ahiiii/
 ---
 <!-- wp:paragraph -->

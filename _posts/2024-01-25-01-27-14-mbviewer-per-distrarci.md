@@ -59,6 +59,7 @@ tags:
 categories:
   - Senza categoria
 title: 'MBViewer per distrarci, col nuovo #Trasformapi'
+date: 'MBViewer per distrarci, col nuovo #Trasformapi'
 canonical_url:   https://octospacc.altervista.org/2024/01/25/mbviewer-per-distrarci/
 ---
 <!-- wp:paragraph -->

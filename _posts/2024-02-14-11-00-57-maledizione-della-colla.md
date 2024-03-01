@@ -16,6 +16,7 @@ tags:
 categories:
   - Senza categoria
 title: Maledizione della colla
+date: Maledizione della colla
 canonical_url:   https://octospacc.altervista.org/2024/02/14/maledizione-della-colla/
 ---
 <!-- wp:paragraph -->

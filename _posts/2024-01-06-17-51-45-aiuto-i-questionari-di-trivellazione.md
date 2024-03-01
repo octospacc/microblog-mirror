@@ -16,6 +16,7 @@ tags:
 categories:
   - Senza categoria
 title: aiuto i questionari di trivellazione
+date: aiuto i questionari di trivellazione
 canonical_url:   https://octospacc.altervista.org/2024/01/06/aiuto-i-questionari-di-trivellazione/
 ---
 <!-- wp:paragraph -->

@@ -21,6 +21,7 @@ tags:
 categories:
   - Senza categoria
 title: News Anchor Mocks Kid For Beating Tetris
+date: News Anchor Mocks Kid For Beating Tetris
 canonical_url:   https://octospacc.altervista.org/2024/01/06/news-anchor-mocks-kid-for-beating-tetris/
 ---
 <!-- wp:embed {"url":"https://www.youtube.com/watch?v=-WuEd3diKjo","providerNameSlug":"youtube","responsive":true} -->

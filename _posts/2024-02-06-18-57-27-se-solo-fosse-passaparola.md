@@ -30,6 +30,7 @@ tags:
 categories:
   - Senza categoria
 title: 'se solo fosse passaparola&#8230;'
+date: 'se solo fosse passaparola&#8230;'
 canonical_url:   https://octospacc.altervista.org/2024/02/06/se-solo-fosse-passaparola/
 ---
 <!-- wp:paragraph -->

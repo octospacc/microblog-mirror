@@ -28,6 +28,7 @@ tags:
 categories:
   - Senza categoria
 title: 'wordpressin&#8217; not friendin&#8217;'
+date: 'wordpressin&#8217; not friendin&#8217;'
 canonical_url:   https://octospacc.altervista.org/2024/02/12/wordpressin-not-friendin/
 ---
 <!-- wp:paragraph -->

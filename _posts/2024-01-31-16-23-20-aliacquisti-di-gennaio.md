@@ -45,6 +45,7 @@ tags:
 categories:
   - Senza categoria
 title: Aliacquisti di gennaio
+date: Aliacquisti di gennaio
 canonical_url:   https://octospacc.altervista.org/2024/01/31/aliacquisti-di-gennaio/
 ---
 <!-- wp:paragraph -->

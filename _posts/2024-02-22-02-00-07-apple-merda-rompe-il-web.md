@@ -30,6 +30,7 @@ tags:
 categories:
   - Senza categoria
 title: Apple merda rompe il web
+date: Apple merda rompe il web
 canonical_url:   https://octospacc.altervista.org/2024/02/22/apple-merda-rompe-il-web/
 ---
 <!-- wp:paragraph -->

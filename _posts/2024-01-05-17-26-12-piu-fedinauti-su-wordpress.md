@@ -27,6 +27,7 @@ tags:
 categories:
   - Senza categoria
 title: 'Più #fedinauti su WordPress'
+date: 'Più #fedinauti su WordPress'
 canonical_url:   https://octospacc.altervista.org/2024/01/05/piu-fedinauti-su-wordpress/
 ---
 <!-- wp:paragraph -->

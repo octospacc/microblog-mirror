@@ -13,6 +13,7 @@ tags:
 categories:
   - Senza categoria
 title: '&#8220;A natale puoi se fosse nata nel 2023&#8221;'
+date: '&#8220;A natale puoi se fosse nata nel 2023&#8221;'
 canonical_url:   https://octospacc.altervista.org/2023/12/16/a-natale-puoi-se-fosse-nata-nel-2023/
 ---
 <!-- wp:html -->

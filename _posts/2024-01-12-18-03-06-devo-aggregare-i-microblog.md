@@ -38,6 +38,7 @@ tags:
 categories:
   - Senza categoria
 title: devo aggregare i microblog.
+date: devo aggregare i microblog.
 canonical_url:   https://octospacc.altervista.org/2024/01/12/devo-aggregare-i-microblog/
 ---
 <!-- wp:paragraph -->

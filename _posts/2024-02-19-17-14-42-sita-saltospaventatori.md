@@ -25,6 +25,7 @@ tags:
 categories:
   - Senza categoria
 title: sita saltospaventatori
+date: sita saltospaventatori
 canonical_url:   https://octospacc.altervista.org/2024/02/19/sita-saltospaventatori/
 ---
 <!-- wp:paragraph -->

@@ -18,6 +18,7 @@ tags:
 categories:
   - Senza categoria
 title: La mania poliritmica
+date: La mania poliritmica
 canonical_url:   https://octospacc.altervista.org/2024/02/13/la-mania-poliritmica/
 ---
 <!-- wp:paragraph -->

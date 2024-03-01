@@ -27,6 +27,7 @@ tags:
 categories:
   - Senza categoria
 title: La cannella che lagga
+date: La cannella che lagga
 canonical_url:   https://octospacc.altervista.org/2024/01/28/la-cannella-che-lagga/
 ---
 <!-- wp:paragraph -->

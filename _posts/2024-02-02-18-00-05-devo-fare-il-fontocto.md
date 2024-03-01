@@ -23,6 +23,7 @@ tags:
 categories:
   - Senza categoria
 title: Devo fare il fontocto
+date: Devo fare il fontocto
 canonical_url:   https://octospacc.altervista.org/2024/02/02/devo-fare-il-fontocto/
 ---
 <!-- wp:paragraph -->

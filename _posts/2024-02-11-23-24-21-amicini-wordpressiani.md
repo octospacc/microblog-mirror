@@ -25,6 +25,7 @@ tags:
 categories:
   - Senza categoria
 title: Amicini wordpressiani
+date: Amicini wordpressiani
 canonical_url:   https://octospacc.altervista.org/2024/02/11/amicini-wordpressiani/
 ---
 <!-- wp:paragraph -->

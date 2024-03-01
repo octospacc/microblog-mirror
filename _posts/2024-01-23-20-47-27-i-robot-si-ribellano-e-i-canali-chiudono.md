@@ -56,6 +56,7 @@ tags:
 categories:
   - Senza categoria
 title: >
+date: >
 canonical_url:   https://octospacc.altervista.org/2024/01/23/i-robot-si-ribellano-e-i-canali-chiudono/
 ---
 <!-- wp:paragraph -->
