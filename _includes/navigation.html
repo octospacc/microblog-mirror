@@ -1,8 +1,11 @@
 <nav class="main-nav">
   {% if page.url != "/" %}
-  <a class="normal" href="{{ "/" | relative_url  }}"> <span class="arrow">←</span> Home</a>
+    <a class="normal" href="{{ "/" | relative_url }}"> <span class="arrow">←</span> Home</a>
   {% endif %}
   {% if page.url != "/memories" %}
-  <a href="{{ "/" | relative_url  }}memories.html">Memories</a>
+    <a href="{{ "/" | relative_url }}memories.html">Memories</a>
+  {% endif %}
+  {% if page.url != "/search" %}
+    <a href="{{ "/" | relative_url }}search.html">Search</a>
   {% endif %}
 </nav>
