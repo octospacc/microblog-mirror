@@ -25,6 +25,7 @@ tags:
   - video
   - videogioco
 categories:
+  - Gaming
   - Senza categoria
 title: 'We Wont Remember Game Controller &#8220;Sounds&#8221;'
 date: 2024-01-14 19:11:15

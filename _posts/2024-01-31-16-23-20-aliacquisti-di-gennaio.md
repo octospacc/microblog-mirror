@@ -43,6 +43,7 @@ tags:
   - Ximi
   - YPbPr
 categories:
+  - Recensioni
   - Senza categoria
 title: Aliacquisti di gennaio
 date: 2024-01-31 16:23:20

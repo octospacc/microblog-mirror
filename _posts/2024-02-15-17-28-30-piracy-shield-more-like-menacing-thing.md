@@ -31,6 +31,7 @@ tags:
   - siti
   - storia
 categories:
+  - Rant
   - Senza categoria
 title: piracy shield more like menacing thing
 date: 2024-02-15 17:28:30

@@ -14,6 +14,7 @@ tags:
   - SNES
   - stile
 categories:
+  - Gaming
   - Senza categoria
 title: controller troppo grosso
 date: 2024-01-12 23:46:15

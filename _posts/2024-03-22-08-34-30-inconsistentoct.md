@@ -8,8 +8,17 @@ layout: post
 link: >
   https://octospacc.altervista.org/2024/03/22/inconsistentoct/
 published: true
-tags: [ ]
+tags:
+  - fine
+  - flusso
+  - inconsistente
+  - Momento
+  - paura
+  - problema
+  - scrivere
 categories:
+  - Meta
+  - Rant
   - Senza categoria
 title: inconsistentoct
 date: 2024-03-22 08:34:30

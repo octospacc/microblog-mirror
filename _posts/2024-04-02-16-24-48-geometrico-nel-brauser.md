@@ -11,8 +11,13 @@ published: true
 tags:
   - casual
   - GeometryDash
+  - gioco
+  - HTML5
+  - minuzie
+  - mobile
   - pezzotte
   - porting
+  - problemi
   - ricreazione
   - SalaMuseoGames
   - Unity
@@ -20,6 +25,7 @@ tags:
   - web
   - webapp
 categories:
+  - Gaming
   - Senza categoria
 title: geometrico nel brauser
 date: 2024-04-02 16:24:48

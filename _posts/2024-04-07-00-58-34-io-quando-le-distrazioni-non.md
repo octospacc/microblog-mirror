@@ -14,6 +14,7 @@ tags:
   - strambo
   - tempo
 categories:
+  - Rant
   - Senza categoria
 title: io quando le distrazioni non
 date: 2024-04-07 00:58:34

@@ -8,8 +8,21 @@ layout: post
 link: >
   https://octospacc.altervista.org/2024/04/05/la-morte-al-risveglio/
 published: true
-tags: [ ]
+tags:
+  - allucinante
+  - casino
+  - dormire
+  - malessere
+  - mattina
+  - problema
+  - sensazione
+  - stamattina
+  - stanchezza
+  - sveglia
+  - tardissimo
+  - vizio
 categories:
+  - Rant
   - Senza categoria
 title: la morte al risveglio
 date: 2024-04-05 09:28:19

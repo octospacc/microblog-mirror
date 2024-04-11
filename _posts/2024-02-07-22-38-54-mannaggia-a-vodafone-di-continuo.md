@@ -29,6 +29,7 @@ tags:
   - Vodafone
   - VodafoneStation
 categories:
+  - Rant
   - Senza categoria
 title: mannaggia a Vodafone, di continuo
 date: 2024-02-07 22:38:54

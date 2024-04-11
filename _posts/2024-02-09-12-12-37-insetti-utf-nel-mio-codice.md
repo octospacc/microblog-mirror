@@ -40,6 +40,8 @@ tags:
   - tardi
   - WordPress
 categories:
+  - Devlogs
+  - Rant
   - Senza categoria
 title: insetti utf nel mio codice!!!
 date: 2024-02-09 12:12:37

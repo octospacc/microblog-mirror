@@ -18,6 +18,7 @@ tags:
   - rogna
   - spazio
 categories:
+  - Rant
   - Senza categoria
 title: adrode trolling sempre peggio!!
 date: 2024-03-19 21:33:12

@@ -29,6 +29,7 @@ tags:
   - merda
   - piattaforma
   - PiracyShield
+  - pirata
   - problematici
   - problemi
   - questione
@@ -38,6 +39,7 @@ tags:
   - vizio
   - web
 categories:
+  - Rant
   - Senza categoria
 title: basta scudo marcio
 date: 2024-03-23 21:36:43

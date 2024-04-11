@@ -19,6 +19,7 @@ tags:
   - Tetris
   - TIL
 categories:
+  - Gaming
   - Senza categoria
 title: News Anchor Mocks Kid For Beating Tetris
 date: 2024-01-06 02:02:08
