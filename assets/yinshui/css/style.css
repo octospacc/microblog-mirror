@@ -366,17 +366,19 @@ footer #wrapper {
 }
 
 #post-meta div span {
-  color: #aaa;
   font-weight: 500;
+}
+
+#post-meta > a > div > span {
+  color: #aaa;
   display: block;
 }
 
-#post-meta div span.dark {
+#post-meta > a > div > span.dark {
   color: #1E2025;
-
 }
 
-#post-meta div {
+#post-meta > a > div {
   float: left;
 }
 
@@ -393,11 +395,6 @@ h2.headline {
 
 .post {
   margin: 159px 0 0 0;
-}
-
-#post-footer {
-  margin-top: 50px;
-  margin-bottom: 0;
 }
 
 /* Post Navigation */
