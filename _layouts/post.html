@@ -24,7 +24,14 @@ layout: default
 		{{content}}
 	</section>
 	<section id="isso-thread" data-title="{{ page.title }}"></section>
+	<section class="post-footer">
+		<ul>
+			<li>Tags: {{ page.tags | join: ', ' }}</li>
+			<li>Categories: {{ page.categories | join: ', ' }}</li>
+		</ul>
+	</section>
 </article>
+
 <section id="post-meta" class="clearfix">
 	<a href="/">
 		{% include avatar-img.html %}

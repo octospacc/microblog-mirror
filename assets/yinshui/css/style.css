@@ -395,6 +395,11 @@ h2.headline {
   margin: 159px 0 0 0;
 }
 
+#post-footer {
+  margin-top: 50px;
+  margin-bottom: 0;
+}
+
 /* Post Navigation */
 
 #post-nav {
