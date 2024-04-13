@@ -42,7 +42,6 @@ plugins:
   - jemoji
   - jekyll-timeago
   - jekyll-hashtags
-  - jekyll-firstimage
 
 jekyll-mentions:
   base_url: https://twitter.com

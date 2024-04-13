@@ -7,7 +7,6 @@ layout: none
     "title"      : "{{ post.title | escape }}",
     "categories" : {{ post.categories | jsonify }},
     "tags"       : {{ post.tags | jsonify }},
-    "image"      : {{ post.content | first_image | jsonify }},
     "url"        : "{{ site.baseurl }}{{ post.url }}",
     "date"       : "{{ post.date }}",
     "content"    : {{ post.content | strip_html | newline_to_br | strip_newlines | replace:'<br />',' ' | replace:'	',' ' | jsonify }}
