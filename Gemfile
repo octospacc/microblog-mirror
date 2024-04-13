@@ -10,3 +10,4 @@ end
 gem 'jekyll-paginate'
 gem 'jekyll-mentions'
 gem 'jemoji'
+gem 'jekyll-firstimage'
