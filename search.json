@@ -2,19 +2,12 @@
 layout: none
 ---
 [
-  {% for post in site.posts %}
-      {% assign imageUrl = '' %}
-      {% assign images = post.content | split:'<img src="' %}
-      {% for image in images %}
-        {% if imageUrl == '' %}
-          {% assign imageUrl = image | split:'"' | first %}
-        {% endif %}
-      {% endfor %} {
+  {% for post in site.posts %} {
     "ID"         : {{ post.ID }},
     "title"      : "{{ post.title | escape }}",
     "categories" : {{ post.categories | jsonify }},
     "tags"       : {{ post.tags | jsonify }},
-    "image"      : {{ imageUrl | jsonify }},
+    "image"      : {{ post.content | split:'<img src="' | slice:1 | split:'"' | first | jsonify }},
     "url"        : "{{ site.baseurl }}{{ post.url }}",
     "date"       : "{{ post.date }}",
     "content"    : {{ post.content | strip_html | newline_to_br | strip_newlines | replace:'<br />',' ' | replace:'	',' ' | jsonify }}
