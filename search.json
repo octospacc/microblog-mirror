@@ -7,9 +7,9 @@ layout: none
     "title"      : "{{ post.title | escape }}",
     "categories" : {{ post.categories | jsonify }},
     "tags"       : {{ post.tags | jsonify }},
-    "image"      : {{ post.content | split:'<img src="' | slice:1 | split:'"' | first | jsonify }},
+    "image"      : {{ post.content | first_image }},
     "url"        : "{{ site.baseurl }}{{ post.url }}",
     "date"       : "{{ post.date }}",
-    "content"    : {{ post.content | first_image }}
+    "content"    : {{ post.content | strip_html | newline_to_br | strip_newlines | replace:'<br />',' ' | replace:'	',' ' | jsonify }}
   } {% unless forloop.last %},{% endunless %} {% endfor %}
 ]
