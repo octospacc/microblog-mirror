@@ -9,6 +9,7 @@ layout: none
     "tags"       : {{ post.tags | jsonify }},
     "url"        : "{{ site.baseurl }}{{ post.url }}",
     "date"       : "{{ post.date }}",
-    "content"    : {{ post.content | strip_html | newline_to_br | strip_newlines | replace:'<br />',' ' | replace:'	',' ' | jsonify }}
+    "content"    : {{ post.content | strip_html | newline_to_br | strip_newlines | replace:'<br />',' ' | replace:'	',' ' | jsonify }},
+    "contentHtml": {{ post.content | jsonify }}
   } {% unless forloop.last %},{% endunless %} {% endfor %}
 ]
