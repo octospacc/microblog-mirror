@@ -3,6 +3,7 @@ layout: none
 ---
 [
   {% for post in site.posts %}
+      {% assign imageUrl = '' %}
       {% assign images = post.content | split:'<img src="' %}
       {% for image in images %}
         {% if imageUrl == '' %}
