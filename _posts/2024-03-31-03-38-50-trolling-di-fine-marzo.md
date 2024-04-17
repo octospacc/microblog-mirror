@@ -9,10 +9,16 @@ link: >
   https://octospacc.altervista.org/2024/03/31/trolling-di-fine-marzo/
 published: true
 tags:
+  - cringe
+  - magagna
   - meme
   - memem
   - oraLegale
   - oraSolare
+  - orologi
+  - poteriforti
+  - shitposting
+  - TransgenderDayOfVisibility
   - trolling
 categories:
   - Senza categoria

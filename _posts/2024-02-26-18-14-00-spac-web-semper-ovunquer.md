@@ -9,6 +9,11 @@ link: >
   https://octospacc.altervista.org/2024/02/26/spac-web-semper-ovunquer/
 published: true
 tags:
+  - codice
+  - JavaScript
+  - JS
+  - programma
+  - server
   - SpaccDotWeb
   - WuppiMini
 categories:

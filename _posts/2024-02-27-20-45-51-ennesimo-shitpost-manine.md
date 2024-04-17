@@ -8,7 +8,9 @@ layout: post
 link: >
   https://octospacc.altervista.org/2024/02/27/ennesimo-shitpost-manine/
 published: true
-tags: [ ]
+tags:
+  - esistenza
+  - manine
 categories:
   - Senza categoria
 title: ennesimo shitpost manine

@@ -8,7 +8,17 @@ layout: post
 link: >
   https://octospacc.altervista.org/2024/03/10/canale-gummapostaggio/
 published: true
-tags: [ ]
+tags:
+  - app
+  - canale
+  - feed
+  - link
+  - media
+  - meme
+  - memini
+  - Pinterest
+  - RSS
+  - Telegram
 categories:
   - Senza categoria
 title: canale gummapostaggio

@@ -8,7 +8,14 @@ layout: post
 link: >
   https://octospacc.altervista.org/2024/03/11/inferno-alla-fermata/
 published: true
-tags: [ ]
+tags:
+  - auto
+  - automobilisti
+  - fermata
+  - finimondo
+  - maremma
+  - traffico
+  - unrelated
 categories:
   - Senza categoria
 title: inferno alla fermata

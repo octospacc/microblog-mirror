@@ -8,7 +8,15 @@ layout: post
 link: >
   https://octospacc.altervista.org/2024/02/28/commenti-buttati-via/
 published: true
-tags: [ ]
+tags:
+  - ActivityPub
+  - commenti
+  - discussioni
+  - Fediverso
+  - hack
+  - settaggio
+  - social
+  - WordPress
 categories:
   - Senza categoria
 title: commenti buttati via

@@ -8,7 +8,16 @@ layout: post
 link: >
   https://octospacc.altervista.org/2024/02/28/bozze-in-punto-di-morte/
 published: true
-tags: [ ]
+tags:
+  - algoritmo
+  - Apple
+  - automazioni
+  - bozze
+  - iPhone
+  - messaggi
+  - microblogging
+  - morte
+  - X
 categories:
   - Senza categoria
 title: bozze in punto di morte!!!

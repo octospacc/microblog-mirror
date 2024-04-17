@@ -8,7 +8,16 @@ layout: post
 link: >
   https://octospacc.altervista.org/2024/03/15/paginetta-userscritti/
 published: true
-tags: [ ]
+tags:
+  - GreasyFork
+  - JavaScript
+  - organizzazione
+  - pagina
+  - progetto
+  - script
+  - sito
+  - soluzione
+  - userscript
 categories:
   - Senza categoria
 title: paginetta userscritti
