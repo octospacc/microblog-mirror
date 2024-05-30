@@ -1,0 +1,769 @@
+Starting ...
+Command line arguments: "./this.program" "-root" "/root/base" "-mount_drive" "/root/files/" "d" "-nozip" "-env" "WINEDEBUG=module" "-w" "/home/username/.wine/dosdevices/d:" "/bin/wine" "th06e.exe"
+Using root directory: /root/base
+Launching "/bin/wine" "th06e.exe" 
+trace:module:load_builtin_callback loaded ntdll.dll 0x110158 0x7bc10000
+trace:module:load_builtin_dll Trying built-in L"kernel32.dll"
+trace:module:load_dll looking for L"ntdll.dll" in L""
+trace:module:load_dll Found L"ntdll.dll" for L"ntdll.dll" at 0x7bc10000, count=2
+trace:module:load_builtin_callback loaded KERNEL32.dll 0x110200 0x7b820000
+trace:module:LdrGetDllHandle L"kernel32" -> 0x7b820000 (load path (null))
+trace:module:load_builtin_callback loaded ntdll.dll 0x110158 0x7bc10000
+trace:module:load_builtin_dll Trying built-in L"kernel32.dll"
+trace:module:load_dll looking for L"ntdll.dll" in L""
+trace:module:load_dll Found L"ntdll.dll" for L"ntdll.dll" at 0x7bc10000, count=2
+trace:module:load_builtin_callback loaded KERNEL32.dll 0x110200 0x7b820000
+trace:module:LdrGetDllHandle L"kernel32" -> 0x7b820000 (load path L"")
+trace:module:load_dll looking for L"C:\\windows\\system32\\wineboot.exe" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\wineboot.exe"
+trace:module:get_load_order got hardcoded default for L"wineboot.exe"
+trace:module:load_dll L"C:\\windows\\system32\\wineboot.exe" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"wineboot.exe"
+warn:module:load_builtin_dll cannot open .so lib for builtin L"wineboot.exe": /bin/../lib/wine/wineboot.exe.so: cannot open shared object file: No such file or directory
+warn:module:load_dll Failed to load module L"C:\\windows\\system32\\wineboot.exe"; status=c0000135
+wine: cannot find L"C:\\windows\\system32\\wineboot.exe"
+trace:module:LdrShutdownProcess ()
+err:process:start_wineboot failed to start wineboot, err 2
+trace:module:load_dll looking for L"D:\\th06e.exe" in L".;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"D:\\th06e.exe"
+trace:module:get_load_order got main exe default n,b for L"D:\\th06e.exe"
+trace:module:load_native_dll Trying native dll L"D:\\th06e.exe"
+trace:module:map_image mapped PE file at 0x400000-0x6e9000
+trace:module:map_image mapping section .text at 0x401000 off 1000 size 69000 virt 68a5f flags 60000020
+trace:module:map_image mapping section .rdata at 0x46a000 off 6a000 size c000 virt bb7c flags 40000040
+trace:module:map_image mapping section .data at 0x476000 off 76000 size 6000 virt 2719fc flags c0000040
+trace:module:map_image mapping section .rsrc at 0x6e8000 off 7c000 size 1000 virt f04 flags 40000040
+warn:module:alloc_module disabling no-exec because of L"th06e.exe"
+trace:module:load_dll Loaded module L"D:\\th06e.exe" (native) at 0x400000
+trace:module:load_dll looking for L"DINPUT8.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\DINPUT8.dll"
+trace:module:get_load_order got hardcoded default for L"DINPUT8.dll"
+trace:module:load_dll L"C:\\windows\\system32\\DINPUT8.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"DINPUT8.dll"
+trace:module:load_dll looking for L"ole32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\ole32.dll"
+trace:module:get_load_order got hardcoded default for L"ole32.dll"
+trace:module:load_dll L"C:\\windows\\system32\\ole32.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"ole32.dll"
+trace:module:load_dll looking for L"advapi32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\advapi32.dll"
+trace:module:get_load_order got hardcoded default for L"advapi32.dll"
+trace:module:load_dll L"C:\\windows\\system32\\advapi32.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"advapi32.dll"
+trace:module:load_dll looking for L"kernel32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=2
+trace:module:load_dll looking for L"ntdll.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ntdll.dll" for L"ntdll.dll" at 0x7bc10000, count=3
+trace:module:load_builtin_callback loaded advapi32.dll 0x110880 0xd0a00000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\advapi32.dll" (builtin) at 0xd0a00000
+trace:module:load_dll looking for L"user32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\user32.dll"
+trace:module:get_load_order got hardcoded default for L"user32.dll"
+trace:module:load_dll L"C:\\windows\\system32\\user32.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"user32.dll"
+trace:module:load_dll looking for L"gdi32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\gdi32.dll"
+trace:module:get_load_order got hardcoded default for L"gdi32.dll"
+trace:module:load_dll L"C:\\windows\\system32\\gdi32.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"gdi32.dll"
+trace:module:load_dll looking for L"advapi32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\advapi32.dll" for L"advapi32.dll" at 0xd0a00000, count=2
+trace:module:load_dll looking for L"kernel32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=3
+trace:module:load_dll looking for L"ntdll.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ntdll.dll" for L"ntdll.dll" at 0x7bc10000, count=4
+trace:module:load_builtin_callback loaded gdi32.dll 0x1109d8 0xd0be0000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\gdi32.dll" (builtin) at 0xd0be0000
+trace:module:load_dll looking for L"version.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\version.dll"
+trace:module:get_load_order got hardcoded default for L"version.dll"
+trace:module:load_dll L"C:\\windows\\system32\\version.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"version.dll"
+trace:module:load_dll looking for L"kernel32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=4
+trace:module:load_dll looking for L"ntdll.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ntdll.dll" for L"ntdll.dll" at 0x7bc10000, count=5
+trace:module:load_builtin_callback loaded version.dll 0x110ac8 0xd0d10000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\version.dll" (builtin) at 0xd0d10000
+trace:module:load_dll looking for L"advapi32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\advapi32.dll" for L"advapi32.dll" at 0xd0a00000, count=3
+trace:module:load_dll looking for L"kernel32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=5
+trace:module:load_dll looking for L"ntdll.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ntdll.dll" for L"ntdll.dll" at 0x7bc10000, count=6
+trace:module:load_builtin_callback loaded user32.dll 0x110930 0xd0a80000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\user32.dll" (builtin) at 0xd0a80000
+trace:module:load_dll looking for L"gdi32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\gdi32.dll" for L"gdi32.dll" at 0xd0be0000, count=2
+trace:module:load_dll looking for L"rpcrt4.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\rpcrt4.dll"
+trace:module:get_load_order got hardcoded default for L"rpcrt4.dll"
+trace:module:load_dll L"C:\\windows\\system32\\rpcrt4.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"rpcrt4.dll"
+trace:module:load_dll looking for L"advapi32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\advapi32.dll" for L"advapi32.dll" at 0xd0a00000, count=4
+trace:module:load_dll looking for L"kernel32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=6
+trace:module:load_dll looking for L"ntdll.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ntdll.dll" for L"ntdll.dll" at 0x7bc10000, count=7
+trace:module:load_builtin_callback loaded rpcrt4.dll 0x110b70 0xd0d30000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\rpcrt4.dll" (builtin) at 0xd0d30000
+trace:module:load_dll looking for L"kernel32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=7
+trace:module:load_dll looking for L"ntdll.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ntdll.dll" for L"ntdll.dll" at 0x7bc10000, count=8
+trace:module:load_builtin_callback loaded ole32.dll 0x110788 0xd08c0000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\ole32.dll" (builtin) at 0xd08c0000
+trace:module:load_dll looking for L"kernel32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=8
+trace:module:load_builtin_callback loaded dinput8.dll 0x110600 0xd0890000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\DINPUT8.dll" (builtin) at 0xd0890000
+trace:module:load_dll looking for L"DSOUND.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\DSOUND.dll"
+trace:module:get_load_order got hardcoded default for L"DSOUND.dll"
+trace:module:load_dll L"C:\\windows\\system32\\DSOUND.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"DSOUND.dll"
+trace:module:load_dll looking for L"ole32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ole32.dll" for L"ole32.dll" at 0xd08c0000, count=2
+trace:module:load_dll looking for L"advapi32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\advapi32.dll" for L"advapi32.dll" at 0xd0a00000, count=5
+trace:module:load_dll looking for L"kernel32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=9
+trace:module:load_dll looking for L"ntdll.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ntdll.dll" for L"ntdll.dll" at 0x7bc10000, count=9
+trace:module:load_builtin_callback loaded dsound.dll 0x110c60 0xd0dc0000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\DSOUND.dll" (builtin) at 0xd0dc0000
+trace:module:load_dll looking for L"d3d8.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\d3d8.dll"
+trace:module:get_load_order got hardcoded default for L"d3d8.dll"
+trace:module:load_dll L"C:\\windows\\system32\\d3d8.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"d3d8.dll"
+trace:module:load_dll looking for L"wined3d.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\wined3d.dll"
+trace:module:get_load_order got hardcoded default for L"wined3d.dll"
+trace:module:load_dll L"C:\\windows\\system32\\wined3d.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"wined3d.dll"
+trace:module:load_dll looking for L"opengl32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\opengl32.dll"
+trace:module:get_load_order got hardcoded default for L"opengl32.dll"
+trace:module:load_dll L"C:\\windows\\system32\\opengl32.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"opengl32.dll"
+trace:module:load_dll looking for L"gdi32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\gdi32.dll" for L"gdi32.dll" at 0xd0be0000, count=3
+trace:module:load_dll looking for L"advapi32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\advapi32.dll" for L"advapi32.dll" at 0xd0a00000, count=6
+trace:module:load_dll looking for L"kernel32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=10
+trace:module:load_builtin_callback loaded opengl32.dll 0x110ef0 0x7a820000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\opengl32.dll" (builtin) at 0x7a820000
+trace:module:load_dll looking for L"user32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\user32.dll" for L"user32.dll" at 0xd0a80000, count=2
+trace:module:load_dll looking for L"gdi32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\gdi32.dll" for L"gdi32.dll" at 0xd0be0000, count=4
+trace:module:load_dll looking for L"advapi32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\advapi32.dll" for L"advapi32.dll" at 0xd0a00000, count=7
+trace:module:load_dll looking for L"kernel32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=11
+trace:module:load_builtin_callback loaded wined3d.dll 0x110df8 0xd0e50000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\wined3d.dll" (builtin) at 0xd0e50000
+trace:module:load_dll looking for L"kernel32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=12
+trace:module:load_builtin_callback loaded d3d8.dll 0x110d08 0xd0e10000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\d3d8.dll" (builtin) at 0xd0e10000
+trace:module:load_dll looking for L"WINMM.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\WINMM.dll"
+trace:module:get_load_order got hardcoded default for L"WINMM.dll"
+trace:module:load_dll L"C:\\windows\\system32\\WINMM.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"WINMM.dll"
+trace:module:load_dll looking for L"user32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\user32.dll" for L"user32.dll" at 0xd0a80000, count=3
+trace:module:load_dll looking for L"advapi32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\advapi32.dll" for L"advapi32.dll" at 0xd0a00000, count=8
+trace:module:load_dll looking for L"ole32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ole32.dll" for L"ole32.dll" at 0xd08c0000, count=3
+trace:module:load_dll looking for L"msacm32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\msacm32.dll"
+trace:module:get_load_order got hardcoded default for L"msacm32.dll"
+trace:module:load_dll L"C:\\windows\\system32\\msacm32.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"msacm32.dll"
+trace:module:load_dll looking for L"winmm.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\winmm.dll" for L"winmm.dll" at 0xd0fb0000, count=2
+trace:module:load_dll looking for L"user32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\user32.dll" for L"user32.dll" at 0xd0a80000, count=4
+trace:module:load_dll looking for L"advapi32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\advapi32.dll" for L"advapi32.dll" at 0xd0a00000, count=9
+trace:module:load_dll looking for L"kernel32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=13
+trace:module:load_builtin_callback loaded msacm32.dll 0x111048 0xd1070000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\msacm32.dll" (builtin) at 0xd1070000
+trace:module:load_dll looking for L"kernel32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=14
+trace:module:load_dll looking for L"ntdll.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ntdll.dll" for L"ntdll.dll" at 0x7bc10000, count=10
+trace:module:load_builtin_callback loaded winmm.dll 0x110fa0 0xd0fb0000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\WINMM.dll" (builtin) at 0xd0fb0000
+trace:module:load_dll looking for L"KERNEL32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"KERNEL32.dll" at 0x7b820000, count=15
+trace:module:load_dll looking for L"USER32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\user32.dll" for L"USER32.dll" at 0xd0a80000, count=5
+trace:module:load_dll looking for L"GDI32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\gdi32.dll" for L"GDI32.dll" at 0xd0be0000, count=5
+trace:module:process_attach (L"th06e.exe",0x1) - START
+trace:module:process_attach (L"dinput8.dll",0x1) - START
+trace:module:process_attach (L"ole32.dll",0x1) - START
+trace:module:process_attach (L"advapi32.dll",0x1) - START
+trace:module:process_attach (L"KERNEL32.dll",0x1) - START
+trace:module:process_attach (L"ntdll.dll",0x1) - START
+trace:module:MODULE_InitDLL (0x7bc10000 L"ntdll.dll",PROCESS_ATTACH,0x1) - CALL
+trace:module:MODULE_InitDLL (0x7bc10000,PROCESS_ATTACH,0x1) - RETURN 1
+trace:module:process_attach (L"ntdll.dll",0x1) - END
+trace:module:MODULE_InitDLL (0x7b820000 L"KERNEL32.dll",PROCESS_ATTACH,0x1) - CALL
+trace:module:MODULE_InitDLL (0x7b820000,PROCESS_ATTACH,0x1) - RETURN 1
+trace:module:process_attach (L"KERNEL32.dll",0x1) - END
+trace:module:MODULE_InitDLL (0xd0a00000 L"advapi32.dll",PROCESS_ATTACH,0x1) - CALL
+trace:module:MODULE_InitDLL (0xd0a00000,PROCESS_ATTACH,0x1) - RETURN 1
+trace:module:process_attach (L"advapi32.dll",0x1) - END
+trace:module:process_attach (L"user32.dll",0x1) - START
+trace:module:process_attach (L"gdi32.dll",0x1) - START
+trace:module:MODULE_InitDLL (0xd0be0000 L"gdi32.dll",PROCESS_ATTACH,0x1) - CALL
+trace:module:MODULE_InitDLL (0xd0be0000,PROCESS_ATTACH,0x1) - RETURN 1
+trace:module:process_attach (L"gdi32.dll",0x1) - END
+trace:module:process_attach (L"version.dll",0x1) - START
+trace:module:MODULE_InitDLL (0xd0d10000 L"version.dll",PROCESS_ATTACH,0x1) - CALL
+trace:module:MODULE_InitDLL (0xd0d10000,PROCESS_ATTACH,0x1) - RETURN 1
+trace:module:process_attach (L"version.dll",0x1) - END
+trace:module:MODULE_InitDLL (0xd0a80000 L"user32.dll",PROCESS_ATTACH,0x1) - CALL
+trace:module:GetModuleFileNameW L"D:\\th06e.exe"
+trace:module:LdrGetDllHandle L"gdi32" -> 0xd0be0000 (load path L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem")
+trace:module:load_dll looking for L"imm32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\imm32.dll"
+trace:module:get_load_order got hardcoded default for L"imm32.dll"
+trace:module:load_dll L"C:\\windows\\system32\\imm32.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"imm32.dll"
+trace:module:load_dll looking for L"user32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\user32.dll" for L"user32.dll" at 0xd0a80000, count=-1
+trace:module:load_dll looking for L"advapi32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\advapi32.dll" for L"advapi32.dll" at 0xd0a00000, count=-1
+trace:module:load_dll looking for L"kernel32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=-1
+trace:module:load_builtin_callback loaded imm32.dll 0x114530 0xd11b0000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\imm32.dll" (builtin) at 0xd11b0000
+trace:module:process_attach (L"imm32.dll",(nil)) - START
+trace:module:MODULE_InitDLL (0xd11b0000 L"imm32.dll",PROCESS_ATTACH,(nil)) - CALL
+trace:module:LdrGetDllHandle L"imm32.dll" -> 0xd11b0000 (load path L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem")
+trace:module:MODULE_InitDLL (0xd11b0000,PROCESS_ATTACH,(nil)) - RETURN 1
+trace:module:process_attach (L"imm32.dll",(nil)) - END
+trace:module:MODULE_InitDLL (0xd0a80000,PROCESS_ATTACH,0x1) - RETURN 1
+trace:module:process_attach (L"user32.dll",0x1) - END
+trace:module:process_attach (L"rpcrt4.dll",0x1) - START
+trace:module:MODULE_InitDLL (0xd0d30000 L"rpcrt4.dll",PROCESS_ATTACH,0x1) - CALL
+trace:module:MODULE_InitDLL (0xd0d30000,PROCESS_ATTACH,0x1) - RETURN 1
+trace:module:process_attach (L"rpcrt4.dll",0x1) - END
+trace:module:MODULE_InitDLL (0xd08c0000 L"ole32.dll",PROCESS_ATTACH,0x1) - CALL
+trace:module:MODULE_InitDLL (0xd08c0000,PROCESS_ATTACH,0x1) - RETURN 1
+trace:module:process_attach (L"ole32.dll",0x1) - END
+trace:module:MODULE_InitDLL (0xd0890000 L"dinput8.dll",PROCESS_ATTACH,0x1) - CALL
+trace:module:MODULE_InitDLL (0xd0890000,PROCESS_ATTACH,0x1) - RETURN 1
+trace:module:process_attach (L"dinput8.dll",0x1) - END
+trace:module:process_attach (L"dsound.dll",0x1) - START
+trace:module:MODULE_InitDLL (0xd0dc0000 L"dsound.dll",PROCESS_ATTACH,0x1) - CALL
+trace:module:LdrAddRefDll (L"dsound.dll") ldr.LoadCount: -1
+trace:module:MODULE_InitDLL (0xd0dc0000,PROCESS_ATTACH,0x1) - RETURN 1
+trace:module:process_attach (L"dsound.dll",0x1) - END
+trace:module:process_attach (L"d3d8.dll",0x1) - START
+trace:module:process_attach (L"wined3d.dll",0x1) - START
+trace:module:process_attach (L"opengl32.dll",0x1) - START
+trace:module:MODULE_InitDLL (0x7a820000 L"opengl32.dll",PROCESS_ATTACH,0x1) - CALL
+trace:module:MODULE_InitDLL (0x7a820000,PROCESS_ATTACH,0x1) - RETURN 1
+trace:module:process_attach (L"opengl32.dll",0x1) - END
+trace:module:MODULE_InitDLL (0xd0e50000 L"wined3d.dll",PROCESS_ATTACH,0x1) - CALL
+trace:module:load_dll looking for L"user32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\user32.dll" for L"user32.dll" at 0xd0a80000, count=-1
+trace:module:load_builtin_callback loaded ntdll.dll 0x110158 0x7bc10000
+trace:module:load_builtin_dll Trying built-in L"kernel32.dll"
+trace:module:load_dll looking for L"ntdll.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"ntdll.dll" for L"ntdll.dll" at 0x7bc10000, count=2
+trace:module:load_builtin_callback loaded KERNEL32.dll 0x110200 0x7b820000
+trace:module:LdrGetDllHandle L"kernel32" -> 0x7b820000 (load path L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem")
+trace:module:load_dll looking for L"C:\\windows\\system32\\explorer.exe" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\explorer.exe"
+trace:module:get_load_order got hardcoded default for L"explorer.exe"
+trace:module:load_dll L"C:\\windows\\system32\\explorer.exe" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"explorer.exe"
+trace:module:load_builtin_callback loaded explorer.exe 0x110700 0xd0890000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\explorer.exe" (builtin) at 0xd0890000
+trace:module:load_dll looking for L"rpcrt4.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\rpcrt4.dll"
+trace:module:get_load_order got hardcoded default for L"rpcrt4.dll"
+trace:module:load_dll L"C:\\windows\\system32\\rpcrt4.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"rpcrt4.dll"
+trace:module:load_dll looking for L"advapi32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\advapi32.dll"
+trace:module:get_load_order got hardcoded default for L"advapi32.dll"
+trace:module:load_dll L"C:\\windows\\system32\\advapi32.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"advapi32.dll"
+trace:module:load_dll looking for L"kernel32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=2
+trace:module:load_dll looking for L"ntdll.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ntdll.dll" for L"ntdll.dll" at 0x7bc10000, count=3
+trace:module:load_builtin_callback loaded advapi32.dll 0x110800 0xd0960000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\advapi32.dll" (builtin) at 0xd0960000
+trace:module:load_dll looking for L"kernel32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=3
+trace:module:load_dll looking for L"ntdll.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ntdll.dll" for L"ntdll.dll" at 0x7bc10000, count=4
+trace:module:load_builtin_callback loaded rpcrt4.dll 0x110610 0xd08d0000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\rpcrt4.dll" (builtin) at 0xd08d0000
+trace:module:load_dll looking for L"user32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\user32.dll"
+trace:module:get_load_order got hardcoded default for L"user32.dll"
+trace:module:load_dll L"C:\\windows\\system32\\user32.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"user32.dll"
+trace:module:load_dll looking for L"gdi32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\gdi32.dll"
+trace:module:get_load_order got hardcoded default for L"gdi32.dll"
+trace:module:load_dll L"C:\\windows\\system32\\gdi32.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"gdi32.dll"
+trace:module:load_dll looking for L"advapi32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\advapi32.dll" for L"advapi32.dll" at 0xd0960000, count=2
+trace:module:load_dll looking for L"kernel32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=4
+trace:module:load_dll looking for L"ntdll.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ntdll.dll" for L"ntdll.dll" at 0x7bc10000, count=5
+trace:module:load_builtin_callback loaded gdi32.dll 0x110958 0xd0b40000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\gdi32.dll" (builtin) at 0xd0b40000
+trace:module:load_dll looking for L"version.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\version.dll"
+trace:module:get_load_order got hardcoded default for L"version.dll"
+trace:module:load_dll L"C:\\windows\\system32\\version.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"version.dll"
+trace:module:load_dll looking for L"kernel32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=5
+trace:module:load_dll looking for L"ntdll.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ntdll.dll" for L"ntdll.dll" at 0x7bc10000, count=6
+trace:module:load_builtin_callback loaded version.dll 0x110a00 0xd0c70000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\version.dll" (builtin) at 0xd0c70000
+trace:module:load_dll looking for L"advapi32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\advapi32.dll" for L"advapi32.dll" at 0xd0960000, count=3
+trace:module:load_dll looking for L"kernel32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=6
+trace:module:load_dll looking for L"ntdll.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ntdll.dll" for L"ntdll.dll" at 0x7bc10000, count=7
+trace:module:load_builtin_callback loaded user32.dll 0x1108b0 0xd09e0000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\user32.dll" (builtin) at 0xd09e0000
+trace:module:load_dll looking for L"gdi32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\gdi32.dll" for L"gdi32.dll" at 0xd0b40000, count=2
+trace:module:load_dll looking for L"advapi32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\advapi32.dll" for L"advapi32.dll" at 0xd0960000, count=4
+trace:module:load_dll looking for L"kernel32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=7
+trace:module:process_attach (L"explorer.exe",0x1) - START
+trace:module:process_attach (L"rpcrt4.dll",0x1) - START
+trace:module:process_attach (L"advapi32.dll",0x1) - START
+trace:module:process_attach (L"KERNEL32.dll",0x1) - START
+trace:module:process_attach (L"ntdll.dll",0x1) - START
+trace:module:MODULE_InitDLL (0x7bc10000 L"ntdll.dll",PROCESS_ATTACH,0x1) - CALL
+trace:module:MODULE_InitDLL (0x7bc10000,PROCESS_ATTACH,0x1) - RETURN 1
+trace:module:process_attach (L"ntdll.dll",0x1) - END
+trace:module:MODULE_InitDLL (0x7b820000 L"KERNEL32.dll",PROCESS_ATTACH,0x1) - CALL
+trace:module:MODULE_InitDLL (0x7b820000,PROCESS_ATTACH,0x1) - RETURN 1
+trace:module:process_attach (L"KERNEL32.dll",0x1) - END
+trace:module:MODULE_InitDLL (0xd0960000 L"advapi32.dll",PROCESS_ATTACH,0x1) - CALL
+trace:module:MODULE_InitDLL (0xd0960000,PROCESS_ATTACH,0x1) - RETURN 1
+trace:module:process_attach (L"advapi32.dll",0x1) - END
+trace:module:MODULE_InitDLL (0xd08d0000 L"rpcrt4.dll",PROCESS_ATTACH,0x1) - CALL
+trace:module:MODULE_InitDLL (0xd08d0000,PROCESS_ATTACH,0x1) - RETURN 1
+trace:module:process_attach (L"rpcrt4.dll",0x1) - END
+trace:module:process_attach (L"user32.dll",0x1) - START
+trace:module:process_attach (L"gdi32.dll",0x1) - START
+trace:module:MODULE_InitDLL (0xd0b40000 L"gdi32.dll",PROCESS_ATTACH,0x1) - CALL
+trace:module:MODULE_InitDLL (0xd0b40000,PROCESS_ATTACH,0x1) - RETURN 1
+trace:module:process_attach (L"gdi32.dll",0x1) - END
+trace:module:process_attach (L"version.dll",0x1) - START
+trace:module:MODULE_InitDLL (0xd0c70000 L"version.dll",PROCESS_ATTACH,0x1) - CALL
+trace:module:MODULE_InitDLL (0xd0c70000,PROCESS_ATTACH,0x1) - RETURN 1
+trace:module:process_attach (L"version.dll",0x1) - END
+trace:module:MODULE_InitDLL (0xd09e0000 L"user32.dll",PROCESS_ATTACH,0x1) - CALL
+trace:module:LdrGetDllHandle L"gdi32" -> 0xd0b40000 (load path L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem")
+trace:module:load_dll looking for L"imm32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\imm32.dll"
+trace:module:get_load_order got hardcoded default for L"imm32.dll"
+trace:module:load_dll L"C:\\windows\\system32\\imm32.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"imm32.dll"
+trace:module:load_dll looking for L"user32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\user32.dll" for L"user32.dll" at 0xd09e0000, count=-1
+trace:module:load_dll looking for L"advapi32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\advapi32.dll" for L"advapi32.dll" at 0xd0960000, count=-1
+trace:module:load_dll looking for L"kernel32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=-1
+trace:module:load_builtin_callback loaded imm32.dll 0x113ef0 0xd0da0000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\imm32.dll" (builtin) at 0xd0da0000
+trace:module:process_attach (L"imm32.dll",(nil)) - START
+trace:module:MODULE_InitDLL (0xd0da0000 L"imm32.dll",PROCESS_ATTACH,(nil)) - CALL
+trace:module:LdrGetDllHandle L"imm32.dll" -> 0xd0da0000 (load path L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem")
+trace:module:MODULE_InitDLL (0xd0da0000,PROCESS_ATTACH,(nil)) - RETURN 1
+trace:module:process_attach (L"imm32.dll",(nil)) - END
+trace:module:MODULE_InitDLL (0xd09e0000,PROCESS_ATTACH,0x1) - RETURN 1
+trace:module:process_attach (L"user32.dll",0x1) - END
+trace:module:process_attach (L"explorer.exe",0x1) - END
+trace:module:load_dll looking for L"winex11.drv" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\winex11.drv"
+trace:module:get_load_order got hardcoded default for L"winex11.drv"
+trace:module:load_dll L"C:\\windows\\system32\\winex11.drv" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"winex11.drv"
+trace:module:load_dll looking for L"user32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\user32.dll" for L"user32.dll" at 0xd09e0000, count=-1
+trace:module:load_dll looking for L"gdi32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\gdi32.dll" for L"gdi32.dll" at 0xd0b40000, count=-1
+trace:module:load_dll looking for L"kernel32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=-1
+trace:module:load_dll looking for L"ntdll.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ntdll.dll" for L"ntdll.dll" at 0x7bc10000, count=-1
+trace:module:load_builtin_callback loaded winex11.drv 0x113fe0 0xd0dd0000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\winex11.drv" (builtin) at 0xd0dd0000
+trace:module:process_attach (L"winex11.drv",(nil)) - START
+trace:module:MODULE_InitDLL (0xd0dd0000 L"winex11.drv",PROCESS_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd0dd0000,PROCESS_ATTACH,(nil)) - RETURN 1
+trace:module:process_attach (L"winex11.drv",(nil)) - END
+trace:module:GetModuleFileNameW L"C:\\windows\\system32\\winex11.drv"
+trace:module:load_dll looking for L"C:\\windows\\system32\\winex11.drv" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\winex11.drv" for L"C:\\windows\\system32\\winex11.drv" at 0xd0dd0000, count=2
+trace:module:LdrAddRefDll (L"winex11.drv") ldr.LoadCount: 3
+trace:module:GetModuleFileNameW L"C:\\windows\\system32\\explorer.exe"
+trace:module:load_dll looking for L"shell32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\shell32.dll"
+trace:module:get_load_order got hardcoded default for L"shell32.dll"
+trace:module:load_dll L"C:\\windows\\system32\\shell32.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"shell32.dll"
+trace:module:load_dll looking for L"shlwapi.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\shlwapi.dll"
+trace:module:get_load_order got hardcoded default for L"shlwapi.dll"
+trace:module:load_dll L"C:\\windows\\system32\\shlwapi.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"shlwapi.dll"
+trace:module:load_dll looking for L"user32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\user32.dll" for L"user32.dll" at 0xd09e0000, count=-1
+trace:module:load_dll looking for L"gdi32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\gdi32.dll" for L"gdi32.dll" at 0xd0b40000, count=-1
+trace:module:load_dll looking for L"advapi32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\advapi32.dll" for L"advapi32.dll" at 0xd0960000, count=-1
+trace:module:load_dll looking for L"kernel32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=-1
+trace:module:load_dll looking for L"ntdll.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ntdll.dll" for L"ntdll.dll" at 0x7bc10000, count=-1
+trace:module:load_builtin_callback loaded shlwapi.dll 0x11fc20 0xd10c0000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\shlwapi.dll" (builtin) at 0xd10c0000
+trace:module:load_dll looking for L"user32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\user32.dll" for L"user32.dll" at 0xd09e0000, count=-1
+trace:module:load_dll looking for L"gdi32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\gdi32.dll" for L"gdi32.dll" at 0xd0b40000, count=-1
+trace:module:load_dll looking for L"advapi32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\advapi32.dll" for L"advapi32.dll" at 0xd0960000, count=-1
+trace:module:load_dll looking for L"kernel32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=-1
+trace:module:load_dll looking for L"ntdll.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ntdll.dll" for L"ntdll.dll" at 0x7bc10000, count=-1
+trace:module:load_builtin_callback loaded shell32.dll 0x11f588 0xd0e70000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\shell32.dll" (builtin) at 0xd0e70000
+trace:module:process_attach (L"shell32.dll",(nil)) - START
+trace:module:process_attach (L"shlwapi.dll",(nil)) - START
+trace:module:MODULE_InitDLL (0xd10c0000 L"shlwapi.dll",PROCESS_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd10c0000,PROCESS_ATTACH,(nil)) - RETURN 1
+trace:module:process_attach (L"shlwapi.dll",(nil)) - END
+trace:module:MODULE_InitDLL (0xd0e70000 L"shell32.dll",PROCESS_ATTACH,(nil)) - CALL
+trace:module:GetModuleFileNameW L"C:\\windows\\system32\\shell32.dll"
+trace:module:MODULE_InitDLL (0xd0e70000,PROCESS_ATTACH,(nil)) - RETURN 1
+trace:module:process_attach (L"shell32.dll",(nil)) - END
+trace:module:load_dll looking for L"shell32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\shell32.dll" for L"shell32.dll" at 0xd0e70000, count=2
+trace:module:load_dll looking for L"ole32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\ole32.dll"
+trace:module:get_load_order got hardcoded default for L"ole32.dll"
+trace:module:load_dll L"C:\\windows\\system32\\ole32.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"ole32.dll"
+trace:module:load_dll looking for L"advapi32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\advapi32.dll" for L"advapi32.dll" at 0xd0960000, count=-1
+trace:module:load_dll looking for L"user32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\user32.dll" for L"user32.dll" at 0xd09e0000, count=-1
+trace:module:load_dll looking for L"gdi32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\gdi32.dll" for L"gdi32.dll" at 0xd0b40000, count=-1
+trace:module:load_dll looking for L"rpcrt4.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\rpcrt4.dll" for L"rpcrt4.dll" at 0xd08d0000, count=-1
+trace:module:load_dll looking for L"kernel32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=-1
+trace:module:load_dll looking for L"ntdll.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ntdll.dll" for L"ntdll.dll" at 0x7bc10000, count=-1
+trace:module:load_builtin_callback loaded ole32.dll 0x1208c0 0xd1150000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\ole32.dll" (builtin) at 0xd1150000
+trace:module:process_attach (L"ole32.dll",(nil)) - START
+trace:module:MODULE_InitDLL (0xd1150000 L"ole32.dll",PROCESS_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd1150000,PROCESS_ATTACH,(nil)) - RETURN 1
+trace:module:process_attach (L"ole32.dll",(nil)) - END
+trace:module:load_dll looking for L"ole32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ole32.dll" for L"ole32.dll" at 0xd1150000, count=2
+trace:module:load_dll looking for L"C:\\windows\\system32\\ole32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ole32.dll" for L"C:\\windows\\system32\\ole32.dll" at 0xd1150000, count=3
+trace:module:MODULE_InitDLL (0xd08d0000 L"rpcrt4.dll",THREAD_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd08d0000,THREAD_ATTACH,(nil)) - RETURN 1
+trace:module:MODULE_InitDLL (0xd09e0000 L"user32.dll",THREAD_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd09e0000,THREAD_ATTACH,(nil)) - RETURN 1
+trace:module:MODULE_InitDLL (0xd0da0000 L"imm32.dll",THREAD_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd0da0000,THREAD_ATTACH,(nil)) - RETURN 1
+trace:module:MODULE_InitDLL (0xd1150000 L"ole32.dll",THREAD_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd1150000,THREAD_ATTACH,(nil)) - RETURN 1
+trace:module:load_dll looking for L"C:\\windows\\system32\\actxprxy.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\actxprxy.dll"
+trace:module:get_load_order got hardcoded default for L"actxprxy.dll"
+trace:module:load_dll L"C:\\windows\\system32\\actxprxy.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"actxprxy.dll"
+trace:module:load_dll looking for L"oleaut32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\oleaut32.dll"
+trace:module:get_load_order got hardcoded default for L"oleaut32.dll"
+trace:module:load_dll L"C:\\windows\\system32\\oleaut32.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"oleaut32.dll"
+trace:module:load_dll looking for L"ole32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ole32.dll" for L"ole32.dll" at 0xd1150000, count=4
+trace:module:load_dll looking for L"rpcrt4.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\rpcrt4.dll" for L"rpcrt4.dll" at 0xd08d0000, count=-1
+trace:module:load_dll looking for L"user32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\user32.dll" for L"user32.dll" at 0xd09e0000, count=-1
+trace:module:load_dll looking for L"gdi32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\gdi32.dll" for L"gdi32.dll" at 0xd0b40000, count=-1
+trace:module:load_dll looking for L"advapi32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\advapi32.dll" for L"advapi32.dll" at 0xd0960000, count=-1
+trace:module:load_dll looking for L"kernel32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=-1
+trace:module:load_builtin_callback loaded oleaut32.dll 0x1215e8 0xd1570000
+trace:module:load_dll looking for L"C:\\windows\\system32\\winex11.drv" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\oleaut32.dll" (builtin) at 0xd1570000
+trace:module:get_load_order looking for L"C:\\windows\\system32\\winex11.drv"
+trace:module:load_dll looking for L"ole32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order got hardcoded default for L"winex11.drv"
+trace:module:load_dll Found L"C:\\windows\\system32\\ole32.dll" for L"ole32.dll" at 0xd1150000, count=5
+trace:module:load_dll L"C:\\windows\\system32\\winex11.drv" is a fake Wine dll
+trace:module:load_dll looking for L"rpcrt4.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_builtin_dll Trying built-in L"winex11.drv"
+trace:module:load_dll Found L"C:\\windows\\system32\\rpcrt4.dll" for L"rpcrt4.dll" at 0xd08d0000, count=-1
+trace:module:load_dll looking for L"kernel32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll looking for L"user32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=-1
+trace:module:load_dll Found L"C:\\windows\\system32\\user32.dll" for L"user32.dll" at 0xd0a80000, count=-1
+trace:module:load_builtin_callback loaded actxprxy.dll 0x1214e8 0xd1420000
+trace:module:load_dll looking for L"gdi32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\actxprxy.dll" (builtin) at 0xd1420000
+trace:module:load_dll Found L"C:\\windows\\system32\\gdi32.dll" for L"gdi32.dll" at 0xd0be0000, count=-1
+trace:module:process_attach (L"actxprxy.dll",(nil)) - START
+trace:module:load_dll looking for L"kernel32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:process_attach (L"oleaut32.dll",(nil)) - START
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=-1
+trace:module:MODULE_InitDLL (0xd1570000 L"oleaut32.dll",PROCESS_ATTACH,(nil)) - CALL
+trace:module:load_dll looking for L"ntdll.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:MODULE_InitDLL (0xd1570000,PROCESS_ATTACH,(nil)) - RETURN 1
+trace:module:load_dll Found L"C:\\windows\\system32\\ntdll.dll" for L"ntdll.dll" at 0x7bc10000, count=-1
+trace:module:process_attach (L"oleaut32.dll",(nil)) - END
+trace:module:load_builtin_callback loaded winex11.drv 0x114708 0xd11e0000
+trace:module:MODULE_InitDLL (0xd1420000 L"actxprxy.dll",PROCESS_ATTACH,(nil)) - CALL
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\winex11.drv" (builtin) at 0xd11e0000
+trace:module:MODULE_InitDLL (0xd1420000,PROCESS_ATTACH,(nil)) - RETURN 1
+trace:module:process_attach (L"winex11.drv",(nil)) - START
+trace:module:process_attach (L"actxprxy.dll",(nil)) - END
+trace:module:MODULE_InitDLL (0xd11e0000 L"winex11.drv",PROCESS_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd08d0000 L"rpcrt4.dll",THREAD_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd11e0000,PROCESS_ATTACH,(nil)) - RETURN 1
+trace:module:MODULE_InitDLL (0xd08d0000,THREAD_ATTACH,(nil)) - RETURN 1
+trace:module:process_attach (L"winex11.drv",(nil)) - END
+trace:module:MODULE_InitDLL (0xd09e0000 L"user32.dll",THREAD_ATTACH,(nil)) - CALL
+trace:module:LdrAddRefDll (L"winex11.drv") ldr.LoadCount: 2
+trace:module:MODULE_InitDLL (0xd09e0000,THREAD_ATTACH,(nil)) - RETURN 1
+trace:module:MODULE_InitDLL (0xd0da0000 L"imm32.dll",THREAD_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd0da0000,THREAD_ATTACH,(nil)) - RETURN 1
+trace:module:MODULE_InitDLL (0xd1150000 L"ole32.dll",THREAD_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd1150000,THREAD_ATTACH,(nil)) - RETURN 1
+trace:module:MODULE_InitDLL (0xd08d0000 L"rpcrt4.dll",THREAD_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd08d0000,THREAD_ATTACH,(nil)) - RETURN 1
+trace:module:MODULE_InitDLL (0xd09e0000 L"user32.dll",THREAD_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd09e0000,THREAD_ATTACH,(nil)) - RETURN 1
+trace:module:MODULE_InitDLL (0xd0da0000 L"imm32.dll",THREAD_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd0da0000,THREAD_ATTACH,(nil)) - RETURN 1
+trace:module:MODULE_InitDLL (0xd1150000 L"ole32.dll",THREAD_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd1150000,THREAD_ATTACH,(nil)) - RETURN 1
+trace:module:GetModuleFileNameW L"D:\\th06e.exe"
+trace:module:MODULE_InitDLL (0xd0e50000,PROCESS_ATTACH,0x1) - RETURN 1
+trace:module:process_attach (L"wined3d.dll",0x1) - END
+trace:module:MODULE_InitDLL (0xd0e10000 L"d3d8.dll",PROCESS_ATTACH,0x1) - CALL
+trace:module:MODULE_InitDLL (0xd0e10000,PROCESS_ATTACH,0x1) - RETURN 1
+trace:module:process_attach (L"d3d8.dll",0x1) - END
+trace:module:process_attach (L"winmm.dll",0x1) - START
+trace:module:process_attach (L"msacm32.dll",0x1) - START
+trace:module:MODULE_InitDLL (0xd1070000 L"msacm32.dll",PROCESS_ATTACH,0x1) - CALL
+trace:module:MODULE_InitDLL (0xd1070000,PROCESS_ATTACH,0x1) - RETURN 1
+trace:module:process_attach (L"msacm32.dll",0x1) - END
+trace:module:MODULE_InitDLL (0xd0fb0000 L"winmm.dll",PROCESS_ATTACH,0x1) - CALL
+trace:module:MODULE_InitDLL (0xd0fb0000,PROCESS_ATTACH,0x1) - RETURN 1
+trace:module:process_attach (L"winmm.dll",0x1) - END
+trace:module:process_attach (L"th06e.exe",0x1) - END
+trace:module:LdrGetDllHandle L"kernel32.dll" -> 0x7b820000 (load path L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem")
+trace:module:GetModuleFileNameW L"D:\\th06e.exe"
+trace:module:LdrGetDllHandle L"KERNEL32" -> 0x7b820000 (load path L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem")
+trace:module:load_dll looking for L"C:\\windows\\system32\\mmdevapi.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\mmdevapi.dll"
+trace:module:get_load_order got hardcoded default for L"mmdevapi.dll"
+trace:module:load_dll L"C:\\windows\\system32\\mmdevapi.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"mmdevapi.dll"
+trace:module:load_dll looking for L"ole32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ole32.dll" for L"ole32.dll" at 0xd08c0000, count=-1
+trace:module:load_dll looking for L"oleaut32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\oleaut32.dll"
+trace:module:get_load_order got hardcoded default for L"oleaut32.dll"
+trace:module:load_dll L"C:\\windows\\system32\\oleaut32.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"oleaut32.dll"
+trace:module:load_dll looking for L"ole32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ole32.dll" for L"ole32.dll" at 0xd08c0000, count=-1
+trace:module:load_dll looking for L"rpcrt4.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\rpcrt4.dll" for L"rpcrt4.dll" at 0xd0d30000, count=-1
+trace:module:load_dll looking for L"user32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\user32.dll" for L"user32.dll" at 0xd0a80000, count=-1
+trace:module:load_dll looking for L"gdi32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\gdi32.dll" for L"gdi32.dll" at 0xd0be0000, count=-1
+trace:module:load_dll looking for L"advapi32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\advapi32.dll" for L"advapi32.dll" at 0xd0a00000, count=-1
+trace:module:load_dll looking for L"kernel32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=-1
+trace:module:load_builtin_callback loaded oleaut32.dll 0x11f5a8 0xd12c0000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\oleaut32.dll" (builtin) at 0xd12c0000
+trace:module:load_dll looking for L"user32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\user32.dll" for L"user32.dll" at 0xd0a80000, count=-1
+trace:module:load_dll looking for L"advapi32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\advapi32.dll" for L"advapi32.dll" at 0xd0a00000, count=-1
+trace:module:load_dll looking for L"kernel32.dll" in L"C:\\windows\\system32;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=-1
+trace:module:load_builtin_callback loaded mmdevapi.dll 0x11a6d0 0xd1280000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\mmdevapi.dll" (builtin) at 0xd1280000
+trace:module:process_attach (L"mmdevapi.dll",(nil)) - START
+trace:module:process_attach (L"oleaut32.dll",(nil)) - START
+trace:module:MODULE_InitDLL (0xd12c0000 L"oleaut32.dll",PROCESS_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd12c0000,PROCESS_ATTACH,(nil)) - RETURN 1
+trace:module:process_attach (L"oleaut32.dll",(nil)) - END
+trace:module:MODULE_InitDLL (0xd1280000 L"mmdevapi.dll",PROCESS_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd1280000,PROCESS_ATTACH,(nil)) - RETURN 1
+trace:module:process_attach (L"mmdevapi.dll",(nil)) - END
+trace:module:load_dll looking for L"winepulse.drv" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\winepulse.drv"
+trace:module:get_load_order got hardcoded default for L"winepulse.drv"
+trace:module:load_dll L"C:\\windows\\system32\\winepulse.drv" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"winepulse.drv"
+err:module:load_builtin_dll failed to load .so lib for builtin L"winepulse.drv": libpulse.so.0: cannot open shared object file: No such file or directory
+warn:module:load_dll Failed to load module L"winepulse.drv"; status=c000007a
+trace:module:load_dll looking for L"winealsa.drv" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\winealsa.drv"
+trace:module:get_load_order got hardcoded default for L"winealsa.drv"
+trace:module:load_dll L"C:\\windows\\system32\\winealsa.drv" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"winealsa.drv"
+err:module:load_builtin_dll failed to load .so lib for builtin L"winealsa.drv": libasound.so.2: cannot open shared object file: No such file or directory
+warn:module:load_dll Failed to load module L"winealsa.drv"; status=c000007a
+trace:module:load_dll looking for L"wineoss.drv" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\wineoss.drv"
+trace:module:get_load_order got hardcoded default for L"wineoss.drv"
+trace:module:load_dll L"C:\\windows\\system32\\wineoss.drv" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"wineoss.drv"
+trace:module:load_dll looking for L"ole32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\ole32.dll" for L"ole32.dll" at 0xd08c0000, count=-1
+trace:module:load_dll looking for L"user32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\user32.dll" for L"user32.dll" at 0xd0a80000, count=-1
+trace:module:load_dll looking for L"advapi32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\advapi32.dll" for L"advapi32.dll" at 0xd0a00000, count=-1
+trace:module:load_dll looking for L"kernel32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=-1
+trace:module:load_builtin_callback loaded wineoss.drv 0x11f4e8 0xd1400000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\wineoss.drv" (builtin) at 0xd1400000
+trace:module:process_attach (L"wineoss.drv",(nil)) - START
+trace:module:MODULE_InitDLL (0xd1400000 L"wineoss.drv",PROCESS_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd1400000,PROCESS_ATTACH,(nil)) - RETURN 1
+trace:module:process_attach (L"wineoss.drv",(nil)) - END
+trace:module:load_dll looking for L"winecoreaudio.drv" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"winecoreaudio.drv"
+trace:module:get_load_order got hardcoded default for L"winecoreaudio.drv"
+trace:module:load_builtin_dll Trying built-in L"winecoreaudio.drv"
+warn:module:load_builtin_dll cannot open .so lib for builtin L"winecoreaudio.drv": /bin/../lib/wine/winecoreaudio.drv.so: cannot open shared object file: No such file or directory
+warn:module:load_dll Failed to load module L"winecoreaudio.drv"; status=c0000135
+trace:module:load_dll looking for L"wineoss.drv" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\wineoss.drv" for L"wineoss.drv" at 0xd1400000, count=2
+trace:module:load_dll looking for L"msacm32.drv" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\msacm32.drv"
+trace:module:get_load_order got hardcoded default for L"msacm32.drv"
+trace:module:load_dll L"C:\\windows\\system32\\msacm32.drv" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"msacm32.drv"
+trace:module:load_dll looking for L"msacm32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\msacm32.dll" for L"msacm32.dll" at 0xd1070000, count=-1
+trace:module:load_dll looking for L"winmm.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\winmm.dll" for L"winmm.dll" at 0xd0fb0000, count=-1
+trace:module:load_dll looking for L"user32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\user32.dll" for L"user32.dll" at 0xd0a80000, count=-1
+trace:module:load_dll looking for L"kernel32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=-1
+trace:module:load_builtin_callback loaded msacm32.drv 0x11fb28 0xd1430000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\msacm32.drv" (builtin) at 0xd1430000
+trace:module:process_attach (L"msacm32.drv",(nil)) - START
+trace:module:MODULE_InitDLL (0xd1430000 L"msacm32.drv",PROCESS_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd1430000,PROCESS_ATTACH,(nil)) - RETURN 1
+trace:module:process_attach (L"msacm32.drv",(nil)) - END
+trace:module:load_dll looking for L"midimap.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\midimap.dll"
+trace:module:get_load_order got hardcoded default for L"midimap.dll"
+trace:module:load_dll L"C:\\windows\\system32\\midimap.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"midimap.dll"
+trace:module:load_dll looking for L"winmm.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\winmm.dll" for L"winmm.dll" at 0xd0fb0000, count=-1
+trace:module:load_dll looking for L"user32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\user32.dll" for L"user32.dll" at 0xd0a80000, count=-1
+trace:module:load_dll looking for L"advapi32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\advapi32.dll" for L"advapi32.dll" at 0xd0a00000, count=-1
+trace:module:load_dll looking for L"kernel32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+err:ntdll:RtlpWaitForCriticalSection section 0x7bcdbfe0 "loader.c: loader_section" wait timed out in thread 0011, blocked by 0009, retrying (60 sec)
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=-1
+trace:module:load_builtin_callback loaded midimap.dll 0x11fcb8 0xd1450000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\midimap.dll" (builtin) at 0xd1450000
+trace:module:process_attach (L"midimap.dll",(nil)) - START
+trace:module:MODULE_InitDLL (0xd1450000 L"midimap.dll",PROCESS_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd1450000,PROCESS_ATTACH,(nil)) - RETURN 1
+trace:module:process_attach (L"midimap.dll",(nil)) - END
+trace:module:MODULE_InitDLL (0xd0a80000 L"user32.dll",THREAD_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd0a80000,THREAD_ATTACH,(nil)) - RETURN 1
+fixme:win:EnumDisplayDevicesW ((null),0,0x32f898,0x00000000), stub!
+trace:module:MODULE_InitDLL (0xd11b0000 L"imm32.dll",THREAD_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd11b0000,THREAD_ATTACH,(nil)) - RETURN 1
+trace:module:MODULE_InitDLL (0xd0d30000 L"rpcrt4.dll",THREAD_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd0d30000,THREAD_ATTACH,(nil)) - RETURN 1
+trace:module:MODULE_InitDLL (0xd08c0000 L"ole32.dll",THREAD_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd08c0000,THREAD_ATTACH,(nil)) - RETURN 1
+trace:module:MODULE_InitDLL (0x7a820000 L"opengl32.dll",THREAD_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0x7a820000,THREAD_ATTACH,(nil)) - RETURN 1
+trace:module:MODULE_InitDLL (0xd1400000 L"wineoss.drv",THREAD_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd1400000,THREAD_ATTACH,(nil)) - RETURN 1
+trace:module:GetModuleFileNameW L"D:\\th06e.exe"
+trace:module:load_dll looking for L"usp10.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:get_load_order looking for L"C:\\windows\\system32\\usp10.dll"
+trace:module:get_load_order got hardcoded default for L"usp10.dll"
+trace:module:load_dll L"C:\\windows\\system32\\usp10.dll" is a fake Wine dll
+trace:module:load_builtin_dll Trying built-in L"usp10.dll"
+trace:module:load_dll looking for L"advapi32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\advapi32.dll" for L"advapi32.dll" at 0xd0a00000, count=-1
+trace:module:load_dll looking for L"user32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\user32.dll" for L"user32.dll" at 0xd0a80000, count=-1
+trace:module:load_dll looking for L"gdi32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\gdi32.dll" for L"gdi32.dll" at 0xd0be0000, count=-1
+trace:module:load_dll looking for L"kernel32.dll" in L"D:\\;.;C:\\windows\\system32;C:\\windows\\system;C:\\windows;C:\\windows\\system32;C:\\windows;C:\\windows\\system32\\wbem"
+trace:module:load_dll Found L"C:\\windows\\system32\\KERNEL32.dll" for L"kernel32.dll" at 0x7b820000, count=-1
+trace:module:load_builtin_callback loaded usp10.dll 0x128cd8 0xd1470000
+trace:module:load_dll Loaded module L"C:\\windows\\system32\\usp10.dll" (builtin) at 0xd1470000
+trace:module:process_attach (L"usp10.dll",(nil)) - START
+trace:module:MODULE_InitDLL (0xd1470000 L"usp10.dll",PROCESS_ATTACH,(nil)) - CALL
+trace:module:MODULE_InitDLL (0xd1470000,PROCESS_ATTACH,(nil)) - RETURN 1
+trace:module:process_attach (L"usp10.dll",(nil)) - END
+trace:module:GetModuleFileNameW L"C:\\windows\\system32\\user32.dll"
+trace:module:GetModuleFileNameW L"C:\\windows\\system32\\user32.dll"
+trace:module:GetModuleFileNameW L"C:\\windows\\system32\\user32.dll"
+trace:module:GetModuleFileNameW L"C:\\windows\\system32\\user32.dll"
+trace:module:GetModuleFileNameW L"C:\\windows\\system32\\user32.dll"
+trace:module:GetModuleFileNameW L"C:\\windows\\system32\\user32.dll"
+trace:module:GetModuleFileNameW L"C:\\windows\\system32\\user32.dll"
+trace:module:GetModuleFileNameW L"C:\\windows\\system32\\user32.dll"
