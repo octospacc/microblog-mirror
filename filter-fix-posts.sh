@@ -16,10 +16,10 @@ do
 		then rm -v {}
 		else
 			head -n${yamlEnd} {} > {}.yaml.tmp
-			sed -i -E sed -E ":a; N; $!ba; s/(:\s*)>\n\s*/\1/; s/>\n\s*/ /g; s/\n\s+/ /g" {}.yaml.tmp
+			sed -i -E ":a; N; $!ba; s/(:\s*)>\n\s*/\1/; s/>\n\s*/ /g; s/\n\s+/ /g" {}.yaml.tmp
 			set $(head -n${yamlEnd} {} | grep "post_date: "); date="$2 $3"; day="$2" #dateSlug="$(echo "$2-$3" | sed "s/:/-/g")"
-			#set $(head -n${yamlEnd} {} | grep "post_name: "); slug="$(echo "$2" | "s/\"//g")"
-			set $(grep "post_name: " {}.yaml.tmp); slug="$(echo "$2" | "s/\"//g")"
+			#set $(head -n${yamlEnd} {} | grep "post_name: "); slug="$(echo "$2" | sed "s/\"//g")"
+			set $(grep "post_name: " {}.yaml.tmp); slug="$(echo "$2" | sed "s/\"//g")"
 			head -n${yamlEnd} {} | head -n-1 > {}.tmp
 			#set $(head -n${yamlEnd} {} | grep "post_title: "); shift; echo "title: $@" >> {}.tmp
 			set $(grep "post_title: " {}.yaml.tmp); shift; echo "title: $@" >> {}.tmp
