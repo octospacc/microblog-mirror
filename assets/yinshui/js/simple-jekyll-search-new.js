@@ -74,8 +74,8 @@ function LiteralSearchStrategy () {
   this.matches = function (str, crit) {
     if (!str) return false
 
-    str = str.trim().toLowerCase()
-    crit = crit.trim().toLowerCase()
+    str = str.toString().trim().toLowerCase()
+    crit = crit.toString().trim().toLowerCase()
 
     return crit.split(' ').filter(function (word) {
       return str.indexOf(word) >= 0

@@ -4,7 +4,7 @@ description: ""
 baseurl: "/microblog-mirror/"
 url: "https://octospacc.github.io"
 #email: "jj@hengwei.me"
-permalink: "/:categories/:year/:month/:day/:hour/:minute/:second.html"
+permalink: "/:year/:month/:day/:slug.html"
 relative_permalinks: false
 paginate: 50
 paginate_path: "/page/:num/"
@@ -38,10 +38,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate
-  - jekyll-mentions
   - jemoji
   - jekyll-timeago
   - jekyll-hashtags
+#  - jekyll-mentions
 
-jekyll-mentions:
-  base_url: https://twitter.com
+#jekyll-mentions:
+#  base_url: https://twitter.com

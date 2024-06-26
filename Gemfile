@@ -7,5 +7,5 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
 end
 gem 'jekyll-paginate'
-gem 'jekyll-mentions'
+#gem 'jekyll-mentions'
 gem 'jemoji'
