@@ -10,8 +10,11 @@ link: >
 published: true
 tags:
   - design
+  - Hugo
+  - online
   - personal
   - site
+  - sito
   - sitocto
   - sitoctt
   - web

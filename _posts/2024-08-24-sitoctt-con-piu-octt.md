@@ -9,7 +9,12 @@ link: >
   https://octospacc.altervista.org/2024/08/24/sitoctt-con-piu-octt/
 published: true
 tags:
+  - generatore
   - Hugo
+  - prototipi
+  - sito
+  - sitoctt
+  - traduzioni
 categories:
   - Senza categoria
 title: sitoctt con più octt
