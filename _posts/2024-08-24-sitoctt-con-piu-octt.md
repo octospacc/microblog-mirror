@@ -22,7 +22,7 @@ date: 2024-08-24 10:20:54
 canonical_url:   https://octospacc.altervista.org/2024/08/24/sitoctt-con-piu-octt/
 ---
 <!-- wp:paragraph -->
-<p>Ancora una volta... sito!!! Finita <a href="2024/08/22/il-sitocto-senza-sito/">la confusione dell'altro ieri</a>, ho deciso che uso Hugo come #generatore. Sembra che si possa adattare ai paradigmi originali del #sitoctt senza eccessivo sforzo, e ha anche roba sua in più conveniente; per esempio, non separa strettissimamente le pagine dai post, e in una lista di pagine recenti ci va un po' tutto quello modificato di recente, ideale per un sito come il mio... 👀</p>
+<p>Ancora una volta... sito!!! Finita <a href="/microblog-mirror/2024/08/22/il-sitocto-senza-sito/">la confusione dell'altro ieri</a>, ho deciso che uso Hugo come #generatore. Sembra che si possa adattare ai paradigmi originali del #sitoctt senza eccessivo sforzo, e ha anche roba sua in più conveniente; per esempio, non separa strettissimamente le pagine dai post, e in una lista di pagine recenti ci va un po' tutto quello modificato di recente, ideale per un sito come il mio... 👀</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

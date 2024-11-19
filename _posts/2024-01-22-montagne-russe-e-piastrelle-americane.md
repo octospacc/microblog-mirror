@@ -77,5 +77,5 @@ canonical_url:   https://octospacc.altervista.org/2024/01/22/montagne-russe-e-pi
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1300,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{site.cdnurl}}/assets/uploads/2024/01/Untitled.png" alt="" class="wp-image-1300"/><figcaption class="wp-element-caption"><a href="dati-e-grafici-%f0%9f%93%8a%ef%b8%8f/">https://octospacc.altervista.org/dati-e-grafici-%f0%9f%93%8a%ef%b8%8f/</a></figcaption></figure>
+<figure class="wp-block-image size-full"><img src="{{site.cdnurl}}/assets/uploads/2024/01/Untitled.png" alt="" class="wp-image-1300"/><figcaption class="wp-element-caption"><a href="/microblog-mirror/dati-e-grafici-%f0%9f%93%8a%ef%b8%8f/">https://octospacc.altervista.org/dati-e-grafici-%f0%9f%93%8a%ef%b8%8f/</a></figcaption></figure>
 <!-- /wp:image -->

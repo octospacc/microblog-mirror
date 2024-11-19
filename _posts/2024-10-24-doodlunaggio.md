@@ -32,7 +32,7 @@ canonical_url:   https://octospacc.altervista.org/2024/10/24/doodlunaggio/
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":10669,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="{{site.cdnurl}}/assets/uploads/2024/10/image-12.png" alt="Schermata aiuto del gioco" class="wp-image-10669"/><figcaption class="wp-element-caption">È praticamente un giochino di carte con la Luna, <em>quel</em> satellite che mi causa ciclicamente sbalzi d'umore, <a href="2024/07/06/io-m/">come ho in passato decretato</a> con metodo assolutamente scientifico! Precisamente, si gioca <em>contro</em> la Mezza Luna, cercando di fare più punti di lei, nel piazzare carte che rappresentano i vari cicli lunari e si possono combinare in vari modi. 🙀️</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="{{site.cdnurl}}/assets/uploads/2024/10/image-12.png" alt="Schermata aiuto del gioco" class="wp-image-10669"/><figcaption class="wp-element-caption">È praticamente un giochino di carte con la Luna, <em>quel</em> satellite che mi causa ciclicamente sbalzi d'umore, <a href="/microblog-mirror/2024/07/06/io-m/">come ho in passato decretato</a> con metodo assolutamente scientifico! Precisamente, si gioca <em>contro</em> la Mezza Luna, cercando di fare più punti di lei, nel piazzare carte che rappresentano i vari cicli lunari e si possono combinare in vari modi. 🙀️</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

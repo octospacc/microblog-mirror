@@ -87,7 +87,7 @@ canonical_url:   https://octospacc.altervista.org/2024/04/03/webaps-heist/
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>🔚 Aggiustamenti finali: in base alla situazione, vanno fatte altre modifiche al source per ovviare a #problemi banali ma frequenti. La maggior parte riguardano i domini, che in certi casi sono hardcodati, e quindi o ci sono iframe che comunicano con la Messaging API e gli va cambiato il dominio (come per il gioco di ieri), o c'è del DRM che ostacola il #rehosting (come <a href="2024/04/02/geometrico-nel-brauser/">il giochino dell'altro ieri</a>) ecc... con #pazienza si risolve tutto.<!-- wp:list -->
+<li>🔚 Aggiustamenti finali: in base alla situazione, vanno fatte altre modifiche al source per ovviare a #problemi banali ma frequenti. La maggior parte riguardano i domini, che in certi casi sono hardcodati, e quindi o ci sono iframe che comunicano con la Messaging API e gli va cambiato il dominio (come per il gioco di ieri), o c'è del DRM che ostacola il #rehosting (come <a href="/microblog-mirror/2024/04/02/geometrico-nel-brauser/">il giochino dell'altro ieri</a>) ecc... con #pazienza si risolve tutto.<!-- wp:list -->
 <ul><!-- wp:list-item -->
 <li>E alla fine di tutto, una cosa che mi piace fare ma che non sarebbe obbligatoria, è disattivare tutte le componenti potenzialmente dannose dell' #applicazione, ossia commentare via eventuali inclusioni e chiamate a sistemi di analitiche o pubblicità. 🚯</li>
 <!-- /wp:list-item --></ul>

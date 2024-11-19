@@ -38,7 +38,7 @@ canonical_url:   https://octospacc.altervista.org/2024/10/05/memorroid/
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="2024/10/04/zzzming/">Ieri la microSD ha salvato il mio culo per installare <em>ZZZ</em></a>, visto che da un lato ho potuto spostarci file che avevo da parte (e non potevo cancellare), mentre dall'altro ho potuto usare la funzione classica di Android per spostare qualsiasi app e non fargli occupare la memoria interna, ma... In questo caso <em>ma si</em>, perché purtroppo questo non è un modo per espandere l'archiviazione del dispositivo all'infinito, riguardo le app: non sposta anche i dati utente (<code>/data/data/...</code>), che rimangono su memoria interna. 😩️</p>
+<p><a href="/microblog-mirror/2024/10/04/zzzming/">Ieri la microSD ha salvato il mio culo per installare <em>ZZZ</em></a>, visto che da un lato ho potuto spostarci file che avevo da parte (e non potevo cancellare), mentre dall'altro ho potuto usare la funzione classica di Android per spostare qualsiasi app e non fargli occupare la memoria interna, ma... In questo caso <em>ma si</em>, perché purtroppo questo non è un modo per espandere l'archiviazione del dispositivo all'infinito, riguardo le app: non sposta anche i dati utente (<code>/data/data/...</code>), che rimangono su memoria interna. 😩️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

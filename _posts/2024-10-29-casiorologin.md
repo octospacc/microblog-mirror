@@ -18,7 +18,7 @@ date: 2024-10-29 01:43:03
 canonical_url:   https://octospacc.altervista.org/2024/10/29/casiorologin/
 ---
 <!-- wp:paragraph -->
-<p>Per quanto l'altro ieri ho detto che, al di là di #orologi in generale, l'acquisto di una nuova fitness band in particolare urge, <a href="2024/10/26/spaccbandt/">visto che la Mi Band ormai è come è</a>... non ho ancora ordinato niente, soprattutto perché per la compatibilità dei bracciali mi rode, e quindi non so. 😪️</p>
+<p>Per quanto l'altro ieri ho detto che, al di là di #orologi in generale, l'acquisto di una nuova fitness band in particolare urge, <a href="/microblog-mirror/2024/10/26/spaccbandt/">visto che la Mi Band ormai è come è</a>... non ho ancora ordinato niente, soprattutto perché per la compatibilità dei bracciali mi rode, e quindi non so. 😪️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -24,7 +24,7 @@ date: 2024-10-08 23:29:04
 canonical_url:   https://octospacc.altervista.org/2024/10/08/prof-casino/
 ---
 <!-- wp:paragraph -->
-<p>Dunque, per aggiungere a <a href="2024/10/08/la-mrocte/">quello che ho detto prima</a>... fa molto ridere che stamattina non mi sono realmente persa nulla a lezione (...ma il pomeriggio forse si), perché c'è di nuovo stata di mezzo la #disorganizzazione dei piani alti (e si, la materia di mezzo è sempre la stessa). 🥴</p>
+<p>Dunque, per aggiungere a <a href="/microblog-mirror/2024/10/08/la-mrocte/">quello che ho detto prima</a>... fa molto ridere che stamattina non mi sono realmente persa nulla a lezione (...ma il pomeriggio forse si), perché c'è di nuovo stata di mezzo la #disorganizzazione dei piani alti (e si, la materia di mezzo è sempre la stessa). 🥴</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

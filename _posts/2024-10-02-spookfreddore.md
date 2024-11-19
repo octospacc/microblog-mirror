@@ -60,5 +60,5 @@ canonical_url:   https://octospacc.altervista.org/2024/10/02/spookfreddore/
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Che palle oh... la magia è una delle poche certezze della mia vita, quando mi fallisce pure quella non posso fare altro che intristirmi. Realisticamente, avrò preso #freddo, in parte ieri all'università, in parte l'altra sera in giro, in parte <a href="2024/09/29/nonmifermocto/">il pomeriggio prima</a>... e la mia magia non protegge contro quello, visto che riguarda principalmente la creazione di artefatti digitali, e non è di cura fisica o vattelappesca... Quindi, oggi felpa. 😭</p>
+<p>Che palle oh... la magia è una delle poche certezze della mia vita, quando mi fallisce pure quella non posso fare altro che intristirmi. Realisticamente, avrò preso #freddo, in parte ieri all'università, in parte l'altra sera in giro, in parte <a href="/microblog-mirror/2024/09/29/nonmifermocto/">il pomeriggio prima</a>... e la mia magia non protegge contro quello, visto che riguarda principalmente la creazione di artefatti digitali, e non è di cura fisica o vattelappesca... Quindi, oggi felpa. 😭</p>
 <!-- /wp:paragraph -->

@@ -20,7 +20,7 @@ date: 2024-09-19 22:28:17
 canonical_url:   https://octospacc.altervista.org/2024/09/19/scrittamenti-octosi/
 ---
 <!-- wp:paragraph -->
-<p>Stasera, solo #pensieri a casaccio, perché quelli ordinati li ho esauriti stamane. Indeed, questo è il caso, visto che ieri sera mi è effettivamente rimasto quel minimo di forza per farmi riuscire a fixare <a href="2024/09/18/retrowhy/">il problema che mi ero trattenuta dal dire</a> <em>perché gli spiriti mi hanno sussurrato di non correre</em>... E ho iniziato a scrivere ieri sera, per finire stamattina, una nota a riguardo che è come al solito venuta il quadruplo più lunga delle aspettative. 😵</p>
+<p>Stasera, solo #pensieri a casaccio, perché quelli ordinati li ho esauriti stamane. Indeed, questo è il caso, visto che ieri sera mi è effettivamente rimasto quel minimo di forza per farmi riuscire a fixare <a href="/microblog-mirror/2024/09/18/retrowhy/">il problema che mi ero trattenuta dal dire</a> <em>perché gli spiriti mi hanno sussurrato di non correre</em>... E ho iniziato a scrivere ieri sera, per finire stamattina, una nota a riguardo che è come al solito venuta il quadruplo più lunga delle aspettative. 😵</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -23,7 +23,7 @@ date: 2024-07-20 23:24:28
 canonical_url:   https://octospacc.altervista.org/2024/07/20/sono-luffa/
 ---
 <!-- wp:paragraph -->
-<p>Dovevo scrivere ovviamente qualcosa qui oggi, ma oggi sto proprio scazzata kinda, quindi non mi viene proprio nulla di che, anche se chiaramente voglio come sempre... Skill issue? Non lo so, ma certamente è curioso che la luna sia quasi piena stavolta e, guarda tu che casualità, la variazione assoluta nelle mie emozioni è della stessa entità di quando <a href="2024/07/06/io-m/">l'altra settimana la luna era vuota</a> (anche se un po' diversa), e certi hanno detto che dicevo stronzate. Certo, 2 soli indizi non fanno una prova, ma io aspetterò pazientemente di raccoglierne degli altri se è per questo...</p>
+<p>Dovevo scrivere ovviamente qualcosa qui oggi, ma oggi sto proprio scazzata kinda, quindi non mi viene proprio nulla di che, anche se chiaramente voglio come sempre... Skill issue? Non lo so, ma certamente è curioso che la luna sia quasi piena stavolta e, guarda tu che casualità, la variazione assoluta nelle mie emozioni è della stessa entità di quando <a href="/microblog-mirror/2024/07/06/io-m/">l'altra settimana la luna era vuota</a> (anche se un po' diversa), e certi hanno detto che dicevo stronzate. Certo, 2 soli indizi non fanno una prova, ma io aspetterò pazientemente di raccoglierne degli altri se è per questo...</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

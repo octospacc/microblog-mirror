@@ -35,7 +35,7 @@ canonical_url:   https://octospacc.altervista.org/2024/10/09/mibandacua/
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Chi si ricorda dei <a href="2024/09/12/mibanda-coi-colori/">braccialetti nuovi che avevo preso per la Mi Band</a>? Ieri, nel momento in cui dovevo farmi la doccia, mi seccavo di togliere dal polso, quindi ho tenuto, e ho così scoperto che sono comunque leggermente idrofobici; nonostante il materiale in tessuto, si asciugano all'aria da soli relativamente subito... non male. 😳️</p>
+<p>Chi si ricorda dei <a href="/microblog-mirror/2024/09/12/mibanda-coi-colori/">braccialetti nuovi che avevo preso per la Mi Band</a>? Ieri, nel momento in cui dovevo farmi la doccia, mi seccavo di togliere dal polso, quindi ho tenuto, e ho così scoperto che sono comunque leggermente idrofobici; nonostante il materiale in tessuto, si asciugano all'aria da soli relativamente subito... non male. 😳️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

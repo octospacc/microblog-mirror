@@ -33,7 +33,7 @@ date: 2024-03-26 19:52:01
 canonical_url:   https://octospacc.altervista.org/2024/03/26/pwtorturaaaa/
 ---
 <!-- wp:paragraph -->
-<p>Credo che fare quello che volevo fare riguardo le #PWA, a maggior ragione ora che mi sto informando un po', è più complicato di quanto credevo... ecco perché ai tempi cercai vie <em>apparentemente</em> più impegnative. <a href="2024/03/25/volpepivvuaiutooo/">Il lavoro di ieri è comunque valido e meglio di nulla</a>, ma ho paura che la mancanza del supporto offline si possa sentire, perché quel metodo non la aggiunge magicamente, e riuscire a farlo appunto non è una passeggiata. 😤️</p>
+<p>Credo che fare quello che volevo fare riguardo le #PWA, a maggior ragione ora che mi sto informando un po', è più complicato di quanto credevo... ecco perché ai tempi cercai vie <em>apparentemente</em> più impegnative. <a href="/microblog-mirror/2024/03/25/volpepivvuaiutooo/">Il lavoro di ieri è comunque valido e meglio di nulla</a>, ma ho paura che la mancanza del supporto offline si possa sentire, perché quel metodo non la aggiunge magicamente, e riuscire a farlo appunto non è una passeggiata. 😤️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

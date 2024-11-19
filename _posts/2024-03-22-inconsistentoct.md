@@ -32,7 +32,7 @@ canonical_url:   https://octospacc.altervista.org/2024/03/22/inconsistentoct/
 <ul><!-- wp:list-item -->
 <li>Qui sopra mi vengono in mente ogni tanto cose da #scrivere, ma non faccio tutto subito come invece dovrei, e finisco per rimandare, in alcuni casi con motivi validi ma in altri un po' perché altrimenti <em>penso che vado a creare inconsistenze</em>, però evidentemente... converrebbe di più andare con il #flusso (o almeno scriverle le cose intanto, e lasciarle nelle bozze per poco tempo).<!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>Penso sia solo una coincidenza, ma non è buffo che il ritmo di parole giornaliere scritte sia tornato erratico da quando sono ricominciate le mie lezioni? (Come illustrato <a href="dati-e-grafici-%f0%9f%93%8a%ef%b8%8f/">dai grafici</a>.)</li>
+<li>Penso sia solo una coincidenza, ma non è buffo che il ritmo di parole giornaliere scritte sia tornato erratico da quando sono ricominciate le mie lezioni? (Come illustrato <a href="/microblog-mirror/dati-e-grafici-%f0%9f%93%8a%ef%b8%8f/">dai grafici</a>.)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></li>
 <!-- /wp:list-item -->

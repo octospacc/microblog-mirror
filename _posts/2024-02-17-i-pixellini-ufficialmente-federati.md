@@ -32,7 +32,7 @@ date: 2024-02-17 23:37:39
 canonical_url:   https://octospacc.altervista.org/2024/02/17/i-pixellini-ufficialmente-federati/
 ---
 <!-- wp:paragraph -->
-<p>C'è il rischio che la gente si stia perdendo la mia ennesima #impresa, e quindi soffro, meglio postare ora che ufficialmente direi di aver inaugurato la cosa: la mia #istanza dedicata a #foto #liminali, di qualità strana, anche #dreamcore, tutto quello che volete purché il senso sia incomprensibile ai più. <a href="2024/02/16/pixel-liminali/">Ieri ho un po' detto la cosa</a>, ma già oggi ho aperto le #iscrizioni a tutti, prima di quanto previsto, perché penso proprio che il mio #server reggerà botta, e quindi non ho bisogno di tanti giorni di #testing. 🔥️</p>
+<p>C'è il rischio che la gente si stia perdendo la mia ennesima #impresa, e quindi soffro, meglio postare ora che ufficialmente direi di aver inaugurato la cosa: la mia #istanza dedicata a #foto #liminali, di qualità strana, anche #dreamcore, tutto quello che volete purché il senso sia incomprensibile ai più. <a href="/microblog-mirror/2024/02/16/pixel-liminali/">Ieri ho un po' detto la cosa</a>, ma già oggi ho aperto le #iscrizioni a tutti, prima di quanto previsto, perché penso proprio che il mio #server reggerà botta, e quindi non ho bisogno di tanti giorni di #testing. 🔥️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

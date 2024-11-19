@@ -20,7 +20,7 @@ date: 2024-05-16 00:53:49
 canonical_url:   https://octospacc.altervista.org/2024/05/16/premi-e-petrolio/
 ---
 <!-- wp:paragraph -->
-<p>Devo dire che l'idea di unificare (una buona parte almeno) <a href="2024/05/11/i-miei-premi/">il mio exploiting di Microsoft Rewards</a> su un solo telefono, secondario, sembra funzionare. O meglio, ciò sembra funzionare normalmente, come dovrebbe, in contrasto ad una situazione in cui:</p>
+<p>Devo dire che l'idea di unificare (una buona parte almeno) <a href="/microblog-mirror/2024/05/11/i-miei-premi/">il mio exploiting di Microsoft Rewards</a> su un solo telefono, secondario, sembra funzionare. O meglio, ciò sembra funzionare normalmente, come dovrebbe, in contrasto ad una situazione in cui:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->

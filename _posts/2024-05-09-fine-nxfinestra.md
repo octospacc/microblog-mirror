@@ -33,7 +33,7 @@ date: 2024-05-09 19:18:15
 canonical_url:   https://octospacc.altervista.org/2024/05/09/fine-nxfinestra/
 ---
 <!-- wp:paragraph -->
-<p>Well. Come <a href="2024/05/06/not-even-gaming/">dissi già, l'altro giorno</a> non ho potuto #giocare appieno finora, in quanto un difetto del mio #programma mi aveva privata dell'asso di sfazione. Dopo non aver avuto modo, sia in termini di tempo che di forza, ieri fino a sera ho effettivamente fatto le #modifiche che dovevo (e pure qualcuna in più imprevista, #feature a sorpresa wow), altrimenti veramente esplodevo ora, perché sembrava quasi l'universo volesse impedirmi di continuare a programmare in questo caso. E intanto, la scheda di acquisizione è già in viaggio. 🫖</p>
+<p>Well. Come <a href="/microblog-mirror/2024/05/06/not-even-gaming/">dissi già, l'altro giorno</a> non ho potuto #giocare appieno finora, in quanto un difetto del mio #programma mi aveva privata dell'asso di sfazione. Dopo non aver avuto modo, sia in termini di tempo che di forza, ieri fino a sera ho effettivamente fatto le #modifiche che dovevo (e pure qualcuna in più imprevista, #feature a sorpresa wow), altrimenti veramente esplodevo ora, perché sembrava quasi l'universo volesse impedirmi di continuare a programmare in questo caso. E intanto, la scheda di acquisizione è già in viaggio. 🫖</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

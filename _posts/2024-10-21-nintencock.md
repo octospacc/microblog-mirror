@@ -61,5 +61,5 @@ https://www.youtube.com/watch?v=JKOjXNZKxQs
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Magari ricominceranno a fare carte da gioco, e daranno più fondi al reparto di ricerca e sviluppo, anziché riempire quello legale all'infinito, che credo abbia tipo il 99%. Però, questa <strong>sveglia da 100 spiriponzi</strong> poteva forse essere una app Android FLOSS e gratis... quindi, se mi va, la farò (così forse <a href="series/saga-della-morte/">la mia Saga della Morte</a> volgerà al termine). 🙀️</p>
+<p>Magari ricominceranno a fare carte da gioco, e daranno più fondi al reparto di ricerca e sviluppo, anziché riempire quello legale all'infinito, che credo abbia tipo il 99%. Però, questa <strong>sveglia da 100 spiriponzi</strong> poteva forse essere una app Android FLOSS e gratis... quindi, se mi va, la farò (così forse <a href="/microblog-mirror/series/saga-della-morte/">la mia Saga della Morte</a> volgerà al termine). 🙀️</p>
 <!-- /wp:paragraph -->

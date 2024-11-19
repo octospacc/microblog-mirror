@@ -27,7 +27,7 @@ date: 2024-04-12 19:09:49
 canonical_url:   https://octospacc.altervista.org/2024/04/12/octtseries/
 ---
 <!-- wp:paragraph -->
-<p>Non l'ho messo <a href="2024/04/11/tassi-nel-sito-misto/">nel post di ieri</a> perché sarebbe venuto un papirone e comunque interessa solo ai <em>wordpressisti</em>, non anche a chi usa altri sistemi, però.... questo è quello che ho dovuto fare per sistemare le #serie, lo scrivo anche per reference. Mezzo casino, ma in genere coi plugin è sempre così, sono tutti diversi... invece, le categorie sono una funzionalità di #WordPress, quindi tutto si integra in automatico. 👌</p>
+<p>Non l'ho messo <a href="/microblog-mirror/2024/04/11/tassi-nel-sito-misto/">nel post di ieri</a> perché sarebbe venuto un papirone e comunque interessa solo ai <em>wordpressisti</em>, non anche a chi usa altri sistemi, però.... questo è quello che ho dovuto fare per sistemare le #serie, lo scrivo anche per reference. Mezzo casino, ma in genere coi plugin è sempre così, sono tutti diversi... invece, le categorie sono una funzionalità di #WordPress, quindi tutto si integra in automatico. 👌</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->

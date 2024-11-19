@@ -20,11 +20,11 @@ canonical_url:   https://octospacc.altervista.org/2024/09/23/tuttofarocto/
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Soprattutto perché quindi, avendo speso l'intera metà giornata a fare quasi solo quello, non ho finito manco altre cose che forse avrei voluto, e di conseguenza + soprattutto qui sopra quasi non riuscivo a postare manco niente!!! Il che è una tragedia, perché... <a href="2024/09/21/lo-slanciocto/">la streak</a>...... non posso perdere o altrimenti non sono più una Dea......... 😭</p>
+<p>Soprattutto perché quindi, avendo speso l'intera metà giornata a fare quasi solo quello, non ho finito manco altre cose che forse avrei voluto, e di conseguenza + soprattutto qui sopra quasi non riuscivo a postare manco niente!!! Il che è una tragedia, perché... <a href="/microblog-mirror/2024/09/21/lo-slanciocto/">la streak</a>...... non posso perdere o altrimenti non sono più una Dea......... 😭</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Già che ho mancato il post su Pixelfed oggi è male, ma mancare il microblog, proprio no; è peggio di Duolingo, non c'è manco il congelamento. A proposito, però: a quanto ho capito osservando <a href="dati-e-grafici-%f0%9f%93%8a%ef%b8%8f/">i grafici del mio stesso sito</a>, dovrebbe contarmi la sequenza anche postando dopo mezzanotte, se nella giornata solare corrente finisco poi per pubblicare anche un'altra cosa... speriamo. 🙏</p>
+<p>Già che ho mancato il post su Pixelfed oggi è male, ma mancare il microblog, proprio no; è peggio di Duolingo, non c'è manco il congelamento. A proposito, però: a quanto ho capito osservando <a href="/microblog-mirror/dati-e-grafici-%f0%9f%93%8a%ef%b8%8f/">i grafici del mio stesso sito</a>, dovrebbe contarmi la sequenza anche postando dopo mezzanotte, se nella giornata solare corrente finisco poi per pubblicare anche un'altra cosa... speriamo. 🙏</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -36,7 +36,7 @@ canonical_url:   https://octospacc.altervista.org/2024/09/23/tuttofarocto/
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Stasera ho aggiunto <a href="https://sitoctt.octt.eu.org/it/miscellanea/%EF%B8%8F-Raccolta-Tecnologia-Mista/">una pagina che non so come spero di mantenere</a>, dei video YouTube su altre due vecchie paginette, e... questo è quanto. Ho fatto forse più ieri (o ieri l'altro?), in cui ho sistemato qualcosina del layout, tra cui la profondità dei link nella table of contents, che col default del mio tema non mi gustava. O, stamattina, in cui ho aggiunto una pagina con un <a href="contatti-%f0%9f%98%ba%ef%b8%8f/">comodo form di contatto</a> al sito qui del fritto misto microblogging. 🥰</p>
+<p>Stasera ho aggiunto <a href="https://sitoctt.octt.eu.org/it/miscellanea/%EF%B8%8F-Raccolta-Tecnologia-Mista/">una pagina che non so come spero di mantenere</a>, dei video YouTube su altre due vecchie paginette, e... questo è quanto. Ho fatto forse più ieri (o ieri l'altro?), in cui ho sistemato qualcosina del layout, tra cui la profondità dei link nella table of contents, che col default del mio tema non mi gustava. O, stamattina, in cui ho aggiunto una pagina con un <a href="/microblog-mirror/contatti-%f0%9f%98%ba%ef%b8%8f/">comodo form di contatto</a> al sito qui del fritto misto microblogging. 🥰</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -44,5 +44,5 @@ canonical_url:   https://octospacc.altervista.org/2024/09/23/tuttofarocto/
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":9573,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{site.cdnurl}}/assets/uploads/2024/09/image-5.png" alt="Schermata di due finestre del browser su entrambi i siti mostrando la piccola parte di pagina con i bottoni interessati" class="wp-image-9573"/><figcaption class="wp-element-caption">...O ancora, per le cose che ho fatto ieri e dimenticato, ho creato (con il mio adorato GIMP!!!) dei bottoni 88x31 che mi mancavano: per il sito fritto misto e, già che c'ero, anche per la Hub (che non è stato facile da fare, tutto sul telefonino in giro...). Avevo scordato di mettere qui il secondo, quindi l'ho messo prima, mentre sul sitoctt li avevo messi entrambi. Quindi ora ho <a href="#area-siti">l'area siti sulla home</a>... e la pagina di contatto mi serve proprio perché accetto richieste di aggiungere altri bottoni. 😳 (Send. Send. Send.)</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="{{site.cdnurl}}/assets/uploads/2024/09/image-5.png" alt="Schermata di due finestre del browser su entrambi i siti mostrando la piccola parte di pagina con i bottoni interessati" class="wp-image-9573"/><figcaption class="wp-element-caption">...O ancora, per le cose che ho fatto ieri e dimenticato, ho creato (con il mio adorato GIMP!!!) dei bottoni 88x31 che mi mancavano: per il sito fritto misto e, già che c'ero, anche per la Hub (che non è stato facile da fare, tutto sul telefonino in giro...). Avevo scordato di mettere qui il secondo, quindi l'ho messo prima, mentre sul sitoctt li avevo messi entrambi. Quindi ora ho <a href="/microblog-mirror/#area-siti">l'area siti sulla home</a>... e la pagina di contatto mi serve proprio perché accetto richieste di aggiungere altri bottoni. 😳 (Send. Send. Send.)</figcaption></figure>
 <!-- /wp:image -->

@@ -33,7 +33,7 @@ date: 2024-03-12 17:35:16
 canonical_url:   https://octospacc.altervista.org/2024/03/12/boom-the-pinterest-xd/
 ---
 <!-- wp:paragraph -->
-<p><a href="2024/03/10/canale-gummapostaggio/">Dopo qualche giorno così</a> penso che #Pinterest è l'ennesimo #accessorio che mancava nel mio #arsenale di (anche) gestione delle #informazioni digitali... come ho accennato, lo usavo secoli fa (per sfondi o immagini a caso mi pare?), poi ho smesso per non ricordo bene che motivo (più ci penso, meno mi viene in mente), ma ora, dopo anche le varie mie considerazioni #software degli ultimi mesi, ha tantissimo senso in più. 😇️</p>
+<p><a href="/microblog-mirror/2024/03/10/canale-gummapostaggio/">Dopo qualche giorno così</a> penso che #Pinterest è l'ennesimo #accessorio che mancava nel mio #arsenale di (anche) gestione delle #informazioni digitali... come ho accennato, lo usavo secoli fa (per sfondi o immagini a caso mi pare?), poi ho smesso per non ricordo bene che motivo (più ci penso, meno mi viene in mente), ma ora, dopo anche le varie mie considerazioni #software degli ultimi mesi, ha tantissimo senso in più. 😇️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->

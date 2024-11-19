@@ -34,7 +34,7 @@ canonical_url:   https://octospacc.altervista.org/2024/09/24/momento-antigiococt
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Dopo tutto questo parlare di #gaming-non-gaming, <a href="2024/09/23/tuttofarocto/">quasi senza manco il tempo di respirare</a>, visto che ho preso come ispirazione roba fresca di giorni (mannaggia agli youtuber #mannaggia!!!)... volevo un po' giocare stasera, e invece alla fine non c'è stato il tempo. Non posso farlo ora #tardi, perché domani per me c'è il tran tran, che stavolta inizia addirittura pieno come la merda, a livelli girlbossing, quindi il risveglio sarà militare. 😭</p>
+<p>Dopo tutto questo parlare di #gaming-non-gaming, <a href="/microblog-mirror/2024/09/23/tuttofarocto/">quasi senza manco il tempo di respirare</a>, visto che ho preso come ispirazione roba fresca di giorni (mannaggia agli youtuber #mannaggia!!!)... volevo un po' giocare stasera, e invece alla fine non c'è stato il tempo. Non posso farlo ora #tardi, perché domani per me c'è il tran tran, che stavolta inizia addirittura pieno come la merda, a livelli girlbossing, quindi il risveglio sarà militare. 😭</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -30,7 +30,7 @@ date: 2024-04-05 12:18:52
 canonical_url:   https://octospacc.altervista.org/2024/04/05/workaround-sonno-z/
 ---
 <!-- wp:paragraph -->
-<p>Purtroppo, <a href="2024/04/05/la-morte-al-risveglio/">è esattamente questo</a> il #danno di avere #orari inderogabili tutti spezzati, anziché il proverbiale 9-5 (...o anche 8-13, come l'anno scorso in cui avevo scuola). Però ho fatto caso ad una cosa, da qualche giorno: sto andando a dormire allo stesso orario nominale medio di prima che scattasse l'ora legale... il che significa che, quando in un attimo ho scalato indietro di 1 ora solare l'orario di andare a letto, non ho fatto nulla a riguardo e non ho avuto strane #difficoltà (a parte il fatto che domenica sono stata di merda senza energie tutta la giornata, ma già da lunedì ero normale). Ho una #teoria. 🤓</p>
+<p>Purtroppo, <a href="/microblog-mirror/2024/04/05/la-morte-al-risveglio/">è esattamente questo</a> il #danno di avere #orari inderogabili tutti spezzati, anziché il proverbiale 9-5 (...o anche 8-13, come l'anno scorso in cui avevo scuola). Però ho fatto caso ad una cosa, da qualche giorno: sto andando a dormire allo stesso orario nominale medio di prima che scattasse l'ora legale... il che significa che, quando in un attimo ho scalato indietro di 1 ora solare l'orario di andare a letto, non ho fatto nulla a riguardo e non ho avuto strane #difficoltà (a parte il fatto che domenica sono stata di merda senza energie tutta la giornata, ma già da lunedì ero normale). Ho una #teoria. 🤓</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

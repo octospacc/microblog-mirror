@@ -44,7 +44,7 @@ canonical_url:   https://octospacc.altervista.org/2024/02/04/lanello-web-indiano
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>È stata un'occasione per fare una robina che mi sono sempre seccata, cioè inserire le #info del mio profilo autore (inclusive di bio, come escono sul Fediverso) sulla sezione #MicroBlog <a href="microblog/">del fritto misto</a>. Purtroppo, questo #standard ben predicato sembra razzolare male: non c'è stato verso di far vedere al #validatore del webring la mia descrizione, e mi devo accontentare di URL, nome, e foto profilo... però, <a href="https://indiewebify.me/validate-h-card/">un validatore a parte</a>, che viene consigliato dalla stessa pagina, invece valida tutto come vorrei io. Uno #schifo. 😶</p>
+<p>È stata un'occasione per fare una robina che mi sono sempre seccata, cioè inserire le #info del mio profilo autore (inclusive di bio, come escono sul Fediverso) sulla sezione #MicroBlog <a href="/microblog-mirror/microblog/">del fritto misto</a>. Purtroppo, questo #standard ben predicato sembra razzolare male: non c'è stato verso di far vedere al #validatore del webring la mia descrizione, e mi devo accontentare di URL, nome, e foto profilo... però, <a href="https://indiewebify.me/validate-h-card/">un validatore a parte</a>, che viene consigliato dalla stessa pagina, invece valida tutto come vorrei io. Uno #schifo. 😶</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -38,7 +38,7 @@ date: 2024-06-11 23:08:12
 canonical_url:   https://octospacc.altervista.org/2024/06/11/busventura/
 ---
 <!-- wp:paragraph -->
-<p>Stamattina ho detto di "<a href="2024/06/11/sonno-drokato/">tutti quei giri</a>", ma giustamente non ho avuto modo come avrei voluto di spiegare ieri, quindi... ecco: sospetto che <a href="2024/06/10/universita-del-gamin/">l'esame di ieri</a> sia andato bene, ma, ovviamente, per colpa degli orari strani sia di quei pazzi dei professori che della SITA, ho perso il bus, e avrei dovuto aspettare quasi 2 ore per il prossimo. Realizzando di essere in un momento di crisi, è importante ricordarsi <em>l'etimologia della parola</em>, e riflettere su come una crisi sia un bivio, un momento di decisione: aspettare nella più totale presura... o fare un pochino di gambling nella speranza di tornare a casa prima? Indovinate che ho fatto. 🎰️</p>
+<p>Stamattina ho detto di "<a href="/microblog-mirror/2024/06/11/sonno-drokato/">tutti quei giri</a>", ma giustamente non ho avuto modo come avrei voluto di spiegare ieri, quindi... ecco: sospetto che <a href="/microblog-mirror/2024/06/10/universita-del-gamin/">l'esame di ieri</a> sia andato bene, ma, ovviamente, per colpa degli orari strani sia di quei pazzi dei professori che della SITA, ho perso il bus, e avrei dovuto aspettare quasi 2 ore per il prossimo. Realizzando di essere in un momento di crisi, è importante ricordarsi <em>l'etimologia della parola</em>, e riflettere su come una crisi sia un bivio, un momento di decisione: aspettare nella più totale presura... o fare un pochino di gambling nella speranza di tornare a casa prima? Indovinate che ho fatto. 🎰️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

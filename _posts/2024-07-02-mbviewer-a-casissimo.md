@@ -20,7 +20,7 @@ date: 2024-07-02 17:20:08
 canonical_url:   https://octospacc.altervista.org/2024/07/02/mbviewer-a-casissimo/
 ---
 <!-- wp:paragraph -->
-<p>Mezzo secolo fa avevo fatto <a href="2024/01/12/devo-aggregare-i-microblog/">una modifica al frontend del mio FreshRSS per renderlo più piacevole per i microblog</a>... e poi però ho smesso di usarlo per quello, perché era comunque abbastanza scomodo, molto clunky e legnoso, la UI tutta rotta. Altri client per FreshRSS che ci sono, e ce ne sono tanti, purtroppo non li ho mai visti affatto ottimizzati per post senza titolo, corti, che sono tanti di fila, ecc... quindi, comunque la mia soluzione aveva un motivo di fondo per esistere, ma il problema è che, appunto, non è buona, ahimé. 🥴️</p>
+<p>Mezzo secolo fa avevo fatto <a href="/microblog-mirror/2024/01/12/devo-aggregare-i-microblog/">una modifica al frontend del mio FreshRSS per renderlo più piacevole per i microblog</a>... e poi però ho smesso di usarlo per quello, perché era comunque abbastanza scomodo, molto clunky e legnoso, la UI tutta rotta. Altri client per FreshRSS che ci sono, e ce ne sono tanti, purtroppo non li ho mai visti affatto ottimizzati per post senza titolo, corti, che sono tanti di fila, ecc... quindi, comunque la mia soluzione aveva un motivo di fondo per esistere, ma il problema è che, appunto, non è buona, ahimé. 🥴️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -40,5 +40,5 @@ canonical_url:   https://octospacc.altervista.org/2024/07/02/mbviewer-a-casissim
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Mi sa che piuttosto, non volendo fare una nuova cosa da zero (perché mi sembra molto superfluo), conviene un'altra cosa che avevo in programma ma poi non ho mai fatto, cioè aggiungere funzioni di visualizzazione, oltre che di scrittura, ad un altro programma che non tocco da mesi, <a href="2024/02/09/test-wuppimini/">WuppìMini</a>, che invece non è spagoot. Sicuramente, parte della logica di gestione dei dati la posso riciclare da MBViewer comunque, quindi non sono totalmente rovinata... 😾️ (E, essendo quella una app ibrida solo-server e solo-client, sarebbe anche più versatile, è anche per questo che l'avevo fatta così.)</p>
+<p>Mi sa che piuttosto, non volendo fare una nuova cosa da zero (perché mi sembra molto superfluo), conviene un'altra cosa che avevo in programma ma poi non ho mai fatto, cioè aggiungere funzioni di visualizzazione, oltre che di scrittura, ad un altro programma che non tocco da mesi, <a href="/microblog-mirror/2024/02/09/test-wuppimini/">WuppìMini</a>, che invece non è spagoot. Sicuramente, parte della logica di gestione dei dati la posso riciclare da MBViewer comunque, quindi non sono totalmente rovinata... 😾️ (E, essendo quella una app ibrida solo-server e solo-client, sarebbe anche più versatile, è anche per questo che l'avevo fatta così.)</p>
 <!-- /wp:paragraph -->

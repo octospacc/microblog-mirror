@@ -31,7 +31,7 @@ date: 2024-06-02 20:49:22
 canonical_url:   https://octospacc.altervista.org/2024/06/02/perche-foglia-nuova-tho/
 ---
 <!-- wp:paragraph -->
-<p>Chi ha <em>la sfortuna</em> di avere 200+ IQ lo avrà intuito, dopo tutto l'ultimo <em><strong>nuovafogliapostaggio</strong></em> (qui sul microblog <a href="2024/06/01/la-figaggine-dei-crostini/">solo l'altra sera</a>, ma sul gruppo e <a href="https://t.me/Animali_Crostini">t.me/@Animali_Crostini</a> più volte; a proposito, entrateci lì sopra <code>mannagg' a' miserj</code>), che... boh, così a caso, mi era venuta voglia di riprendere in mano ACNL. Non lo aprivo da appena mesi, ma erano <em>infiniti anni</em> che non ci giocavo in modo effettivo. Con il vecchio salvataggio, però, non avevo voglia, quindi ho deciso di ricominciare da zero (dopo aver fatto un ulteriore backup eh). 🍃️</p>
+<p>Chi ha <em>la sfortuna</em> di avere 200+ IQ lo avrà intuito, dopo tutto l'ultimo <em><strong>nuovafogliapostaggio</strong></em> (qui sul microblog <a href="/microblog-mirror/2024/06/01/la-figaggine-dei-crostini/">solo l'altra sera</a>, ma sul gruppo e <a href="https://t.me/Animali_Crostini">t.me/@Animali_Crostini</a> più volte; a proposito, entrateci lì sopra <code>mannagg' a' miserj</code>), che... boh, così a caso, mi era venuta voglia di riprendere in mano ACNL. Non lo aprivo da appena mesi, ma erano <em>infiniti anni</em> che non ci giocavo in modo effettivo. Con il vecchio salvataggio, però, non avevo voglia, quindi ho deciso di ricominciare da zero (dopo aver fatto un ulteriore backup eh). 🍃️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -35,7 +35,7 @@ canonical_url:   https://octospacc.altervista.org/2024/04/14/momento-vera-lista-
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Eh... il fatto della #tassonomia <a href="2024/04/11/tassi-nel-sito-misto/">che ho detto qui l'altro giorno</a>, le #categorie e tutto, l'ho pensata anche nell'ottica di creare una #pagina #web speciale che aggrega e presenta i miei vari #post sia del #microblog, che del #sitoctt, e in futuro anche altre cose (ad esempio, il forum), se e solo se avrò voglia ed effettivamente tempo. 🥱</p>
+<p>Eh... il fatto della #tassonomia <a href="/microblog-mirror/2024/04/11/tassi-nel-sito-misto/">che ho detto qui l'altro giorno</a>, le #categorie e tutto, l'ho pensata anche nell'ottica di creare una #pagina #web speciale che aggrega e presenta i miei vari #post sia del #microblog, che del #sitoctt, e in futuro anche altre cose (ad esempio, il forum), se e solo se avrò voglia ed effettivamente tempo. 🥱</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

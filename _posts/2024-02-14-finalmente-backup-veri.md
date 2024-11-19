@@ -36,7 +36,7 @@ date: 2024-02-14 23:58:00
 canonical_url:   https://octospacc.altervista.org/2024/02/14/finalmente-backup-veri/
 ---
 <!-- wp:paragraph -->
-<p>Ben 2 mesi fa (pensavo meno...) <a href="2023/12/12/464/">avevo detto qualche dettaglio sul #backup del #MicroBlog</a>... la metà delle cose rimane ancora valida, ma è uscita fuori qualche #rogna nel tempo. 🕤️</p>
+<p>Ben 2 mesi fa (pensavo meno...) <a href="/microblog-mirror/2023/12/12/464/">avevo detto qualche dettaglio sul #backup del #MicroBlog</a>... la metà delle cose rimane ancora valida, ma è uscita fuori qualche #rogna nel tempo. 🕤️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->

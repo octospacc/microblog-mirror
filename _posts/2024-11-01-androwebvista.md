@@ -45,13 +45,13 @@ canonical_url:   https://octospacc.altervista.org/2024/11/01/androwebvista/
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>È forse buono per creare in generale app mobile-first dove si vogliono supportare anche dispositivi Android preistorici, lottando contro la ben più sopportabile piattaforma web, anziché gli SDK ufficiali di Android (che, nonostante <a href="2024/10/31/androvecchiaia/">tutto il marcio</a>, ancora fanno targettare API 1), o varie opzioni di terze parti (che rompono proprio le versioni vecchie e non funziona una mazza) 🧱️</li>
+<li>È forse buono per creare in generale app mobile-first dove si vogliono supportare anche dispositivi Android preistorici, lottando contro la ben più sopportabile piattaforma web, anziché gli SDK ufficiali di Android (che, nonostante <a href="/microblog-mirror/2024/10/31/androvecchiaia/">tutto il marcio</a>, ancora fanno targettare API 1), o varie opzioni di terze parti (che rompono proprio le versioni vecchie e non funziona una mazza) 🧱️</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Anche quando una PWA si può usare bene ed offline (che sia perché implementa di suo il caching, o perché si usa <a href="2024/03/28/pwgoduriaaaa/">la mia estensione Firefox apposita</a>), ci possono essere altre complicanze che un pacchetto Android può risolvere (tipo, non occupare memoria interna limitata sui sistemi dove <a href="2024/10/05/memorroid/">gli APK si possono invece installare su scheda SD</a>) 💥️</li>
+<li>Anche quando una PWA si può usare bene ed offline (che sia perché implementa di suo il caching, o perché si usa <a href="/microblog-mirror/2024/03/28/pwgoduriaaaa/">la mia estensione Firefox apposita</a>), ci possono essere altre complicanze che un pacchetto Android può risolvere (tipo, non occupare memoria interna limitata sui sistemi dove <a href="/microblog-mirror/2024/10/05/memorroid/">gli APK si possono invece installare su scheda SD</a>) 💥️</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 

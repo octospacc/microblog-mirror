@@ -29,7 +29,7 @@ canonical_url:   https://octospacc.altervista.org/2024/09/14/framionavigator-per
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Stavolta il problema era: devo catturare screenshot di certe pagine #web, per inviarli a parti (tradotto: <a href="2024/09/11/pixelfoto-io-non-vodo/">i post che pubblico su Pixelfed</a>, per fare lo spam bene, coff coff), ma... Se non le facessi ogni volta precise (voglio la larghezza uguale al letterale pixel) starei male dentro; peccato che, per fare ciò, devo impazzire col ridimensionare la finestra del browser <em>precisimamentissimamente</em>, su desktop. 🙄️</p>
+<p>Stavolta il problema era: devo catturare screenshot di certe pagine #web, per inviarli a parti (tradotto: <a href="/microblog-mirror/2024/09/11/pixelfoto-io-non-vodo/">i post che pubblico su Pixelfed</a>, per fare lo spam bene, coff coff), ma... Se non le facessi ogni volta precise (voglio la larghezza uguale al letterale pixel) starei male dentro; peccato che, per fare ciò, devo impazzire col ridimensionare la finestra del browser <em>precisimamentissimamente</em>, su desktop. 🙄️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -23,7 +23,7 @@ date: 2024-10-25 12:43:06
 canonical_url:   https://octospacc.altervista.org/2024/10/25/faristrazion/
 ---
 <!-- wp:paragraph -->
-<p>Sarà anche stavolta <a href="2024/10/24/doodlunaggio/">colpa della luna</a>, ma una cosa strana e scomoda e terribile che mi sta succedendo nelle ultime sere è che tipo... boh, un problemino, speriamo che il semplice #riflettere su ciò lo possa risolvere. 😪 (Dubito altamente!!!)</p>
+<p>Sarà anche stavolta <a href="/microblog-mirror/2024/10/24/doodlunaggio/">colpa della luna</a>, ma una cosa strana e scomoda e terribile che mi sta succedendo nelle ultime sere è che tipo... boh, un problemino, speriamo che il semplice #riflettere su ciò lo possa risolvere. 😪 (Dubito altamente!!!)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -51,5 +51,5 @@ canonical_url:   https://octospacc.altervista.org/2024/10/25/faristrazion/
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Sarà perché mi ostino a usare il tablet, che credo sia più comodo del telefono per via dello schermo grosso, ma in realtà è peggio perché devo stare <em>bent</em>, e quindi digitarci così all'arrangiata (su una sedia, senza scrivania, <a href="2024/10/23/10648/">l'aula di merda</a>, ecc...) non è facile? (Non che col laptop mi trovassi meglio però eh, lolle.) Smisi di giocare al Wii anni fa poiché stavo <em>bent</em>, quindi può essere. 📦</p>
+<p>Sarà perché mi ostino a usare il tablet, che credo sia più comodo del telefono per via dello schermo grosso, ma in realtà è peggio perché devo stare <em>bent</em>, e quindi digitarci così all'arrangiata (su una sedia, senza scrivania, <a href="/microblog-mirror/2024/10/23/10648/">l'aula di merda</a>, ecc...) non è facile? (Non che col laptop mi trovassi meglio però eh, lolle.) Smisi di giocare al Wii anni fa poiché stavo <em>bent</em>, quindi può essere. 📦</p>
 <!-- /wp:paragraph -->

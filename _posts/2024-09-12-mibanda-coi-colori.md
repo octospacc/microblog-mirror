@@ -20,7 +20,7 @@ date: 2024-09-12 23:27:49
 canonical_url:   https://octospacc.altervista.org/2024/09/12/mibanda-coi-colori/
 ---
 <!-- wp:paragraph -->
-<p>Stasera, <strong>consigli per gli #acquisti</strong>. È l'altro dei due <a href="2024/09/10/adattamorte/">prodotti ordinati la settimana scorsa</a>, e si, stavolta non sono pisciata off, genuinamente non ho roba da lamentarmi, perché non essendo un acquisto tech c'è poca roba che può andare storta... ma solo per ora perché, trattandosi di <strong>braccialetti per la #MiBand</strong> (3, ma detti compatibili con anche altri modelli), da #Amazon per giunta, l'allegria non può durare all'infinito!!! 😻️</p>
+<p>Stasera, <strong>consigli per gli #acquisti</strong>. È l'altro dei due <a href="/microblog-mirror/2024/09/10/adattamorte/">prodotti ordinati la settimana scorsa</a>, e si, stavolta non sono pisciata off, genuinamente non ho roba da lamentarmi, perché non essendo un acquisto tech c'è poca roba che può andare storta... ma solo per ora perché, trattandosi di <strong>braccialetti per la #MiBand</strong> (3, ma detti compatibili con anche altri modelli), da #Amazon per giunta, l'allegria non può durare all'infinito!!! 😻️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -31,7 +31,7 @@ canonical_url:   https://octospacc.altervista.org/2024/06/13/softwarepostaggio/
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>JavaScript vanilla, magari con qualce libreria come p5.js: non male, anche perché si possono pacchettizzare in vari modi i programmi basati sulla API Canvas per farli girare come app native su vari sistemi, senza un browser (si veda ad esempio <a href="https://github.com/samizdatco/skia-canvas"><em>Skia Canvas</em></a> per desktop, che usa NodeJS e non Electron... o, addirittura, <a href="https://github.com/SuperIlu/DOjS">DOjS</a> per, you guessed it, MS-DOS). Tuttavia, pure se quest'ultimissima implementazione esotica in particolare non ha <a href="2024/06/07/tela-spaccata/">i problemi di aliasing che ho detto l'altro giorno</a>, il coso Skia invece si, così come qualunque altra implementazione moderna che ho visto, per cui non mi sembra proprio il caso... non favorisco piattaforme dove bug di tale livello sono considerati features. 🤢</li>
+<li>JavaScript vanilla, magari con qualce libreria come p5.js: non male, anche perché si possono pacchettizzare in vari modi i programmi basati sulla API Canvas per farli girare come app native su vari sistemi, senza un browser (si veda ad esempio <a href="https://github.com/samizdatco/skia-canvas"><em>Skia Canvas</em></a> per desktop, che usa NodeJS e non Electron... o, addirittura, <a href="https://github.com/SuperIlu/DOjS">DOjS</a> per, you guessed it, MS-DOS). Tuttavia, pure se quest'ultimissima implementazione esotica in particolare non ha <a href="/microblog-mirror/2024/06/07/tela-spaccata/">i problemi di aliasing che ho detto l'altro giorno</a>, il coso Skia invece si, così come qualunque altra implementazione moderna che ho visto, per cui non mi sembra proprio il caso... non favorisco piattaforme dove bug di tale livello sono considerati features. 🤢</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -43,7 +43,7 @@ canonical_url:   https://octospacc.altervista.org/2024/06/13/softwarepostaggio/
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>Ren'Py, <a href="2024/05/03/renprovine/">come ho già detto altre volte</a>, è figo e lo si può realisticamente usare per creare qualunque app grafica, usando le sue astrazioni per la UI quando comodo e ricadendo sulla API quasi-Pygame quando necessario. Però idk, è un bel po' di baggage se si considera necessario creare molte delle componenti di gioco in ogni caso, e passi per il peso dei file, però è veramente pallosa la quantità di secondi che impiega a partire su Android, e su Web non ne parliamo proprio! Quindi boh, anche se sarebbe comodo perché funziona e basta e il linguaggio è basato. 😭</li>
+<li>Ren'Py, <a href="/microblog-mirror/2024/05/03/renprovine/">come ho già detto altre volte</a>, è figo e lo si può realisticamente usare per creare qualunque app grafica, usando le sue astrazioni per la UI quando comodo e ricadendo sulla API quasi-Pygame quando necessario. Però idk, è un bel po' di baggage se si considera necessario creare molte delle componenti di gioco in ogni caso, e passi per il peso dei file, però è veramente pallosa la quantità di secondi che impiega a partire su Android, e su Web non ne parliamo proprio! Quindi boh, anche se sarebbe comodo perché funziona e basta e il linguaggio è basato. 😭</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 

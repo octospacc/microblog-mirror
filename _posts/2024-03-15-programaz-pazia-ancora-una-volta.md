@@ -21,7 +21,7 @@ date: 2024-03-15 01:30:44
 canonical_url:   https://octospacc.altervista.org/2024/03/15/programaz-pazia-ancora-una-volta/
 ---
 <!-- wp:image {"id":3213,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{site.cdnurl}}/assets/uploads/2024/03/image-7.png" alt="" class="wp-image-3213"/><figcaption class="wp-element-caption"><a href="2024/03/14/altri-progetti-senza-fine/">Il post di ieri</a> temo sia stato una #profezia... è vero che oggi (come ieri), ho avuto altro nella giornata e non ho potuto fare soltanto la mia silly little #programming tutto il tempo, però insomma, la mia strada verso la pazzia è sempre più tosta. 🙂️</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="{{site.cdnurl}}/assets/uploads/2024/03/image-7.png" alt="" class="wp-image-3213"/><figcaption class="wp-element-caption"><a href="/microblog-mirror/2024/03/14/altri-progetti-senza-fine/">Il post di ieri</a> temo sia stato una #profezia... è vero che oggi (come ieri), ho avuto altro nella giornata e non ho potuto fare soltanto la mia silly little #programming tutto il tempo, però insomma, la mia strada verso la pazzia è sempre più tosta. 🙂️</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:list -->

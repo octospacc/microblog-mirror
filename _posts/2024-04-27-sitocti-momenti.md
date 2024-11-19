@@ -26,7 +26,7 @@ canonical_url:   https://octospacc.altervista.org/2024/04/27/sitocti-momenti/
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>Mi sono presa sorprendentemente un po' di tempo (più di 2 ore...) per <em>tentare</em> di disegnare delle icone per 3 (non ancora tutte) delle mie #webapp che sono lì messe a disposizione... fatte partendo da altre icone e non da zero stavolta, e per quanto <a href="https://gitlab.com/octospacc/octospacc.gitlab.io/-/commit/c433bc663543eeddf374bed21bce7006c43cd115">non sono comunque per nulla dei capolavori</a>, forse sono almeno un po' meglio di cosa esce <a href="2024/03/28/pwgoduriaaaa/">quando provo a disegnare io qualcosa partendo da zero</a> assoluto. 🥲️</li>
+<li>Mi sono presa sorprendentemente un po' di tempo (più di 2 ore...) per <em>tentare</em> di disegnare delle icone per 3 (non ancora tutte) delle mie #webapp che sono lì messe a disposizione... fatte partendo da altre icone e non da zero stavolta, e per quanto <a href="https://gitlab.com/octospacc/octospacc.gitlab.io/-/commit/c433bc663543eeddf374bed21bce7006c43cd115">non sono comunque per nulla dei capolavori</a>, forse sono almeno un po' meglio di cosa esce <a href="/microblog-mirror/2024/03/28/pwgoduriaaaa/">quando provo a disegnare io qualcosa partendo da zero</a> assoluto. 🥲️</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -53,5 +53,5 @@ canonical_url:   https://octospacc.altervista.org/2024/04/27/sitocti-momenti/
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>E qualcosa ho fatto anche per la #SalaMuseoGames, actually: oltre ad aver finalmente risolto <a href="2024/04/26/doki-doki-pazzia-club/"><em>tutti i problemi riguardo DDLC</em></a> (mancava poco e sarebbe diventata una saga), e aver aggiunto altri giochi, ho implementato un tasto per allargare gli embed senza andare a schermo intero, nascondendo la sidebar che si vede sui display larghi. Ma ci sono ancora tante e tante cose da sistemare lì sopra (soprattutto in termini di PWA), voi non avete proprio idea... ☠️</p>
+<p>E qualcosa ho fatto anche per la #SalaMuseoGames, actually: oltre ad aver finalmente risolto <a href="/microblog-mirror/2024/04/26/doki-doki-pazzia-club/"><em>tutti i problemi riguardo DDLC</em></a> (mancava poco e sarebbe diventata una saga), e aver aggiunto altri giochi, ho implementato un tasto per allargare gli embed senza andare a schermo intero, nascondendo la sidebar che si vede sui display larghi. Ma ci sono ancora tante e tante cose da sistemare lì sopra (soprattutto in termini di PWA), voi non avete proprio idea... ☠️</p>
 <!-- /wp:paragraph -->

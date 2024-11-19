@@ -78,7 +78,7 @@ canonical_url:   https://octospacc.altervista.org/2024/05/19/volpi-infinite/
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>Onestamente, non capisco perché modificare il nome del pacchetto con le stesse accortezze che per clonare tutte le app semplici vanno bene, in questo caso non basta e porta il browser a crashare... ma ho visto che il Fortunello <a href="paste/5683/?ppt=0adf649e616a0457f7d63e6ca1e1a31f63abe5bc2cbdbee706a78dda6bff545e">cambia giusto qualcosina all'interno del codice Dalvik</a>, shiftando lettere di poche parole scelte in base a non so che criterio, portandole semplicemente una lettera avanti come già fa per il nome del pacchetto. 🧮️</p>
+<p>Onestamente, non capisco perché modificare il nome del pacchetto con le stesse accortezze che per clonare tutte le app semplici vanno bene, in questo caso non basta e porta il browser a crashare... ma ho visto che il Fortunello <a href="/microblog-mirror/paste/5683/?ppt=0adf649e616a0457f7d63e6ca1e1a31f63abe5bc2cbdbee706a78dda6bff545e">cambia giusto qualcosina all'interno del codice Dalvik</a>, shiftando lettere di poche parole scelte in base a non so che criterio, portandole semplicemente una lettera avanti come già fa per il nome del pacchetto. 🧮️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

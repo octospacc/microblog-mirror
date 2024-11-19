@@ -28,7 +28,7 @@ date: 2024-05-15 09:38:14
 canonical_url:   https://octospacc.altervista.org/2024/05/15/roulette-sito-doctt/
 ---
 <!-- wp:paragraph -->
-<p>Ieri sera ho fatto degli ulteriori aggiustamenti <a href="2024/05/13/dickcock-more-like-tiktoctt/">a TiktOctt</a> per risolvere certi problemi strani di prestazioni, e ho incidentalmente migliorato la #UX, però, finché non riesco a inventarmi qualcosa per riprodurre anche post non-video lì sopra, è chiaro che non può da solo prendere il ruolo di quello che vorrei fare... 👁️</p>
+<p>Ieri sera ho fatto degli ulteriori aggiustamenti <a href="/microblog-mirror/2024/05/13/dickcock-more-like-tiktoctt/">a TiktOctt</a> per risolvere certi problemi strani di prestazioni, e ho incidentalmente migliorato la #UX, però, finché non riesco a inventarmi qualcosa per riprodurre anche post non-video lì sopra, è chiaro che non può da solo prendere il ruolo di quello che vorrei fare... 👁️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -40,7 +40,7 @@ canonical_url:   https://octospacc.altervista.org/2024/05/15/roulette-sito-doctt
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>E quindi, intanto ho fatto un'altra cosa semplice, che non so perché non avevo mai fatto prima: con il <a href="https://it.wordpress.org/plugins/redirect-url-to-post/">plugin "Redirect URL to Post"</a>, ho messo un tasto <a href="libreria-post/">in Libreria Post</a> che ne apre uno a caso, così facciamo lo stesso effetto roulette ma anche per i normali post. Cosa capiterà cliccando <em>stavolta</em>? Lammerda o qualcosa di carino? Un messaggio leggero o un tormento esistenziale? <em>Chissà!</em> Premi il bottoncino finché non avrai sprecato dieci minuti magari, che almeno ti diverti. Non è proprio il magico effetto del doomscrolling infinito, ma diciamo che un single-click ci sta bene uguale. 💉</p>
+<p>E quindi, intanto ho fatto un'altra cosa semplice, che non so perché non avevo mai fatto prima: con il <a href="https://it.wordpress.org/plugins/redirect-url-to-post/">plugin "Redirect URL to Post"</a>, ho messo un tasto <a href="/microblog-mirror/libreria-post/">in Libreria Post</a> che ne apre uno a caso, così facciamo lo stesso effetto roulette ma anche per i normali post. Cosa capiterà cliccando <em>stavolta</em>? Lammerda o qualcosa di carino? Un messaggio leggero o un tormento esistenziale? <em>Chissà!</em> Premi il bottoncino finché non avrai sprecato dieci minuti magari, che almeno ti diverti. Non è proprio il magico effetto del doomscrolling infinito, ma diciamo che un single-click ci sta bene uguale. 💉</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

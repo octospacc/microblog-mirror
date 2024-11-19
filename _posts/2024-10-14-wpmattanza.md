@@ -26,7 +26,7 @@ date: 2024-10-14 23:57:27
 canonical_url:   https://octospacc.altervista.org/2024/10/14/wpmattanza/
 ---
 <!-- wp:paragraph -->
-<p>Ormai si sa che quando dico "è troppo lungo", in realtà intendo "non ho finito, ma il resto viene dopo"... e non parlo di sesso, ma <a href="2024/10/14/warpress/"><strong>ancora di WordPress</strong> dopo il pippone di prima</a>. 🤥 (Abbiate pazienza.)</p>
+<p>Ormai si sa che quando dico "è troppo lungo", in realtà intendo "non ho finito, ma il resto viene dopo"... e non parlo di sesso, ma <a href="/microblog-mirror/2024/10/14/warpress/"><strong>ancora di WordPress</strong> dopo il pippone di prima</a>. 🤥 (Abbiate pazienza.)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

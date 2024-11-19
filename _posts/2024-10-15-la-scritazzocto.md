@@ -29,7 +29,7 @@ canonical_url:   https://octospacc.altervista.org/2024/10/15/la-scritazzocto/
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Da un lato, proprio per contrastare questa cosa che succede a volte, in cui <a href="2024/09/21/lo-slanciocto">voglio scrivere roba tipo personale ma non ho nulla</a>. Dall'altro, anche perché vorrei provare ad inventare delle storie, o comunque fare un tipo di #scrittura più creativa, che non riesco in forme più tradizionali, per mancanza di idee e forse la mia tendenza alla perdita di interesse. 😳️</p>
+<p>Da un lato, proprio per contrastare questa cosa che succede a volte, in cui <a href="/microblog-mirror/2024/09/21/lo-slanciocto">voglio scrivere roba tipo personale ma non ho nulla</a>. Dall'altro, anche perché vorrei provare ad inventare delle storie, o comunque fare un tipo di #scrittura più creativa, che non riesco in forme più tradizionali, per mancanza di idee e forse la mia tendenza alla perdita di interesse. 😳️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

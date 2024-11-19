@@ -35,7 +35,7 @@ canonical_url:   https://octospacc.altervista.org/2024/07/14/spacoweb-piu-crocca
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>È un maleficio e una benedizione avere <a href="2024/02/26/spac-web-semper-ovunquer/">il mio mini-framework</a> per le webapp multi-pagina (aka, vecchio stile e non cosiddette single-page)... chiaramente, è lavoro in più concesso al letterale etere, che mi risparmierei se altre librerie mi andassero bene. Dall'altro lato, però, se ho questo robo è perché non trovai proprio nient'altro che funzionasse alla base nel modo in cui mi serviva, e quindi ceppa. A distanza di mesi di non-lavoro però devo confermare che l'idea è stata geniale (il che è molto dire, in genere il mio codice marcisce peggio), e davvero la API che ho ideato è l'ibrido migliore possibile per app che automagicamente girano sia senza script lato client che senza un server di backend. 🤑</p>
+<p>È un maleficio e una benedizione avere <a href="/microblog-mirror/2024/02/26/spac-web-semper-ovunquer/">il mio mini-framework</a> per le webapp multi-pagina (aka, vecchio stile e non cosiddette single-page)... chiaramente, è lavoro in più concesso al letterale etere, che mi risparmierei se altre librerie mi andassero bene. Dall'altro lato, però, se ho questo robo è perché non trovai proprio nient'altro che funzionasse alla base nel modo in cui mi serviva, e quindi ceppa. A distanza di mesi di non-lavoro però devo confermare che l'idea è stata geniale (il che è molto dire, in genere il mio codice marcisce peggio), e davvero la API che ho ideato è l'ibrido migliore possibile per app che automagicamente girano sia senza script lato client che senza un server di backend. 🤑</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

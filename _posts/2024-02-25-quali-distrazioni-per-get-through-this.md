@@ -34,17 +34,17 @@ canonical_url:   https://octospacc.altervista.org/2024/02/25/quali-distrazioni-p
 <ul><!-- wp:list-item -->
 <li>Programmare è bello ma, se come #passatempo, lo è davvero solo quando ci sono idee relativamente nuove, progetti preferibilmente piccoli e dove un buon punto si raggiunge senza troppa sofferenza protratta. 👩‍💻<!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>A parte varie cosine dette e non dette, <a href="2024/02/02/niente-eth-e-niente-docc/">quella mia criptovaluta dovrei farla</a>... ahimè per la parte di setup mi viene da #sclerare, ma forse ritagliandomi un minimo e massimo di X minuti giornalieri ne potrei uscire fuori, e a quel punto uscirebbero le cose divertenti da sperimentare. 🪙</li>
+<li>A parte varie cosine dette e non dette, <a href="/microblog-mirror/2024/02/02/niente-eth-e-niente-docc/">quella mia criptovaluta dovrei farla</a>... ahimè per la parte di setup mi viene da #sclerare, ma forse ritagliandomi un minimo e massimo di X minuti giornalieri ne potrei uscire fuori, e a quel punto uscirebbero le cose divertenti da sperimentare. 🪙</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>In questi giorni vedrò di procurarmi il materiale semi-speciale per <a href="2024/02/24/come-personalizar-tastiera/">creare i keycap personalizzati</a>, alcuni magari anche complessi... ho pensato che se ne creo 1 al giorno, in 3 mesi ho completato il makeover della tastiera (ma ne voglio fare di più in totale, e prendendo la mano mi sa che ne posso fare tanti al giorno), ottimo. 🎹</li>
+<li>In questi giorni vedrò di procurarmi il materiale semi-speciale per <a href="/microblog-mirror/2024/02/24/come-personalizar-tastiera/">creare i keycap personalizzati</a>, alcuni magari anche complessi... ho pensato che se ne creo 1 al giorno, in 3 mesi ho completato il makeover della tastiera (ma ne voglio fare di più in totale, e prendendo la mano mi sa che ne posso fare tanti al giorno), ottimo. 🎹</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Non ho dimenticato la <a href="2024/02/02/devo-fare-il-fontocto/">mia idea del font personale</a>, disegnare le letterine può essere #rilassante, e volendo fare tanti stili e varianti potrei dover usare un po' di tempo... il #problema è che mi sale lo #sconforto una volta che si tratta di trasformare quei disegni in un font effettivo, tra millemila software di strana fattura per lo scopo, e tutto il casino che ci starebbe tra prima e dopo. ✒️</li>
+<li>Non ho dimenticato la <a href="/microblog-mirror/2024/02/02/devo-fare-il-fontocto/">mia idea del font personale</a>, disegnare le letterine può essere #rilassante, e volendo fare tanti stili e varianti potrei dover usare un po' di tempo... il #problema è che mi sale lo #sconforto una volta che si tratta di trasformare quei disegni in un font effettivo, tra millemila software di strana fattura per lo scopo, e tutto il casino che ci starebbe tra prima e dopo. ✒️</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->

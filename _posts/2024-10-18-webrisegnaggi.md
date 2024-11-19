@@ -41,7 +41,7 @@ canonical_url:   https://octospacc.altervista.org/2024/10/18/webrisegnaggi/
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Stasera: <a href="2024/10/17/unbanpress/">Dopo che Automattic mi ha restituito il sito vecchio poco fa</a>, ho detto "mah, visto che questo sta qui a marcire da 4 anni, almeno cambiamo grafica, per levare la muffa dai muri". Quindi ho installato il tema <em>Nucleare</em> (si, si chiama così), ho applicato pure 'sta palette qui che è uscita consigliata scorrendo, e ho messo archivi dei (letterali 2) post sulla sidebar... assieme al widget RSS che linka agli ultimi post dal mio sito #WordPress non marcito (il fritto misto). 🧪</li>
+<li>Stasera: <a href="/microblog-mirror/2024/10/17/unbanpress/">Dopo che Automattic mi ha restituito il sito vecchio poco fa</a>, ho detto "mah, visto che questo sta qui a marcire da 4 anni, almeno cambiamo grafica, per levare la muffa dai muri". Quindi ho installato il tema <em>Nucleare</em> (si, si chiama così), ho applicato pure 'sta palette qui che è uscita consigliata scorrendo, e ho messo archivi dei (letterali 2) post sulla sidebar... assieme al widget RSS che linka agli ultimi post dal mio sito #WordPress non marcito (il fritto misto). 🧪</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 

@@ -18,7 +18,7 @@ date: 2024-08-16 10:37:19
 canonical_url:   https://octospacc.altervista.org/2024/08/16/capitombolo-di-ferragosto/
 ---
 <!-- wp:paragraph -->
-<p>Ieri ero a un #picnic ...idea forse un po' discutibile a #ferragosto, non tanto per la temperatura ma per la maremma di umidità, ma non comando io e non avrei avuto idee migliori, per cui pazienza. È effettivamente stato un test per lo Ximi che <a href="2024/08/15/androide-ricacato/">ho elevato a perfezione giusto qualche ora prima</a>, che avendolo usato il normale (non tanto direttamente, ma quello anche a schermo spento mi fa girare delle cose) è giusto arrivato in tempo al 4% per caricare in auto per tornare a casa... pazienza. No dai, a parte gli scherzi la batteria dura effettivamente ancora bene.</p>
+<p>Ieri ero a un #picnic ...idea forse un po' discutibile a #ferragosto, non tanto per la temperatura ma per la maremma di umidità, ma non comando io e non avrei avuto idee migliori, per cui pazienza. È effettivamente stato un test per lo Ximi che <a href="/microblog-mirror/2024/08/15/androide-ricacato/">ho elevato a perfezione giusto qualche ora prima</a>, che avendolo usato il normale (non tanto direttamente, ma quello anche a schermo spento mi fa girare delle cose) è giusto arrivato in tempo al 4% per caricare in auto per tornare a casa... pazienza. No dai, a parte gli scherzi la batteria dura effettivamente ancora bene.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

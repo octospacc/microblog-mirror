@@ -26,7 +26,7 @@ date: 2024-04-22 00:28:05
 canonical_url:   https://octospacc.altervista.org/2024/04/22/os-nel-brauser/
 ---
 <!-- wp:paragraph -->
-<p>Lo dico chiaro e tondo ora, perché a quanto pare <a href="2024/04/21/vortice-js/">il mio pitch veloce di ieri</a> non è entrato bene in testa a molti: si, il #sistemaoperativo che voglio creare è scritto con tecnologie web vanilla (HTML5, CSS, e #JS) e gira interamente nel #browser. Si, è un po' una #pazzia per la grandezza del mio scopo, ma per favore non stupitevi e non rabbrividite, perché non sono la prima a pensare qualcosa del genere, e anzi, <a href="https://kb.octt.eu.org/#Pseudo-OS">diverse cose sono già state belle che realizzate</a>... 🦷️</p>
+<p>Lo dico chiaro e tondo ora, perché a quanto pare <a href="/microblog-mirror/2024/04/21/vortice-js/">il mio pitch veloce di ieri</a> non è entrato bene in testa a molti: si, il #sistemaoperativo che voglio creare è scritto con tecnologie web vanilla (HTML5, CSS, e #JS) e gira interamente nel #browser. Si, è un po' una #pazzia per la grandezza del mio scopo, ma per favore non stupitevi e non rabbrividite, perché non sono la prima a pensare qualcosa del genere, e anzi, <a href="https://kb.octt.eu.org/#Pseudo-OS">diverse cose sono già state belle che realizzate</a>... 🦷️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

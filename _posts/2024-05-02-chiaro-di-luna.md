@@ -27,7 +27,7 @@ date: 2024-05-02 00:04:24
 canonical_url:   https://octospacc.altervista.org/2024/05/02/chiaro-di-luna/
 ---
 <!-- wp:paragraph -->
-<p>Aggiornamenti <a href="2024/05/01/luna-gaming/">sulla questione </a><a href="2024/05/01/luna-gaming/"><em>chiaro di luna</em></a>, anche se sicuramente questo non sarà l'ultimo post a riguardo: a meno che ciò che ho appena ora finito di architettare dovesse saltare per aria, già dopodomani proverò questo setup regolarmente fuori casa, sul campo, e ciò decreterà se effettivamente è una buona #soluzione per il #gaming oppure ho preso l'ennesima cantonata... 👀</p>
+<p>Aggiornamenti <a href="/microblog-mirror/2024/05/01/luna-gaming/">sulla questione </a><a href="/microblog-mirror/2024/05/01/luna-gaming/"><em>chiaro di luna</em></a>, anche se sicuramente questo non sarà l'ultimo post a riguardo: a meno che ciò che ho appena ora finito di architettare dovesse saltare per aria, già dopodomani proverò questo setup regolarmente fuori casa, sul campo, e ciò decreterà se effettivamente è una buona #soluzione per il #gaming oppure ho preso l'ennesima cantonata... 👀</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

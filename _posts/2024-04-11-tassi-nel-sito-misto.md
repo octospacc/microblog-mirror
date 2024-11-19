@@ -43,12 +43,12 @@ canonical_url:   https://octospacc.altervista.org/2024/04/11/tassi-nel-sito-mist
 <ul><!-- wp:list-item -->
 <li>Mi rendo conto che su un #microblog, tra cui il mio, le saghe sono inevitabili: un sacco di post vanno puntualmente a continuare un discorso iniziato giorni o settimane prima. Mesi fa pianificavo di implementare la cosa sfruttando i collegamenti all'interno di ogni articolo, ma mi rendo conto che non è possibile così: linkare a qualcosa non significa per forza includerla in una saga, perché magari la sto solo menzionando...<!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>Per ora ho installato il #plugin "<a href="https://wordpress.org/plugins/organize-series/">PublishPress Series</a>", fa credo tutto quello che mi serve: posso definire delle "serie", associare dei post, e averli listati in ordine in una pagina dedicata. E in più, posso riordinare a mano gli articoli (mettendoli non per forza cronologici, <a href="series/octt-v-whatsapp/">cosa che mi è già stata utile</a>), e avere sulla pagina di ognuno dei controlli di #navigazione... non solo è comodo, ma credo possa anche invogliare alla lettura! 🤑️</li>
+<li>Per ora ho installato il #plugin "<a href="https://wordpress.org/plugins/organize-series/">PublishPress Series</a>", fa credo tutto quello che mi serve: posso definire delle "serie", associare dei post, e averli listati in ordine in una pagina dedicata. E in più, posso riordinare a mano gli articoli (mettendoli non per forza cronologici, <a href="/microblog-mirror/series/octt-v-whatsapp/">cosa che mi è già stata utile</a>), e avere sulla pagina di ognuno dei controlli di #navigazione... non solo è comodo, ma credo possa anche invogliare alla lettura! 🤑️</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>C'è un bel po' di roba ancora che devo fare, per sfiziarmi per bene, ma il cuore dell'operazione è questo. Ho comunque già messo, sulla pagina "<a href="libreria-post/">Libreria Post 📂️</a>", il widget della prima cosa e <a href="series/">un link alla pagina dell'altra</a>... non per vantarmi, ma questa volta è proprio epico, ops.</p>
+<p>C'è un bel po' di roba ancora che devo fare, per sfiziarmi per bene, ma il cuore dell'operazione è questo. Ho comunque già messo, sulla pagina "<a href="/microblog-mirror/libreria-post/">Libreria Post 📂️</a>", il widget della prima cosa e <a href="/microblog-mirror/series/">un link alla pagina dell'altra</a>... non per vantarmi, ma questa volta è proprio epico, ops.</p>
 <!-- /wp:paragraph -->

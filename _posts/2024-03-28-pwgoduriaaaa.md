@@ -36,7 +36,7 @@ date: 2024-03-28 13:48:42
 canonical_url:   https://octospacc.altervista.org/2024/03/28/pwgoduriaaaa/
 ---
 <!-- wp:paragraph -->
-<p>Sono praticamente 36 ore che non posto e lo so che siete in astinenza, ma avevo <a href="2024/03/26/pwtorturaaaa/"><em>la questione importantissima inderogabile</em> tra le mani</a> di risolvere quel #problema con le #PWA una volta per tutte. E ora, nonostante un'altra frazione di sanità mentale sottrattami dagli spiritelli del silicio, dolori perché sto seduta per ore alla scrivania e tutta storta, e sonno perché ieri sera ho perso un sacco di tempo a debuggare un errore stupidissimo rimanendo sveglia fino alle 2 per poi arrendermi perché stavo veramente morendo, quantomeno ce l'ho fatta... 🤯️</p>
+<p>Sono praticamente 36 ore che non posto e lo so che siete in astinenza, ma avevo <a href="/microblog-mirror/2024/03/26/pwtorturaaaa/"><em>la questione importantissima inderogabile</em> tra le mani</a> di risolvere quel #problema con le #PWA una volta per tutte. E ora, nonostante un'altra frazione di sanità mentale sottrattami dagli spiritelli del silicio, dolori perché sto seduta per ore alla scrivania e tutta storta, e sonno perché ieri sera ho perso un sacco di tempo a debuggare un errore stupidissimo rimanendo sveglia fino alle 2 per poi arrendermi perché stavo veramente morendo, quantomeno ce l'ho fatta... 🤯️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

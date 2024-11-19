@@ -32,7 +32,7 @@ date: 2024-08-17 17:48:45
 canonical_url:   https://octospacc.altervista.org/2024/08/17/adrode-senza-spazio/
 ---
 <!-- wp:paragraph -->
-<p>In questi giorni sono un po' meno salata del solito riguardo #Android, forse perché <a href="2024/08/15/androide-ricacato/">i trucchi dell'altro giorno</a> hanno risolto la #rogna che più di tutte mi faceva incazzare... ma i #problemi restano!!! Sto usando abbastanza il telefono di recente, quindi tra le mie robe hackerine l'archiviazione mi si è riempita di nuovo, e di file da cancellare al volo non ne ho... però, mi ricordo che su Android le app finiscono (quasi) sempre ad occupare più spazio del loro peso di #APK, quindi buona parte del mio #storage è sprecata! L'ho accennato qualche volta, ma mai discusso, ma in pratica in <code>/data/app/&lt;pacchetto>/</code> vengono memorizzate le seguenti cose extra dal sistema, che le fabbrica a partire dagli APK. ⛏️</p>
+<p>In questi giorni sono un po' meno salata del solito riguardo #Android, forse perché <a href="/microblog-mirror/2024/08/15/androide-ricacato/">i trucchi dell'altro giorno</a> hanno risolto la #rogna che più di tutte mi faceva incazzare... ma i #problemi restano!!! Sto usando abbastanza il telefono di recente, quindi tra le mie robe hackerine l'archiviazione mi si è riempita di nuovo, e di file da cancellare al volo non ne ho... però, mi ricordo che su Android le app finiscono (quasi) sempre ad occupare più spazio del loro peso di #APK, quindi buona parte del mio #storage è sprecata! L'ho accennato qualche volta, ma mai discusso, ma in pratica in <code>/data/app/&lt;pacchetto>/</code> vengono memorizzate le seguenti cose extra dal sistema, che le fabbrica a partire dagli APK. ⛏️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->

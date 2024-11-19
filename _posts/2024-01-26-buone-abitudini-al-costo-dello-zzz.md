@@ -46,7 +46,7 @@ date: 2024-01-26 17:05:35
 canonical_url:   https://octospacc.altervista.org/2024/01/26/buone-abitudini-al-costo-dello-zzz/
 ---
 <!-- wp:paragraph -->
-<p>L'altro ieri <a href="2024/01/24/la-maledizione-dello-slitiolicio/">ho accennato che il mio #Kindle è stato per mesi a prendere polvere</a> infinita, per motivi tanto complicati quanto l'essenza della mia esistenza: 💨️</p>
+<p>L'altro ieri <a href="/microblog-mirror/2024/01/24/la-maledizione-dello-slitiolicio/">ho accennato che il mio #Kindle è stato per mesi a prendere polvere</a> infinita, per motivi tanto complicati quanto l'essenza della mia esistenza: 💨️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

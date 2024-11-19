@@ -17,7 +17,7 @@ date: 2024-09-25 01:32:56
 canonical_url:   https://octospacc.altervista.org/2024/09/25/la-riuniversitoctt/
 ---
 <!-- wp:paragraph -->
-<p>Oggi <a href="2024/09/24/momento-antigiococto/">sapevo di non essere minimamente pronta</a> per una giornata di università piena, ricominciando così dal nulla... ma non pensavo di non reggere nemmeno ad una giornata dove la metà è volata via per cancellazione di delle lezioni, e che quindi sostanzialmente è più sui 3/4 di giornata. Ma ahimé, il complesso industriale universitario imperversa. 🥶️</p>
+<p>Oggi <a href="/microblog-mirror/2024/09/24/momento-antigiococto/">sapevo di non essere minimamente pronta</a> per una giornata di università piena, ricominciando così dal nulla... ma non pensavo di non reggere nemmeno ad una giornata dove la metà è volata via per cancellazione di delle lezioni, e che quindi sostanzialmente è più sui 3/4 di giornata. Ma ahimé, il complesso industriale universitario imperversa. 🥶️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

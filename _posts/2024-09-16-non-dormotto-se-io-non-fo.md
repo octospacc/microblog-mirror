@@ -27,11 +27,11 @@ canonical_url:   https://octospacc.altervista.org/2024/09/16/non-dormotto-se-io-
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>L'altra notte vado a dire il vero tardino a letto, forse 3 quarti d'ora più tardi del normale, avendo <a href="2024/09/14/framionavigator-per-le-fotonze/">quelle cose di mezzo</a>... e un po' non mi viene sonno (strano non fossi superstanc), un po' esce fuori un mal di pancia, ma in bagno a quell'ora proprio no. Quindi, non si dorme.</li>
+<li>L'altra notte vado a dire il vero tardino a letto, forse 3 quarti d'ora più tardi del normale, avendo <a href="/microblog-mirror/2024/09/14/framionavigator-per-le-fotonze/">quelle cose di mezzo</a>... e un po' non mi viene sonno (strano non fossi superstanc), un po' esce fuori un mal di pancia, ma in bagno a quell'ora proprio no. Quindi, non si dorme.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Ieri notte vado a dormire ad un'ora... sempre terribile, ma non tanto inaspettata. Stavolta senza dolori, ma il sonno non viene, che sto un po' irrequieta per via delle <a href="2024/09/15/il-tempocto-che-si-perde/">rivelazioni serali</a>; niente di grave o pesante, ma certamente insolito, e, quindi, non si dorme.</li>
+<li>Ieri notte vado a dormire ad un'ora... sempre terribile, ma non tanto inaspettata. Stavolta senza dolori, ma il sonno non viene, che sto un po' irrequieta per via delle <a href="/microblog-mirror/2024/09/15/il-tempocto-che-si-perde/">rivelazioni serali</a>; niente di grave o pesante, ma certamente insolito, e, quindi, non si dorme.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 

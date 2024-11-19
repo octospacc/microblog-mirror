@@ -56,7 +56,7 @@ canonical_url:   https://octospacc.altervista.org/2024/01/16/la-pagina-dei-grafi
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Oggi mi è capitato di trovare un #plugin #WordPress che facesse proprio al caso mio, permettendo di prelevare #informazioni dal #database tramite #query #MySQL, e generare un #istogramma, un #aereogramma, o altra roba. E allora, ho creato una #pagina dedicata, nello stesso spirito di cosa già feci per la mia #OcttKB (da lì viene anche un po' l'idea), che cercherò di riempire di #visualizzazioni #intriganti: "<a href="dati-e-grafici-%f0%9f%93%8a%ef%b8%8f/"><strong>Dati e Grafici 📊️</strong></a>". Per ora ci sono quella dei #post al giorno, e delle #parole per ogni giorno.</p>
+<p>Oggi mi è capitato di trovare un #plugin #WordPress che facesse proprio al caso mio, permettendo di prelevare #informazioni dal #database tramite #query #MySQL, e generare un #istogramma, un #aereogramma, o altra roba. E allora, ho creato una #pagina dedicata, nello stesso spirito di cosa già feci per la mia #OcttKB (da lì viene anche un po' l'idea), che cercherò di riempire di #visualizzazioni #intriganti: "<a href="/microblog-mirror/dati-e-grafici-%f0%9f%93%8a%ef%b8%8f/"><strong>Dati e Grafici 📊️</strong></a>". Per ora ci sono quella dei #post al giorno, e delle #parole per ogni giorno.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

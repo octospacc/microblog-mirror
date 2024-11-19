@@ -36,7 +36,7 @@ date: 2024-06-10 10:03:28
 canonical_url:   https://octospacc.altervista.org/2024/06/10/playstation-mortable/
 ---
 <!-- wp:paragraph -->
-<p>È da troppo tempo che qui non parlo di riparazioni arronzate... beh, l'altro pomeriggio non sapevo che fare, quindi ne ho approfittato qualche ora per cercare di sistemare <a href="2024/02/03/psp-maledetta/">quei dettagli che mi mancavano sulla PSP</a>... non è andata benissimo. Con la varia roba presa da AliExpress qualche settimana fa, c'era anche la seconda membrana sostitutiva (di sinistra), dopo che avevo scoperto che anche il tasto L aveva iniziato a fare le bizze. Beh, quello è stato indolore, il casino invece si è verificato per quell'altra cagata... 🥶</p>
+<p>È da troppo tempo che qui non parlo di riparazioni arronzate... beh, l'altro pomeriggio non sapevo che fare, quindi ne ho approfittato qualche ora per cercare di sistemare <a href="/microblog-mirror/2024/02/03/psp-maledetta/">quei dettagli che mi mancavano sulla PSP</a>... non è andata benissimo. Con la varia roba presa da AliExpress qualche settimana fa, c'era anche la seconda membrana sostitutiva (di sinistra), dopo che avevo scoperto che anche il tasto L aveva iniziato a fare le bizze. Beh, quello è stato indolore, il casino invece si è verificato per quell'altra cagata... 🥶</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

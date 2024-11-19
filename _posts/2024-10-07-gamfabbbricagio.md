@@ -23,7 +23,7 @@ date: 2024-10-07 17:39:04
 canonical_url:   https://octospacc.altervista.org/2024/10/07/gamfabbbricagio/
 ---
 <!-- wp:paragraph -->
-<p>Dopo la mia <a href="2024/06/13/softwarepostaggio/">disamina arrangiata di qualche mese fa su librerie varie per sviluppamenti videoludici</a>, ora devo ritornare sulla cosa, perché in quel momento ho considerato solo roba 2D... e, principalmente, per quello vale ciò che ho già detto; però, tra ieri e oggi, stavo guardando meglio altre due opzioni, che sarebbero invece ideali per il 3D, visto che avrei in mente qualche <em>progetto segreto di <a href="https://bbs.spacc.eu.org/old/viewtopic.php?t=105">porting umma umma</a></em> che al momento non voglio dire. 🤫️</p>
+<p>Dopo la mia <a href="/microblog-mirror/2024/06/13/softwarepostaggio/">disamina arrangiata di qualche mese fa su librerie varie per sviluppamenti videoludici</a>, ora devo ritornare sulla cosa, perché in quel momento ho considerato solo roba 2D... e, principalmente, per quello vale ciò che ho già detto; però, tra ieri e oggi, stavo guardando meglio altre due opzioni, che sarebbero invece ideali per il 3D, visto che avrei in mente qualche <em>progetto segreto di <a href="https://bbs.spacc.eu.org/old/viewtopic.php?t=105">porting umma umma</a></em> che al momento non voglio dire. 🤫️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

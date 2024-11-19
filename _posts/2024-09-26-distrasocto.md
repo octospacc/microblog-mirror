@@ -21,7 +21,7 @@ date: 2024-09-26 20:15:27
 canonical_url:   https://octospacc.altervista.org/2024/09/26/distrasocto/
 ---
 <!-- wp:paragraph -->
-<p>Dato che... ecco, non so cosa volevo dire, quindi: dato che ho deciso così, devo dire quello che è successo tra <a href="2024/09/25/universiwhat/">il post di ieri mattina</a>, e appena pochi quarti d'ora dopo. <strong>Un disastro!!!</strong> Che solo per pochissimo ho risolto, altrimenti era per davvero la fine. 😭️</p>
+<p>Dato che... ecco, non so cosa volevo dire, quindi: dato che ho deciso così, devo dire quello che è successo tra <a href="/microblog-mirror/2024/09/25/universiwhat/">il post di ieri mattina</a>, e appena pochi quarti d'ora dopo. <strong>Un disastro!!!</strong> Che solo per pochissimo ho risolto, altrimenti era per davvero la fine. 😭️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -29,7 +29,7 @@ canonical_url:   https://octospacc.altervista.org/2024/09/26/distrasocto/
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Per fortuna, quando sto coso manca, me ne accorgo relativamente subito (tipo <a href="2024/09/05/fantasexspo/">quando si strappò correndo per strada</a>; poi fu ricucito l'aggancio)... però in quel momento il bus era già ripartito, e quindi sono cazzi. Ho iniziato ad avviarmi per la via di casa, perché chiaramente non potevo mettermi a rincorrerlo, però nel frattempo guardavo le tabelle orarie di quella linea, e... se non lo passano ad un'altra linea, questo dovrebbe fare il giro per ritornare all'università immediatamente, quindi so per dove dovrebbe passare. Quindi... l'ho beccato ad un'altra fermata, e ho ripreso il coso. MENOMALE!!! 😭️😭️😭️</p>
+<p>Per fortuna, quando sto coso manca, me ne accorgo relativamente subito (tipo <a href="/microblog-mirror/2024/09/05/fantasexspo/">quando si strappò correndo per strada</a>; poi fu ricucito l'aggancio)... però in quel momento il bus era già ripartito, e quindi sono cazzi. Ho iniziato ad avviarmi per la via di casa, perché chiaramente non potevo mettermi a rincorrerlo, però nel frattempo guardavo le tabelle orarie di quella linea, e... se non lo passano ad un'altra linea, questo dovrebbe fare il giro per ritornare all'università immediatamente, quindi so per dove dovrebbe passare. Quindi... l'ho beccato ad un'altra fermata, e ho ripreso il coso. MENOMALE!!! 😭️😭️😭️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

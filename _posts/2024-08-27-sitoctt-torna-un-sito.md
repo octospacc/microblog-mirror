@@ -26,7 +26,7 @@ date: 2024-08-27 18:30:37
 canonical_url:   https://octospacc.altervista.org/2024/08/27/sitoctt-torna-un-sito/
 ---
 <!-- wp:paragraph -->
-<p>Wo, la giornata di oggi è fuoco per il #sitocto. Per quanto no postaggio, perché vabbè abbiamo capito che ad agosto persino gli spiriti riposano... con infinita calma, progettando all'infinito negli infiniti momenti morti di questi ultimi infiniti giorni di ferie, sono leggermente più vicina all'infinito, tant'è che <a href="2024/08/24/sitoctt-con-piu-octt/">quella migrazione a nuovo generatore che un tempo sembrava infinita</a>... non è stata ultimata, ok, ma il #sito aggiornato è effettivamente già #online, ed è mejo de prima. 😇</p>
+<p>Wo, la giornata di oggi è fuoco per il #sitocto. Per quanto no postaggio, perché vabbè abbiamo capito che ad agosto persino gli spiriti riposano... con infinita calma, progettando all'infinito negli infiniti momenti morti di questi ultimi infiniti giorni di ferie, sono leggermente più vicina all'infinito, tant'è che <a href="/microblog-mirror/2024/08/24/sitoctt-con-piu-octt/">quella migrazione a nuovo generatore che un tempo sembrava infinita</a>... non è stata ultimata, ok, ma il #sito aggiornato è effettivamente già #online, ed è mejo de prima. 😇</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

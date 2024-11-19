@@ -52,10 +52,10 @@ canonical_url:   https://octospacc.altervista.org/2024/05/29/bus-della-corsa-lim
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://www.irizar.com/en/products-technologies/all-models/irizar-i4">Irizar i4</a> (forse IVECO, non ricordo): sono molto nuovi, ho visto solo un'altra compagnia di trasporti usarli frequentemente, e dirò: le prime volte non mi piacevano granché esteticamente, ma a furia di prenderli il gusto mi è venuto. Sono gli unici bombati, quindi credo mi riferissi a questi quando scrissi <a href="2024/01/30/1389/">quest'altro post</a>, e mi pare di aver letto che sono a metano proprio sulla fiancata. It's an UK bus, quite amazin' bruh 💣</li>
+<li><a href="https://www.irizar.com/en/products-technologies/all-models/irizar-i4">Irizar i4</a> (forse IVECO, non ricordo): sono molto nuovi, ho visto solo un'altra compagnia di trasporti usarli frequentemente, e dirò: le prime volte non mi piacevano granché esteticamente, ma a furia di prenderli il gusto mi è venuto. Sono gli unici bombati, quindi credo mi riferissi a questi quando scrissi <a href="/microblog-mirror/2024/01/30/1389/">quest'altro post</a>, e mi pare di aver letto che sono a metano proprio sulla fiancata. It's an UK bus, quite amazin' bruh 💣</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://beulas.net/jewel/">Beulas Jewel</a> (mi pare Scania): sono quelli a due piani che ho detto giusto <a href="2024/04/09/vecchiorullo/">qualche altra volta</a>... credo ce ne siano due in giro, ed entrambi sono stati rotti fino a poco fa, lmao! Uno ho sentito che ha avuto problemi con la porta posteriore, ed entrambi hanno avuto rogne con il pannello LED frontale (credo che su uno il pannello sia ancora rotto, certe volte vedo ancora il cartello cartaceo di backup appoggiato sul vetro)... 💎</li>
+<li><a href="https://beulas.net/jewel/">Beulas Jewel</a> (mi pare Scania): sono quelli a due piani che ho detto giusto <a href="/microblog-mirror/2024/04/09/vecchiorullo/">qualche altra volta</a>... credo ce ne siano due in giro, ed entrambi sono stati rotti fino a poco fa, lmao! Uno ho sentito che ha avuto problemi con la porta posteriore, ed entrambi hanno avuto rogne con il pannello LED frontale (credo che su uno il pannello sia ancora rotto, certe volte vedo ancora il cartello cartaceo di backup appoggiato sul vetro)... 💎</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->

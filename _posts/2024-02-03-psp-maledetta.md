@@ -41,7 +41,7 @@ canonical_url:   https://octospacc.altervista.org/2024/02/03/psp-maledetta/
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>Non lo avevo detto, ma poi quando ho visto con più calma dopo che <a href="2023/12/13/516">mi arrivò lo #stick sostitutivo</a>, ho scoperto che non va. #Testando col multimetro, mi accorgo che l'analogico in sè funziona, ma nella pratica è come se non facesse contatto nella #console, nonostante tutte le volte che ho provato a riposizionarlo. Probabilmente posso provare a saldarlo con dei fili sulla scheda madre, ma deve prima venirmi la voglia. Per ora sono quindi ancora senza levetta, e ho usato un plugin del #CFW (<a href="https://github.com/albe/joysens">joysens</a>) per <a href="https://old.reddit.com/r/PSP/comments/gtid7b/how_do_you_disable_the_analog_stick_entirely">far credere al sistema che lo stick sia in posizione centrale</a> ed evitare falsi #input. ⛏️</li>
+<li>Non lo avevo detto, ma poi quando ho visto con più calma dopo che <a href="/microblog-mirror/2023/12/13/516">mi arrivò lo #stick sostitutivo</a>, ho scoperto che non va. #Testando col multimetro, mi accorgo che l'analogico in sè funziona, ma nella pratica è come se non facesse contatto nella #console, nonostante tutte le volte che ho provato a riposizionarlo. Probabilmente posso provare a saldarlo con dei fili sulla scheda madre, ma deve prima venirmi la voglia. Per ora sono quindi ancora senza levetta, e ho usato un plugin del #CFW (<a href="https://github.com/albe/joysens">joysens</a>) per <a href="https://old.reddit.com/r/PSP/comments/gtid7b/how_do_you_disable_the_analog_stick_entirely">far credere al sistema che lo stick sia in posizione centrale</a> ed evitare falsi #input. ⛏️</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->

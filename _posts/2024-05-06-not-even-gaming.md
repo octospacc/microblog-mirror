@@ -25,7 +25,7 @@ date: 2024-05-06 16:10:45
 canonical_url:   https://octospacc.altervista.org/2024/05/06/not-even-gaming/
 ---
 <!-- wp:paragraph -->
-<p>Torniamo a parlare <a href="series/troppo-cloud-gaming/">del cloud gaming appezzottato</a>, perché la mia soluzione richiede evidentemente ancora perfezionamenti. L'importante è avere #pazienza e sperimentare il necessario man mano, e forse dopo abbastanza settimane avrò effettivamente il perfettissimo setup... ormai sono fin troppo dentro questa questione per tirarmi indietro. 😱</p>
+<p>Torniamo a parlare <a href="/microblog-mirror/series/troppo-cloud-gaming/">del cloud gaming appezzottato</a>, perché la mia soluzione richiede evidentemente ancora perfezionamenti. L'importante è avere #pazienza e sperimentare il necessario man mano, e forse dopo abbastanza settimane avrò effettivamente il perfettissimo setup... ormai sono fin troppo dentro questa questione per tirarmi indietro. 😱</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

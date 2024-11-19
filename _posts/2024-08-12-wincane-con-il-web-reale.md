@@ -24,7 +24,7 @@ date: 2024-08-12 03:00:57
 canonical_url:   https://octospacc.altervista.org/2024/08/12/wincane-con-il-web-reale/
 ---
 <!-- wp:paragraph -->
-<p>Damn. Pensavo di postare questo prima, ma mi seccava fare tantissimo rumore per un obiettivo al di sotto del mio ideale inizialmente prefissato, quindi... ho dovuto programmare per qualche ora in più. Beh, dopo <a href="2024/08/10/wincan-do-be-funnying/">altri 2 giorni di lavoro</a> a tempo più che pieno, ma retribuzione monetaria pari allo zero spaccato, la versione #web di #WinDog è già molto più del <a href="2024/07/01/wincane-no-js/">proof-of-concept del mese scorso</a>... 😌</p>
+<p>Damn. Pensavo di postare questo prima, ma mi seccava fare tantissimo rumore per un obiettivo al di sotto del mio ideale inizialmente prefissato, quindi... ho dovuto programmare per qualche ora in più. Beh, dopo <a href="/microblog-mirror/2024/08/10/wincan-do-be-funnying/">altri 2 giorni di lavoro</a> a tempo più che pieno, ma retribuzione monetaria pari allo zero spaccato, la versione #web di #WinDog è già molto più del <a href="/microblog-mirror/2024/07/01/wincane-no-js/">proof-of-concept del mese scorso</a>... 😌</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

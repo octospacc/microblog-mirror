@@ -26,7 +26,7 @@ date: 2024-08-20 23:53:12
 canonical_url:   https://octospacc.altervista.org/2024/08/20/il-linuxxaggio-piu-migliore/
 ---
 <!-- wp:paragraph -->
-<p>Lo #spirito da utente #Linux autisticamente fissata è forte con questa faccenda. Credevate che io potessi star facendo chissà cosa tra ieri mattina e stasera, dopo <a href="2024/08/19/linuxaggio-androidico/">l'ultima goduria che ho postato</a>? Assolutamente no, la mia anima è stata consumata come al solito dal demone #opensource. #Sad! O meglio... sad perché non funziona tutto esattamente come voglio, però tutto ciò che ho detto resta valido, e le mie idee sono buone, ma andrebbero esplorate di più (...ancora altri giorni...). Con gli enormi miglioramenti portati da Termux:X11, questa potrebbe quasi essere la soluzione al <a href="https://t.me/c/1383332798/20406">problema della workstation cross-spaziotempo</a> che mi porto avanti da tantissimo... 😔️</p>
+<p>Lo #spirito da utente #Linux autisticamente fissata è forte con questa faccenda. Credevate che io potessi star facendo chissà cosa tra ieri mattina e stasera, dopo <a href="/microblog-mirror/2024/08/19/linuxaggio-androidico/">l'ultima goduria che ho postato</a>? Assolutamente no, la mia anima è stata consumata come al solito dal demone #opensource. #Sad! O meglio... sad perché non funziona tutto esattamente come voglio, però tutto ciò che ho detto resta valido, e le mie idee sono buone, ma andrebbero esplorate di più (...ancora altri giorni...). Con gli enormi miglioramenti portati da Termux:X11, questa potrebbe quasi essere la soluzione al <a href="https://t.me/c/1383332798/20406">problema della workstation cross-spaziotempo</a> che mi porto avanti da tantissimo... 😔️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

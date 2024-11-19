@@ -22,7 +22,7 @@ date: 2024-03-19 00:30:30
 canonical_url:   https://octospacc.altervista.org/2024/03/19/amazon-tricc/
 ---
 <!-- wp:paragraph -->
-<p>Dovevo inviare questo post qualche ora fa, ma <em>per scaramanzia</em> ho preferito aspettare un attimo; ora credo di poter parlare. Sembra proprio che io sia riuscita a sbloccare <a href="2024/03/16/odio-emezon/">il mio ordine dell'altro giorno</a> di #Amazon, dopo un po' di panico e con un po' di culo, fuck around and find out insomma. 🤗</p>
+<p>Dovevo inviare questo post qualche ora fa, ma <em>per scaramanzia</em> ho preferito aspettare un attimo; ora credo di poter parlare. Sembra proprio che io sia riuscita a sbloccare <a href="/microblog-mirror/2024/03/16/odio-emezon/">il mio ordine dell'altro giorno</a> di #Amazon, dopo un po' di panico e con un po' di culo, fuck around and find out insomma. 🤗</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

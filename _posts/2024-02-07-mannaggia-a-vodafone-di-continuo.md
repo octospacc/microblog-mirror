@@ -36,7 +36,7 @@ date: 2024-02-07 22:38:54
 canonical_url:   https://octospacc.altervista.org/2024/02/07/mannaggia-a-vodafone-di-continuo/
 ---
 <!-- wp:paragraph -->
-<p>Di cosa dovrei #incazzarmi di più: del fatto che ormai da mesi — e in questi ultimissimi giorni la #storia è peggiorata #tragicamente, <a href="wp-content/uploads/2024/02/image-7.png"><strong>guardare per credere</strong></a> — la linea #Internet di casa salta di continuo, mettendo da sé continui bastoni tra le ruote al mio workflow... o del fatto che quando collego il telefono via tethering USB il mio sistema desktop sembra non essere sempre in grado di routare correttamente i pacchetti — in certi casi capisce che deve farli passare attraverso il telefono sennò non vanno da nessuna parte, ma altre volte si ostina a mandarli al mio bridge ethernet? #MANNAGGIA!!! 🗡️🗡️</p>
+<p>Di cosa dovrei #incazzarmi di più: del fatto che ormai da mesi — e in questi ultimissimi giorni la #storia è peggiorata #tragicamente, <a href="/microblog-mirror/wp-content/uploads/2024/02/image-7.png"><strong>guardare per credere</strong></a> — la linea #Internet di casa salta di continuo, mettendo da sé continui bastoni tra le ruote al mio workflow... o del fatto che quando collego il telefono via tethering USB il mio sistema desktop sembra non essere sempre in grado di routare correttamente i pacchetti — in certi casi capisce che deve farli passare attraverso il telefono sennò non vanno da nessuna parte, ma altre volte si ostina a mandarli al mio bridge ethernet? #MANNAGGIA!!! 🗡️🗡️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

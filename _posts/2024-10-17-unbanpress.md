@@ -39,11 +39,11 @@ WordPress.com Trust &amp; Safety" class="wp-image-10479"/><figcaption class="wp-
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Da un lato peccato, perché avevo pre-scritto qualche paragrafo al vetriolo, e ora non posso più postarlo. Però meglio così. Resta tuttavia ancora possibilissimo speculare su <em>come mai</em> questo blocco sia in primo luogo arrivato... Voglio dì, <a href="2024/10/16/banpress/"><strong>questa roba con WordPress</strong></a>, anche se parrebbe (da molti segnali) il banale risultato di un'infrastruttura che si regge sullo sputo, sembra un pochino l'ennesimo <strong>complotto nei miei confronti</strong>.</p>
+<p>Da un lato peccato, perché avevo pre-scritto qualche paragrafo al vetriolo, e ora non posso più postarlo. Però meglio così. Resta tuttavia ancora possibilissimo speculare su <em>come mai</em> questo blocco sia in primo luogo arrivato... Voglio dì, <a href="/microblog-mirror/2024/10/16/banpress/"><strong>questa roba con WordPress</strong></a>, anche se parrebbe (da molti segnali) il banale risultato di un'infrastruttura che si regge sullo sputo, sembra un pochino l'ennesimo <strong>complotto nei miei confronti</strong>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Quindi, abbiamo poche opzioni. Le cose plausibili sono solo il fatto di aver linkato ad <a href="2023/12/04/138/">un vecchio post del fritto misto</a> (che essendo WordPress hostato da Altervista è <em>la concorrenza</em>, e quindi spam)... o di aver ammiccato negativamente al fatto che #WordPress sia capace di rompersi (vi ricordo che ora #Automattic ha la sua AI, quindi chissà che non la usi per censurare in automatico post di potenziale dissenso?). 🤐️</p>
+<p>Quindi, abbiamo poche opzioni. Le cose plausibili sono solo il fatto di aver linkato ad <a href="/microblog-mirror/2023/12/04/138/">un vecchio post del fritto misto</a> (che essendo WordPress hostato da Altervista è <em>la concorrenza</em>, e quindi spam)... o di aver ammiccato negativamente al fatto che #WordPress sia capace di rompersi (vi ricordo che ora #Automattic ha la sua AI, quindi chissà che non la usi per censurare in automatico post di potenziale dissenso?). 🤐️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -51,7 +51,7 @@ WordPress.com Trust &amp; Safety" class="wp-image-10479"/><figcaption class="wp-
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Devo però riconoscere che il #supporto è stato totalmente competente e mediamente veloce, quindi la mia sofferenza è stata molto contenuta... Detto questo, posso allora anche continuare facendo finta che ieri <em>non sia successo nulla</em>, e fare comunque lì il sito che mi serve per <a href="2024/10/15/la-scritazzocto/">la scrittura epica</a>, che è l'opzione più comoda. 😪️</p>
+<p>Devo però riconoscere che il #supporto è stato totalmente competente e mediamente veloce, quindi la mia sofferenza è stata molto contenuta... Detto questo, posso allora anche continuare facendo finta che ieri <em>non sia successo nulla</em>, e fare comunque lì il sito che mi serve per <a href="/microblog-mirror/2024/10/15/la-scritazzocto/">la scrittura epica</a>, che è l'opzione più comoda. 😪️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

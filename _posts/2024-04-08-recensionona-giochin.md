@@ -25,7 +25,7 @@ date: 2024-04-08 13:05:37
 canonical_url:   https://octospacc.altervista.org/2024/04/08/recensionona-giochin/
 ---
 <!-- wp:paragraph -->
-<p>Alla fine, anziché una #recensione mezza per il gioco vecchio-nuovo <a href="2024/04/07/android-come-il-95/">che ho menzionato ieri</a>, è uscito un #articolo bello grosso... 2500+ parole. Quindi, ho dovuto pubblicarlo sul #blogoctt (che non è male, non caricavo lì da ere geologiche... il post sulla camera DSi è ancora in cantiere...).</p>
+<p>Alla fine, anziché una #recensione mezza per il gioco vecchio-nuovo <a href="/microblog-mirror/2024/04/07/android-come-il-95/">che ho menzionato ieri</a>, è uscito un #articolo bello grosso... 2500+ parole. Quindi, ho dovuto pubblicarlo sul #blogoctt (che non è male, non caricavo lì da ere geologiche... il post sulla camera DSi è ancora in cantiere...).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

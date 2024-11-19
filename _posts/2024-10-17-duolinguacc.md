@@ -22,7 +22,7 @@ canonical_url:   https://octospacc.altervista.org/2024/10/17/duolinguacc/
 comunque Duolingo coi cuori è uno scam
 sto inguaiata
 vedi se devo stare nella demotion zone perché quel merdone non mi rigenera i cuori
-la necessità di fare Duolingo hack si fa sempre più impellente" class="wp-image-10449"/><figcaption class="wp-element-caption">Parlando di sabotaggi delle compagnie for-profit ai miei danni... wow, sono davvero nel mirino. Perché <strong>Duolingo sembrava decisamente intenzionato a farmi perdere <em><a href="2024/09/21/lo-slanciocto/">la streak</a></em></strong>, tra ieri sera e ieri l'altro. Per l'oggi passato sono salva, ma occhi aperti per domani, perché devo anche recuperare la mia posizione in lega... 😭️</figcaption></figure>
+la necessità di fare Duolingo hack si fa sempre più impellente" class="wp-image-10449"/><figcaption class="wp-element-caption">Parlando di sabotaggi delle compagnie for-profit ai miei danni... wow, sono davvero nel mirino. Perché <strong>Duolingo sembrava decisamente intenzionato a farmi perdere <em><a href="/microblog-mirror/2024/09/21/lo-slanciocto/">la streak</a></em></strong>, tra ieri sera e ieri l'altro. Per l'oggi passato sono salva, ma occhi aperti per domani, perché devo anche recuperare la mia posizione in lega... 😭️</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

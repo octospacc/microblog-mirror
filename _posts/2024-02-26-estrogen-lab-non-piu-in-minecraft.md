@@ -60,5 +60,5 @@ canonical_url:   https://octospacc.altervista.org/2024/02/26/estrogen-lab-non-pi
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>P.S. se volete aprire un laboratorio di chimica scrivetemi, può sempre tornare utile e sarebbe <a href="2024/02/25/quali-distrazioni-per-get-through-this/">una interessante distrazione</a>... però nella mia cameretta non ho spazio, quindi non so.</p>
+<p>P.S. se volete aprire un laboratorio di chimica scrivetemi, può sempre tornare utile e sarebbe <a href="/microblog-mirror/2024/02/25/quali-distrazioni-per-get-through-this/">una interessante distrazione</a>... però nella mia cameretta non ho spazio, quindi non so.</p>
 <!-- /wp:paragraph -->

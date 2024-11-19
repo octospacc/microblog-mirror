@@ -31,7 +31,7 @@ canonical_url:   https://octospacc.altervista.org/2024/10/10/giocsegret/
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Allora, i progetti segreti (da affrontare uno alla volta), per cui l'altro giorno ho iniziato a vedere <a href="2024/10/07/gamfabbbricagio/">come sviluppare videogiochi 3D</a> decentemente... sono segreti per un motivo, e cioè che non posso dire granché, altrimenti i Ninja faranno irruzione nella stanza di casa mia, <a href="2024/10/02/ryujisnt/">come successo al povero gdkchan</a> appena la settimana scorsa. (Ho già detto troppo, quindi per mia sicurezza metto un bel "<em>ogni riferimento a cose realmente accadute è puramente casuale</em>".) 🤕️</p>
+<p>Allora, i progetti segreti (da affrontare uno alla volta), per cui l'altro giorno ho iniziato a vedere <a href="/microblog-mirror/2024/10/07/gamfabbbricagio/">come sviluppare videogiochi 3D</a> decentemente... sono segreti per un motivo, e cioè che non posso dire granché, altrimenti i Ninja faranno irruzione nella stanza di casa mia, <a href="/microblog-mirror/2024/10/02/ryujisnt/">come successo al povero gdkchan</a> appena la settimana scorsa. (Ho già detto troppo, quindi per mia sicurezza metto un bel "<em>ogni riferimento a cose realmente accadute è puramente casuale</em>".) 🤕️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -47,7 +47,7 @@ canonical_url:   https://octospacc.altervista.org/2024/10/10/giocsegret/
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>...Finita la questione vera però, sento chiedere: perché proprio #Blogger stavolta, e non WordPress? Una serie di motivi, che si ricollegano tutti a questo qui della #privacy... ma anche perché, avendo considerato a priori che su questo sito mi servirà effettivamente soltanto scrivere, non fare formattazione 𝒻𝒶𝓃𝒸𝓎, e quindi l'editor a blocchi non mi serve, Blogger è <a href="2024/10/03/wprogne/">decisamente meno inmerdificato di WordPress.com</a>. 🙏️</p>
+<p>...Finita la questione vera però, sento chiedere: perché proprio #Blogger stavolta, e non WordPress? Una serie di motivi, che si ricollegano tutti a questo qui della #privacy... ma anche perché, avendo considerato a priori che su questo sito mi servirà effettivamente soltanto scrivere, non fare formattazione 𝒻𝒶𝓃𝒸𝓎, e quindi l'editor a blocchi non mi serve, Blogger è <a href="/microblog-mirror/2024/10/03/wprogne/">decisamente meno inmerdificato di WordPress.com</a>. 🙏️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

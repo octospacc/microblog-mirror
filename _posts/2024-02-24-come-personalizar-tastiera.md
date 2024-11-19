@@ -28,7 +28,7 @@ date: 2024-02-24 23:34:22
 canonical_url:   https://octospacc.altervista.org/2024/02/24/come-personalizar-tastiera/
 ---
 <!-- wp:paragraph -->
-<p>Vorrei cambiare #keycaps alla <a href="2023/12/26/817/">mia #tastiera meccanica</a>, per #sfizio. E su Aliexpress mesi fa diversi articoli avevano catturato la mia attenzione — sono veramente una marea, ogni volta che cerco "<a href="https://it.aliexpress.com/w/wholesale-kawaii-keycaps.html">kawaii keycaps</a>" lì sopra e scorro le immagini divento pazza. Solo che... da un lato costicchiano, dall'altro il #DIY mi piace, poi l' #arte è sempre bella, e questo genere di cose qui penso che si riesce ad averle di più a cuore se le si fa personali, rispetto a cosa il comprare la plastica prodotta in serie può mai dare alla nostra anima. Quindi, ormai voglio #dipingere io 'sti tastini. ✨️</p>
+<p>Vorrei cambiare #keycaps alla <a href="/microblog-mirror/2023/12/26/817/">mia #tastiera meccanica</a>, per #sfizio. E su Aliexpress mesi fa diversi articoli avevano catturato la mia attenzione — sono veramente una marea, ogni volta che cerco "<a href="https://it.aliexpress.com/w/wholesale-kawaii-keycaps.html">kawaii keycaps</a>" lì sopra e scorro le immagini divento pazza. Solo che... da un lato costicchiano, dall'altro il #DIY mi piace, poi l' #arte è sempre bella, e questo genere di cose qui penso che si riesce ad averle di più a cuore se le si fa personali, rispetto a cosa il comprare la plastica prodotta in serie può mai dare alla nostra anima. Quindi, ormai voglio #dipingere io 'sti tastini. ✨️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

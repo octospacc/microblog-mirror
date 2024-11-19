@@ -20,7 +20,7 @@ canonical_url:   https://octospacc.altervista.org/2024/10/01/murphyversita/
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>I professori continuano a confonderci di continuo (non solo a me), con le loro inazioni ed omissioni, tant'è che mio padre scherzava su come noi del secondo anno siamo più spiazzati delle nuove matricole... e ha probabilmente ragione. Ieri alla fine sono andata <a href="2024/09/25/la-riuniversitoctt/">alla lezione di recupero maledetta</a>; anche se boh, non ha spiegato nulla, ha fatto solo il solito yapping pre-corso. 😭️</p>
+<p>I professori continuano a confonderci di continuo (non solo a me), con le loro inazioni ed omissioni, tant'è che mio padre scherzava su come noi del secondo anno siamo più spiazzati delle nuove matricole... e ha probabilmente ragione. Ieri alla fine sono andata <a href="/microblog-mirror/2024/09/25/la-riuniversitoctt/">alla lezione di recupero maledetta</a>; anche se boh, non ha spiegato nulla, ha fatto solo il solito yapping pre-corso. 😭️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -28,7 +28,7 @@ canonical_url:   https://octospacc.altervista.org/2024/10/01/murphyversita/
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Stamattina, e ormai a questo punto è un vizio, di nuovo mancava la stessa professoressa... e si, ce l'ha detto anche in questo caso con un preavviso schifosamente corto, ma ok. Quindi, almeno, ho potuto svegliarmi con calmina; bene, anche perché ieri sera ho fatto proprio tardi <a href="2024/10/01/ultravisiocto/">a scrivere quel post</a>, e sarei potuta collassare per strada se avessi dovuto alzarmi due ore prima. Ho comunque preso un bus non troppo tardi, perché in piena mattinata dovevo fare pure stavolta una videochiamata, ma se la facevo bella a casa poi non facevo in tempo a prendere il mezzo... solite rogne. 😩️</p>
+<p>Stamattina, e ormai a questo punto è un vizio, di nuovo mancava la stessa professoressa... e si, ce l'ha detto anche in questo caso con un preavviso schifosamente corto, ma ok. Quindi, almeno, ho potuto svegliarmi con calmina; bene, anche perché ieri sera ho fatto proprio tardi <a href="/microblog-mirror/2024/10/01/ultravisiocto/">a scrivere quel post</a>, e sarei potuta collassare per strada se avessi dovuto alzarmi due ore prima. Ho comunque preso un bus non troppo tardi, perché in piena mattinata dovevo fare pure stavolta una videochiamata, ma se la facevo bella a casa poi non facevo in tempo a prendere il mezzo... solite rogne. 😩️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

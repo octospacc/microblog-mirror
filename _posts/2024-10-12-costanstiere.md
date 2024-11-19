@@ -21,7 +21,7 @@ date: 2024-10-12 12:25:48
 canonical_url:   https://octospacc.altervista.org/2024/10/12/costanstiere/
 ---
 <!-- wp:paragraph -->
-<p>Ieri non ho aggiunto <em>il seguente</em>, per non allungare e perché dovevo cercare meglio alcune cose... ma <a href="2024/10/11/labstieroctt/">non ho finito di parlare della <strong>tastiera del tablet</strong></a>. Il fatto è che si, è tutto vero quello di ieri, però allo stesso tempo non penso di andare avanti così; devo prenderla una nuova tastiera, sennò prima o poi sbotto. <em>Non è così facile però.</em> 💀️</p>
+<p>Ieri non ho aggiunto <em>il seguente</em>, per non allungare e perché dovevo cercare meglio alcune cose... ma <a href="/microblog-mirror/2024/10/11/labstieroctt/">non ho finito di parlare della <strong>tastiera del tablet</strong></a>. Il fatto è che si, è tutto vero quello di ieri, però allo stesso tempo non penso di andare avanti così; devo prenderla una nuova tastiera, sennò prima o poi sbotto. <em>Non è così facile però.</em> 💀️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

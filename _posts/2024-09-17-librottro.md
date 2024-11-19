@@ -26,7 +26,7 @@ date: 2024-09-17 20:17:32
 canonical_url:   https://octospacc.altervista.org/2024/09/17/librottro/
 ---
 <!-- wp:paragraph -->
-<p><a href="2024/09/17/ristation-mortable/">Nel post che ho inviato ieri sera tardissimo quando sarei dovuta stare a letto da un pezzo</a>, sperando il mio stato di delirio non abbia reso il tutto incomprensibile... ho accennato come ho buttato mezza giornata appresso a #RetroArch, che sul PC non mi funziona, considerata una rogna (e forse di più che semplicemente non ho scoperto) su cui non posso soprassedere. 🧪</p>
+<p><a href="/microblog-mirror/2024/09/17/ristation-mortable/">Nel post che ho inviato ieri sera tardissimo quando sarei dovuta stare a letto da un pezzo</a>, sperando il mio stato di delirio non abbia reso il tutto incomprensibile... ho accennato come ho buttato mezza giornata appresso a #RetroArch, che sul PC non mi funziona, considerata una rogna (e forse di più che semplicemente non ho scoperto) su cui non posso soprassedere. 🧪</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

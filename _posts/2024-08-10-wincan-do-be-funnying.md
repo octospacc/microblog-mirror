@@ -35,7 +35,7 @@ canonical_url:   https://octospacc.altervista.org/2024/08/10/wincan-do-be-funnyi
 < non so perché ma questa cosa mi fa ridere 
 < /decode base64 aAAA 
 &gt; h
-< h" class="wp-image-8425"/><figcaption class="wp-element-caption">Detto al volo perché devo mimir: <a href="2024/08/07/programmazione-fumosa/">in questi 3 giorni</a> nel #bot ho implementato un'altra funzione inutile (questa per fare [de]codifica di testo), e una utile che me lo fa riavviare (per quando modifico il codice) senza passare dal terminale del server; ho magicamente fixato l'invio di messaggi bridgiati, ho ripulito gran parte del codice togliendo anche delle cose più che deprecate, ho aggiunto funzioni alla API per standardizzare i messaggi di aiuto e quelli di errore, sistemato qualche comando vecchio, e insomma funziona già tutto meglio di prima. 🤑</figcaption></figure>
+< h" class="wp-image-8425"/><figcaption class="wp-element-caption">Detto al volo perché devo mimir: <a href="/microblog-mirror/2024/08/07/programmazione-fumosa/">in questi 3 giorni</a> nel #bot ho implementato un'altra funzione inutile (questa per fare [de]codifica di testo), e una utile che me lo fa riavviare (per quando modifico il codice) senza passare dal terminale del server; ho magicamente fixato l'invio di messaggi bridgiati, ho ripulito gran parte del codice togliendo anche delle cose più che deprecate, ho aggiunto funzioni alla API per standardizzare i messaggi di aiuto e quelli di errore, sistemato qualche comando vecchio, e insomma funziona già tutto meglio di prima. 🤑</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

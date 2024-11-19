@@ -20,7 +20,7 @@ date: 2024-07-04 02:05:03
 canonical_url:   https://octospacc.altervista.org/2024/07/04/bandieroct-quasi-a-meta/
 ---
 <!-- wp:paragraph -->
-<p>Dunque... <a href="2024/07/02/cucire-esplodo/">la bandiera Octt non l'ho ancora finita</a>, ma ho continuato. Ieri praticamente ho tagliato l'ultima striscia e iniziato a cucire, e insomma, devo ancora vedere come va. Ho tantissima voglia di finirla, perché avendo visto (disponendo le strisce vicine giusto per) quanto verrà sorprendentemente grande, ho già goduto, quindi ora voglio possederla effettivamente sventolante, appendibile, idk, tutte le proprietà che una bandiera normale ha. Eccetto che questa è bella grossa, un metro e mezzo dal lato lungo (come quelle dello stesso prezzo su AliExpress alla fine, eccetto che il materiale di questa è meglio, seppur non la produzione, ma nessuno produce commercialmente la #bandiera Octt). ✨️</p>
+<p>Dunque... <a href="/microblog-mirror/2024/07/02/cucire-esplodo/">la bandiera Octt non l'ho ancora finita</a>, ma ho continuato. Ieri praticamente ho tagliato l'ultima striscia e iniziato a cucire, e insomma, devo ancora vedere come va. Ho tantissima voglia di finirla, perché avendo visto (disponendo le strisce vicine giusto per) quanto verrà sorprendentemente grande, ho già goduto, quindi ora voglio possederla effettivamente sventolante, appendibile, idk, tutte le proprietà che una bandiera normale ha. Eccetto che questa è bella grossa, un metro e mezzo dal lato lungo (come quelle dello stesso prezzo su AliExpress alla fine, eccetto che il materiale di questa è meglio, seppur non la produzione, ma nessuno produce commercialmente la #bandiera Octt). ✨️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

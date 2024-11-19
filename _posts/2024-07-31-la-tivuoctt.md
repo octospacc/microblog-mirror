@@ -24,7 +24,7 @@ date: 2024-07-31 00:34:51
 canonical_url:   https://octospacc.altervista.org/2024/07/31/la-tivuoctt/
 ---
 <!-- wp:paragraph -->
-<p>Chi sta seguendo le #olimpiadi col piede giusto (cioè non per fare le solite lamentele politiche, ma per godersi il fottutissimo sport, che è la cosa che a quanto pare aprendo Internet finisce sempre in secondo piano), lo sa che l'applicazione che serve per stare al passo con gli eventi non è un client social, bensì un #player IPTV... ed è a questo che sono finita con <a href="2024/07/30/ok-la-pazzia-e-fatta/">la matta programmazione di ieri sera</a>... 🤫️</p>
+<p>Chi sta seguendo le #olimpiadi col piede giusto (cioè non per fare le solite lamentele politiche, ma per godersi il fottutissimo sport, che è la cosa che a quanto pare aprendo Internet finisce sempre in secondo piano), lo sa che l'applicazione che serve per stare al passo con gli eventi non è un client social, bensì un #player IPTV... ed è a questo che sono finita con <a href="/microblog-mirror/2024/07/30/ok-la-pazzia-e-fatta/">la matta programmazione di ieri sera</a>... 🤫️</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

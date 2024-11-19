@@ -46,7 +46,7 @@ canonical_url:   https://octospacc.altervista.org/2024/04/04/missione-extra-perc
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Io, però, <a href="2024/04/03/non-spendo-zoldi/">sono tirchia</a> e ho già troppa monnezza per casa, quindi: anche se i lettoruncoli di AliExpress <em>do be lookin' nice for real</em>, per ora ho deciso che è meglio #riciclare il vecchissimo #Samsung Galaxy Player, così almeno ci faccio qualcosa. Con <a href="https://t.me/OTIdroid/629565">qualche chiacchiera su OTIDroid</a>, alla fine ho valutato che la cosa si può fare. Ed ecco le correnti considerazioni e il setup... in parte con modifiche dell'ultimo minuto:</p>
+<p>Io, però, <a href="/microblog-mirror/2024/04/03/non-spendo-zoldi/">sono tirchia</a> e ho già troppa monnezza per casa, quindi: anche se i lettoruncoli di AliExpress <em>do be lookin' nice for real</em>, per ora ho deciso che è meglio #riciclare il vecchissimo #Samsung Galaxy Player, così almeno ci faccio qualcosa. Con <a href="https://t.me/OTIdroid/629565">qualche chiacchiera su OTIDroid</a>, alla fine ho valutato che la cosa si può fare. Ed ecco le correnti considerazioni e il setup... in parte con modifiche dell'ultimo minuto:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->

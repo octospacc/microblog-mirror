@@ -47,5 +47,5 @@ canonical_url:   https://octospacc.altervista.org/2024/01/03/matrix-sticker-help
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Per ora, come ho detto, è proprio agli albori, e nemmeno l'importazione da file locale funziona... ma quella da URL JSON si, quindi perlomeno si possono già importare pacchetti creati da altre persone con i mezzi vecchi. Per provare subito, ecco una pagina di link a pacchetti pronti da copincollare nella app: <a href="paste/887/?ppt=4434dcaa8646fbf1400fa65308d87f4d01880a113836a338c9227b70a60fb337">https://octospacc.altervista.org/paste/887/?ppt=4434dcaa8646fbf1400fa65308d87f4d01880a113836a338c9227b70a60fb337</a>. 🖇️</p>
+<p>Per ora, come ho detto, è proprio agli albori, e nemmeno l'importazione da file locale funziona... ma quella da URL JSON si, quindi perlomeno si possono già importare pacchetti creati da altre persone con i mezzi vecchi. Per provare subito, ecco una pagina di link a pacchetti pronti da copincollare nella app: <a href="/microblog-mirror/paste/887/?ppt=4434dcaa8646fbf1400fa65308d87f4d01880a113836a338c9227b70a60fb337">https://octospacc.altervista.org/paste/887/?ppt=4434dcaa8646fbf1400fa65308d87f4d01880a113836a338c9227b70a60fb337</a>. 🖇️</p>
 <!-- /wp:paragraph -->

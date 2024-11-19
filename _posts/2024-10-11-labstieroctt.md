@@ -34,7 +34,7 @@ canonical_url:   https://octospacc.altervista.org/2024/10/11/labstieroctt/
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Vabbé, non ci avevo mai pensato prima, appunto, ma stamattina mi è proprio così venuto lo sghiribizzo di: <strong>collegare la tastiera del computer di laboratorio al mio tablet</strong>. Che casualità: quella ha #USB (non un crusty PS/2), e io avevo <a href="2024/09/10/adattamorte/">l'adattatore</a> in zaino. Perfetto!!! 😈</p>
+<p>Vabbé, non ci avevo mai pensato prima, appunto, ma stamattina mi è proprio così venuto lo sghiribizzo di: <strong>collegare la tastiera del computer di laboratorio al mio tablet</strong>. Che casualità: quella ha #USB (non un crusty PS/2), e io avevo <a href="/microblog-mirror/2024/09/10/adattamorte/">l'adattatore</a> in zaino. Perfetto!!! 😈</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

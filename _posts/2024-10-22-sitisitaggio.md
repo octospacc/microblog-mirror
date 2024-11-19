@@ -50,7 +50,7 @@ canonical_url:   https://octospacc.altervista.org/2024/10/22/sitisitaggio/
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>Perché ci penso? Dopo <a href="2024/10/18/webrisegnaggi/">aver iniziato a spostare la roba di Spacc Inc. da Telegram al vecchio Blogger</a>, giusto per avere un backup ulteriore nonché una vetrina più ordinata di un flusso di messaggi, penso che dovrei farlo forse anche per altri miei canali... ma a quel punto mi chiedo la migliore scelta quale sia. 😵‍💫</p>
+<p>Perché ci penso? Dopo <a href="/microblog-mirror/2024/10/18/webrisegnaggi/">aver iniziato a spostare la roba di Spacc Inc. da Telegram al vecchio Blogger</a>, giusto per avere un backup ulteriore nonché una vetrina più ordinata di un flusso di messaggi, penso che dovrei farlo forse anche per altri miei canali... ma a quel punto mi chiedo la migliore scelta quale sia. 😵‍💫</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -23,7 +23,7 @@ date: 2024-11-01 09:49:12
 canonical_url:   https://octospacc.altervista.org/2024/11/01/nintenmusik/
 ---
 <!-- wp:paragraph -->
-<p>Nintendo ha deciso di chiudere lo spooky mese non facendo spaventare e pisciocagare nelle pandalogne, <a href="2024/10/02/ryujisnt/">come ha invece fatto all'inizio</a>, ma... facendo un pochino ridere. Nel senso che hanno cacciato fuori <strong>un'ennesima idea ridicola</strong>. 🥁</p>
+<p>Nintendo ha deciso di chiudere lo spooky mese non facendo spaventare e pisciocagare nelle pandalogne, <a href="/microblog-mirror/2024/10/02/ryujisnt/">come ha invece fatto all'inizio</a>, ma... facendo un pochino ridere. Nel senso che hanno cacciato fuori <strong>un'ennesima idea ridicola</strong>. 🥁</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -63,5 +63,5 @@ canonical_url:   https://octospacc.altervista.org/2024/11/01/nintenmusik/
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Insomma, tutti volevano Switch 2 (...ma veramente ancora volete dare soldi a Nintendo dopo il terrorismo che hanno abbracciato?), e loro rispondono con <a href="2024/10/21/nintencock/">una sveglia pazza</a> e un clone di Spotify or smth. E ok, va bene tutto, però forse dovrebbero smettere di spendere il budget sul reinventaggio della ruota e, non so, creare un nuovo F-Zero magari??? 😓</p>
+<p>Insomma, tutti volevano Switch 2 (...ma veramente ancora volete dare soldi a Nintendo dopo il terrorismo che hanno abbracciato?), e loro rispondono con <a href="/microblog-mirror/2024/10/21/nintencock/">una sveglia pazza</a> e un clone di Spotify or smth. E ok, va bene tutto, però forse dovrebbero smettere di spendere il budget sul reinventaggio della ruota e, non so, creare un nuovo F-Zero magari??? 😓</p>
 <!-- /wp:paragraph -->
