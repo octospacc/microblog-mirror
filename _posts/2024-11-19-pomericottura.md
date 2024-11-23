@@ -9,6 +9,10 @@ link: >
   https://octospacc.altervista.org/2024/11/19/pomericottura/
 published: true
 tags:
+  - parziale
+  - prova
+  - studiare
+  - tempo
   - università
 categories:
   - Senza categoria

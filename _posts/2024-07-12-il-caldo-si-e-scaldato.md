@@ -8,7 +8,14 @@ layout: post
 link: >
   https://octospacc.altervista.org/2024/07/12/il-caldo-si-e-scaldato/
 published: true
-tags: [ ]
+tags:
+  - caldo
+  - calore
+  - clima
+  - confusione
+  - shitpost
+  - sudo
+  - temperatura
 categories:
   - Senza categoria
 title: il caldo si è scaldato

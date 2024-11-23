@@ -9,7 +9,18 @@ link: >
   https://octospacc.altervista.org/2024/04/17/universitrolling/
 published: true
 tags:
+  - bus
+  - destino
+  - fatti
+  - funny
+  - gelo
   - imprevisti
+  - maltempo
+  - meteo
+  - presura
+  - pullman
+  - trolling
+  - vita
 categories:
   - Senza categoria
 title: universitrolling

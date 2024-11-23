@@ -11,6 +11,7 @@ published: true
 tags:
   - Android
   - progetto
+  - programmazione
   - SpiderADB
   - UI
   - web

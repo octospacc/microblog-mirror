@@ -13,6 +13,7 @@ tags:
   - fstab
   - homeserver
   - Linux
+  - server
 categories:
   - Senza categoria
 title: se il server non serve

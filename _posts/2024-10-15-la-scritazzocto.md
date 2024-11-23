@@ -11,9 +11,11 @@ published: true
 tags:
   - blog
   - blogging
+  - fantasia
   - fantasy
   - idee
   - microblogging
+  - personaggi
   - roleplay
   - scrittura
   - scrivere

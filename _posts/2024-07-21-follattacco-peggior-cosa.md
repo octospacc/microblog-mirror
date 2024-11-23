@@ -8,7 +8,15 @@ layout: post
 link: >
   https://octospacc.altervista.org/2024/07/21/follattacco-peggior-cosa/
 published: true
-tags: [ ]
+tags:
+  - aggiornamenti
+  - casino
+  - computer
+  - CrowdStrike
+  - cybersicurezza
+  - merdata
+  - mondo
+  - Windows
 categories:
   - Senza categoria
 title: follattacco peggior cosa

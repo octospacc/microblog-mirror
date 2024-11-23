@@ -9,6 +9,7 @@ link: >
   https://octospacc.altervista.org/2024/09/17/ristation-mortable/
 published: true
 tags:
+  - console
   - malfunzionamento
   - morte
   - problema

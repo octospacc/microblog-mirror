@@ -8,7 +8,9 @@ layout: post
 link: >
   https://octospacc.altervista.org/2024/06/28/lacagacacat/
 published: true
-tags: [ ]
+tags:
+  - diarrea
+  - dolore
 categories:
   - Senza categoria
 title: lacagacacat

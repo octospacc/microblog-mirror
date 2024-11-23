@@ -15,6 +15,7 @@ tags:
   - disagi
   - disagio
   - lavori
+  - sciopero
   - sindacati
   - traffico
   - trasporti

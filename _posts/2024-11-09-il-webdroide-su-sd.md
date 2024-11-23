@@ -9,7 +9,12 @@ link: >
   https://octospacc.altervista.org/2024/11/09/il-webdroide-su-sd/
 published: true
 tags:
+  - Android
+  - archiviazione
+  - dati
+  - SDCard
   - SpaccWebView
+  - WebView
 categories:
   - Senza categoria
 title: il webdroide su sd

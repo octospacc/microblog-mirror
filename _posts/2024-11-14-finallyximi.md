@@ -16,6 +16,9 @@ tags:
   - smartband
   - tech
   - unboxing
+  - upgrade
+  - video
+  - Xiaomi
 categories:
   - Senza categoria
 title: FINALLYXIMI

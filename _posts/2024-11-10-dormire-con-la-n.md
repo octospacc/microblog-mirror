@@ -9,11 +9,14 @@ link: >
   https://octospacc.altervista.org/2024/11/10/dormire-con-la-n/
 published: true
 tags:
+  - challenge
   - dormire
   - NNN
   - NoNutNovember
+  - REM
   - sleep
   - sonno
+  - stanotte
 categories:
   - Senza categoria
 title: dormire con la N.

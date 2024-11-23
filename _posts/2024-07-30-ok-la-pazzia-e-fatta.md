@@ -9,7 +9,9 @@ link: >
   https://octospacc.altervista.org/2024/07/30/ok-la-pazzia-e-fatta/
 published: true
 tags:
+  - dolori
   - esame
+  - malessere
   - sintomi
 categories:
   - Senza categoria

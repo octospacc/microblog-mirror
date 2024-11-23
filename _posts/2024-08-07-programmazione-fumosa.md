@@ -9,6 +9,7 @@ link: >
   https://octospacc.altervista.org/2024/08/07/programmazione-fumosa/
 published: true
 tags:
+  - mistico
   - progetti
   - programmare
   - rotting

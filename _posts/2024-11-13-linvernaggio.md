@@ -9,7 +9,10 @@ link: >
   https://octospacc.altervista.org/2024/11/13/linvernaggio/
 published: true
 tags:
+  - clima
+  - freddo
   - inverno
+  - stagioni
 categories:
   - Senza categoria
 title: linvernaggio

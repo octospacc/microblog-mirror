@@ -8,7 +8,16 @@ layout: post
 link: >
   https://octospacc.altervista.org/2024/05/06/la-fine-di-emezon/
 published: true
-tags: [ ]
+tags:
+  - Amazon
+  - BonusCultura
+  - incidenti
+  - libri
+  - manga
+  - Mannaggia
+  - morale
+  - soldi
+  - spedizione
 categories:
   - Senza categoria
 title: la fine di emezon

@@ -9,7 +9,13 @@ link: >
   https://octospacc.altervista.org/2024/10/20/migliorposting/
 published: true
 tags:
+  - blogging
+  - considerazioni
+  - idee
+  - messaggi
+  - post
   - scrittura
+  - scrivere
 categories:
   - Senza categoria
 title: migliorposting

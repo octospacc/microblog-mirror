@@ -9,8 +9,19 @@ link: >
   https://octospacc.altervista.org/2024/09/12/mibanda-coi-colori/
 published: true
 tags:
+  - acquisti
+  - Amazon
+  - band
   - braccialetti
+  - cinturini
+  - colori
   - fitness
+  - Goduria
+  - MiBand
+  - nylon
+  - recensione
+  - smartband
+  - tessuto
   - watch
   - Xiaomi
 categories:

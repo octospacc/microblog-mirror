@@ -10,8 +10,11 @@ link: >
 published: true
 tags:
   - anti-spam
+  - Automattic
   - ban
+  - supporto
   - unban
+  - WordPress
   - WordPress.com
 categories:
   - Senza categoria

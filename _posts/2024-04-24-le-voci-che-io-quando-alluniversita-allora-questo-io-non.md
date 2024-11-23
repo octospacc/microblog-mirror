@@ -9,7 +9,15 @@ layout: post
 link: >
   https://octospacc.altervista.org/2024/04/24/le-voci-che-io-quando-alluniversita-allora-questo-io-non/
 published: true
-tags: [ ]
+tags:
+  - aspettare
+  - eventi
+  - fatica
+  - giornata
+  - pensieri
+  - ritardo
+  - tempo
+  - zzz
 categories:
   - Senza categoria
 title: 'le voci che io quando all&#8217;Università allora questo io non'

@@ -11,11 +11,13 @@ published: true
 tags:
   - bot
   - chat
+  - hack
   - HTML
   - HTTP
   - magia
   - sans-js
   - web
+  - webdev
   - WinDog
 categories:
   - Senza categoria

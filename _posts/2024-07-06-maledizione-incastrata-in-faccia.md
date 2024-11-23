@@ -8,7 +8,13 @@ layout: post
 link: >
   https://octospacc.altervista.org/2024/07/06/maledizione-incastrata-in-faccia/
 published: true
-tags: [ ]
+tags:
+  - danno
+  - makeup
+  - soldi
+  - trucchi
+  - viso
+  - Wycon
 categories:
   - Senza categoria
 title: maledizione incastrata in faccia

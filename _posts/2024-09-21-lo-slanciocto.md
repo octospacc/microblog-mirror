@@ -10,6 +10,7 @@ link: >
 published: true
 tags:
   - ritmo
+  - scrivere
   - slanci
   - streak
 categories:

@@ -9,8 +9,17 @@ link: >
   https://octospacc.altervista.org/2024/11/06/pikminboom/
 published: true
 tags:
+  - AR
+  - fiori
+  - gaming
+  - gioco
+  - Mannaggia
   - mobile
+  - Pikmin
   - PikminBloom
+  - spasso
+  - sublime
+  - tempo
   - università
 categories:
   - Senza categoria

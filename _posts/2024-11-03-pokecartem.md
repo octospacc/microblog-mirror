@@ -10,9 +10,14 @@ link: >
 published: true
 tags:
   - bustine
+  - carte
   - FriendCode
+  - gioco
   - mobile
+  - Nintendo
   - Pokémon
+  - sbusto
+  - TCG
   - TCGPocket
   - videogame
 categories:

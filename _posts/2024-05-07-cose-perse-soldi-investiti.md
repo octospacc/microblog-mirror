@@ -8,7 +8,17 @@ layout: post
 link: >
   https://octospacc.altervista.org/2024/05/07/cose-perse-soldi-investiti/
 published: true
-tags: [ ]
+tags:
+  - autobus
+  - karma
+  - oggetti
+  - peccato
+  - pensieri
+  - perdere
+  - perduto
+  - powerbank
+  - smarriti
+  - spendere
 categories:
   - Senza categoria
 title: cose perse soldi investiti

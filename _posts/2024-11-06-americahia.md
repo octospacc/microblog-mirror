@@ -15,6 +15,7 @@ tags:
   - elezioni
   - president
   - presidente
+  - USA
 categories:
   - Senza categoria
 title: americahia

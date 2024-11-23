@@ -8,7 +8,9 @@ layout: post
 link: >
   https://octospacc.altervista.org/2024/10/23/paginsito/
 published: true
-tags: [ ]
+tags:
+  - pagine
+  - sitoctt
 categories:
   - Senza categoria
 title: paginsito
