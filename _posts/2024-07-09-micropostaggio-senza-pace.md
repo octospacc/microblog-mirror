@@ -25,26 +25,14 @@ canonical_url:   https://octospacc.altervista.org/2024/07/09/micropostaggio-senz
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><!-- wp:list-item -->
+<ul class="wp-block-list"><!-- wp:list-item -->
 <li><strong>Postare scrivendo su carta</strong>: Sarebbe figo fare come se si avesse un diario cartaceo ma, in automatico e senza interagire direttamente con alcun computer, avere i messaggi che vengono via via caricati su Telegram, WordPress, il Fediverso, o così via... e a dire il vero <a href="https://t.me/CommunityTecnologica/740917">esistono delle "penne smart"</a> che farebbero in teoria proprio al caso, se si scrive abbastanza bene per la lettura di un OCR. Small issue: queste penne sono iper-proprietarie, e non ho idea di se ce ne sia qualcuna che: funzioni senza dipendere da un server che un giorno morirà, la cui app permetta in automatico di inviare i contenuti ad altre app o servizi, e dove sia realistico fare le proprie ricariche di inchiostro e i propri quaderni compatibili (cloni cinesi non ce ne sono, e gli originali sono un furto). Sarà allora proprio il caso di modificare una Bic usando un ESP32, magari, un giorno. 🤥️</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:list -->
-<ul><!-- wp:list-item -->
+<ul class="wp-block-list"><!-- wp:list-item -->
 <li><strong>Canale WhatsApp</strong>: Una gran cagata, ma magari avere il canale #WhatsApp sarebbe utile per farlo seguire a gente che non usa né Telegram né il Fediverso. Potrebbe essere sia un mirror del microblogoctt, ma onestamente non so a quanta gente davvero interesserebbe, sia un mezzo spin-off più quotidiano, non lo so; tuttavia, non ha la minima importanza, perché ci sono dei limiti minchioni. Ancora non sembra esserci modo per leggere i canali senza passare per un account, cosa che vuol dire tante noie, ma principalmente nessun buon metodo di esportare i contenuti o di trasferirli da altre parti (<em>hello RSS where are you?</em>). Ovviamente, fare il contrario, cioè da altre fonti a canali WhatsApp, al momento lo permettono solo servizi terzi "surrogati del software" e a pagamento. Per giunta, non c'è il minimo controllo su chi può leggere, non si possono né vedere né cacciare i membri! (In un certo senso è più privato di qualunque altra piattaforma...) Comunque, per memare, il mio #canale lo ho, lo creai quando la funzione era nuova e l'ho usato per la prima volta oggi... unitevi (oppure no): <a href="https://whatsapp.com/channel/0029Va9fNSC7DAX4VTEhlU3A">whatsapp.com/channel/0029Va9fNSC7DAX4VTEhlU3A</a>. 💚️</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:list -->
-<ul><!-- wp:list-item -->
-<li></li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:list -->
-<ul><!-- wp:list-item -->
-<li></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
