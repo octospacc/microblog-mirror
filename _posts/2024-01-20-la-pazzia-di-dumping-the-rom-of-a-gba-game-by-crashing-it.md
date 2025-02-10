@@ -1,8 +1,6 @@
 ---
 ID: 1161
-post_title: >
-  La pazzia di Dumping the ROM of a GBA
-  game by crashing it
+post_title: 'La pazzia di &#8220;Dumping the ROM of a GBA game by crashing it&#8221;'
 post_name: >
   la-pazzia-di-dumping-the-rom-of-a-gba-game-by-crashing-it
 author: minioctt
@@ -38,7 +36,7 @@ tags:
   - video
 categories:
   - Senza categoria
-title: >
+title: 'La pazzia di &#8220;Dumping the ROM of a GBA game by crashing it&#8221;'
 date: 2024-01-20 00:53:23
 canonical_url:   https://octospacc.altervista.org/2024/01/20/la-pazzia-di-dumping-the-rom-of-a-gba-game-by-crashing-it/
 ---

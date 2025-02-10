@@ -9,8 +9,10 @@ link: >
   https://octospacc.altervista.org/2024/11/26/sukebotte/
 published: true
 tags:
+  - abbigliamento
   - Aesthetic
   - antisesso
+  - creativo
   - criminali
   - femminista
   - gang
@@ -35,8 +37,8 @@ canonical_url:   https://octospacc.altervista.org/2024/11/26/sukebotte/
 <p></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://www.youtube.com/watch?v=lzZcUMlQRzI","providerNameSlug":"youtube","responsive":true} -->
-<figure class="wp-block-embed is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=lzZcUMlQRzI","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=lzZcUMlQRzI
 </div><figcaption class="wp-element-caption">Astenersi dalla visione del documentario: vecchietti nonnini che potrebbero prendere un infarto perché oh no queste sono sboccate e si vestono con roba che copre completamente le gambe! 😝</figcaption></figure>
 <!-- /wp:embed -->

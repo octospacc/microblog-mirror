@@ -9,7 +9,12 @@ link: >
   https://octospacc.altervista.org/2024/11/27/la-cartanizzazione/
 published: true
 tags:
+  - cancelleria
+  - carta
+  - cartacce
+  - cartellina
   - disordine
+  - documenti
   - ordine
   - pulire
 categories:

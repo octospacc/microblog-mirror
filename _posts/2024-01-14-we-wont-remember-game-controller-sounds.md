@@ -31,8 +31,8 @@ title: 'We Wont Remember Game Controller &#8220;Sounds&#8221;'
 date: 2024-01-14 19:11:15
 canonical_url:   https://octospacc.altervista.org/2024/01/14/we-wont-remember-game-controller-sounds/
 ---
-<!-- wp:embed {"url":"https://www.youtube.com/watch?v=EjYaE577770","providerNameSlug":"youtube","responsive":true} -->
-<figure class="wp-block-embed is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=EjYaE577770","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=EjYaE577770
 </div><figcaption class="wp-element-caption"><a href="https://www.youtube.com/watch?v=EjYaE577770">https://www.youtube.com/watch?v=EjYaE577770</a></figcaption></figure>
 <!-- /wp:embed -->

@@ -24,8 +24,8 @@ canonical_url:   https://octospacc.altervista.org/2025/01/18/proxatore-uno-di-no
 <p></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":13696,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="{{site.cdnurl}}/assets/uploads/2025/01/image-3-960x516.png" alt="Demo di Proxatore con diversi link." class="wp-image-13696"/><figcaption class="wp-element-caption"><strong>Quindi, presento Proxatore</strong>, che è un servizio web che fa da proxy bello liscio per le anteprime degli URL, di varie piattaforme social e non, così che a condividere link ci saranno meno pensieri e meno pene, e il mondo ne sarà proprio assai più bello!!! <a href="https://proxatore.octt.eu.org"><strong>https://proxatore.octt.eu.org</strong></a> 🥰</figcaption></figure>
+<!-- wp:image {"id":16394,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="{{site.cdnurl}}/assets/uploads/2025/01/image-3-1-960x516.png" alt="Demo di Proxatore con diversi link." class="wp-image-16394"/><figcaption class="wp-element-caption"><strong>Quindi, presento Proxatore</strong>, che è un servizio web che fa da proxy bello liscio per le anteprime degli URL, di varie piattaforme social e non, così che a condividere link ci saranno meno pensieri e meno pene, e il mondo ne sarà proprio assai più bello!!! <a href="https://proxatore.octt.eu.org"><strong>https://proxatore.octt.eu.org</strong></a> 🥰</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

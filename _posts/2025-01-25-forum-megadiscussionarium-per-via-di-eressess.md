@@ -39,26 +39,26 @@ canonical_url:   https://octospacc.altervista.org/2025/01/25/forum-megadiscussio
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":14042,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="{{site.cdnurl}}/assets/uploads/2025/01/image-4.png" alt="&gt; ti fo questa cosa qui così si sistema un po' il disordine malefico
-&gt; caspita, escono come topic deleted anziché sparire, i thread uniti" class="wp-image-14042"/></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":16398,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="{{site.cdnurl}}/assets/uploads/2025/01/image-4-1.png" alt="&gt; ti fo questa cosa qui così si sistema un po' il disordine malefico
+&gt; caspita, escono come topic deleted anziché sparire, i thread uniti" class="wp-image-16398"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":14043,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="{{site.cdnurl}}/assets/uploads/2025/01/image-5.png" alt="&gt; anche this, 3 post riguardo switch 2, allora noi bello ordinato thread
+<!-- wp:image {"id":16399,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="{{site.cdnurl}}/assets/uploads/2025/01/image-5-1.png" alt="&gt; anche this, 3 post riguardo switch 2, allora noi bello ordinato thread
 &gt; quasi quasi invece i post riguardo i momenti nei giochi li unirei in thread riguardo proprio quelli, sia miei che tuoi
 ad esempio crostini, ecc...
-ma man mano vedo meglio" class="wp-image-14043"/></figure>
+ma man mano vedo meglio" class="wp-image-16399"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":14044,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="{{site.cdnurl}}/assets/uploads/2025/01/image-6.png" alt="[Feed: Mostra gli articoli [200] più recenti]
+<!-- wp:image {"id":16401,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="{{site.cdnurl}}/assets/uploads/2025/01/image-6-1.png" alt="[Feed: Mostra gli articoli [200] più recenti]
 &gt; vai, ora si sparano tutti i post del journal dal primo!
 &gt; e ora la rogna è che li ha presi pure il telegram!
 &gt; https://t.me/ioctt/21909
 qui danni
 [I feed visualizzano i più recenti [750] elementi]
-&gt; ora fa pipì" class="wp-image-14044"/></figure>
+&gt; ora fa pipì" class="wp-image-16401"/></figure>
 <!-- /wp:image --><figcaption class="blocks-gallery-caption wp-element-caption">E incredibilmente, la repentina degenerazione delle buone intenzioni è avvenuta nel giro di 6 ore scarse... grande speedrun verso l'oberarci di lavoro nella speranza di ravvivare, questa volta per davvero, mica come tutte le altre volte, il gran forum dello spacc... ops.</figcaption></figure>
 <!-- /wp:gallery -->
 

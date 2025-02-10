@@ -27,9 +27,9 @@ canonical_url:   https://octospacc.altervista.org/2025/01/08/sporo-de-roma-ao/
 <p></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://www.youtube.com/watch?v=UH58CJqzVXw","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=uf1LL-ty4z0#https://www.youtube.com/watch?v=UH58CJqzVXw","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=UH58CJqzVXw
+https://www.youtube.com/watch?v=uf1LL-ty4z0#https://www.youtube.com/watch?v=UH58CJqzVXw
 </div><figcaption class="wp-element-caption">Dallo stesso youtuber dell'altra volta, viene una #storia che sui libri noiosi non c'è, <a href="https://www.youtube.com/watch?v=UH58CJqzVXw">cioè questa di Sporo (<em>Sporus</em>)</a>, un ragazzino che Nerone femminificò forzatamente per poi sposare, dopo aver (allegedly!!!) ammazzato la moglie Poppea a calci mentre questa era incinta. 🤥</figcaption></figure>
 <!-- /wp:embed -->
 

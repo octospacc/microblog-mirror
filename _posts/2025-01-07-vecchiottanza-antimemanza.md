@@ -27,8 +27,8 @@ canonical_url:   https://octospacc.altervista.org/2025/01/07/vecchiottanza-antim
 <p></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":13327,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{site.cdnurl}}/assets/uploads/2025/01/image-2.png" alt="Meme su KYM. Top comment (+22): Fake. Just tell us a joke without swearing up and down it's actually totally 100% true for real guys." class="wp-image-13327"/><figcaption class="wp-element-caption"><a href="https://knowyourmeme.com/photos/2500549-the-legend-of-zelda">https://knowyourmeme.com/photos/2500549-the-legend-of-zelda</a></figcaption></figure>
+<!-- wp:image {"id":16389,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="{{site.cdnurl}}/assets/uploads/2025/01/image-2-1.png" alt="Meme su KYM. Top comment (+22): Fake. Just tell us a joke without swearing up and down it's actually totally 100% true for real guys." class="wp-image-16389"/><figcaption class="wp-element-caption"><a href="https://knowyourmeme.com/photos/2500549-the-legend-of-zelda">https://knowyourmeme.com/photos/2500549-the-legend-of-zelda</a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

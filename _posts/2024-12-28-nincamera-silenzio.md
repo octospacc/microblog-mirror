@@ -9,10 +9,14 @@ link: >
   https://octospacc.altervista.org/2024/12/28/nincamera-silenzio/
 published: true
 tags:
+  - 3DS
+  - camera
   - CFW
+  - fotocamera
   - Nintendo
   - Nintendo3DS
   - patch
+  - rumore
   - ShutTheCamUp
 categories:
   - Senza categoria

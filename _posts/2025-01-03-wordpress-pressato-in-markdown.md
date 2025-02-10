@@ -30,8 +30,8 @@ canonical_url:   https://octospacc.altervista.org/2025/01/03/wordpress-pressato-
 <p></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":13138,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="{{site.cdnurl}}/assets/uploads/2025/01/image-1-960x542.png" alt="Schermata del foglio XSLT davanti, sullo sfondo di nascosto lo script sh e uno dei file Markdown generati" class="wp-image-13138"/><figcaption class="wp-element-caption">Ovvio, a posteriori è tutto banale — corollario di Murphy — però, se mi fosse venuta in mente prima questa come soluzione, mi sarei risparmiata <a href="/microblog-mirror/2024/02/14/finalmente-backup-veri/">qualche mal di capa quasi un anno fa fino ad ora</a>... e <a href="https://sitoctt.octt.eu.org/it/blog/2022-12-13-%EF%B8%8F-Il-blogging-rapido-con-Standard-Notes/#unesigenza-veloce">qualche scelta forse un po' scomodina ancora più tempo prima</a>. 🥴</figcaption></figure>
+<!-- wp:image {"id":16384,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="{{site.cdnurl}}/assets/uploads/2025/01/image-1-1-960x542.png" alt="Schermata del foglio XSLT davanti, sullo sfondo di nascosto lo script sh e uno dei file Markdown generati" class="wp-image-16384"/><figcaption class="wp-element-caption">Ovvio, a posteriori è tutto banale — corollario di Murphy — però, se mi fosse venuta in mente prima questa come soluzione, mi sarei risparmiata <a href="/microblog-mirror/2024/02/14/finalmente-backup-veri/">qualche mal di capa quasi un anno fa fino ad ora</a>... e <a href="https://sitoctt.octt.eu.org/it/blog/2022-12-13-%EF%B8%8F-Il-blogging-rapido-con-Standard-Notes/#unesigenza-veloce">qualche scelta forse un po' scomodina ancora più tempo prima</a>. 🥴</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -55,5 +55,5 @@ canonical_url:   https://octospacc.altervista.org/2025/01/03/wordpress-pressato-
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>(Per chi non sa leggere: viene usato "<code>&lt;!-- wp:item /--></code>" come separadore, quindi quello deve essere usato per splittare. Opzionalmente si possono aggiungere e modificare i filtri XPath usati nel <code>xsl:for-each</code> per includere ed escludere tipi di robe, ad esempio includere solo i post, o solo le pagine pubbliche, nonché aggiungere e togliere proprietà ai metadati YAML... però di base è già alla massima goduria!!!)</p>
+<p>(Per chi non sa leggere: viene usato "<code>&lt;!-- wp:item /--&gt;</code>" come separadore, quindi quello deve essere usato per splittare. Opzionalmente si possono aggiungere e modificare i filtri XPath usati nel <code>xsl:for-each</code> per includere ed escludere tipi di robe, ad esempio includere solo i post, o solo le pagine pubbliche, nonché aggiungere e togliere proprietà ai metadati YAML... però di base è già alla massima goduria!!!)</p>
 <!-- /wp:paragraph -->
